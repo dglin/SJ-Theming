@@ -1,0 +1,324 @@
+/**********************
+ Layout Elements
+ **********************/
+
+/* Make the container go all the way to the bottom of the topbar */
+body {
+    padding-top: 60px;
+}
+
+.center-contents {
+    text-align: center !important;
+}
+
+.portletHeader {
+    width:100%;
+    background-color: #bc0004;
+    padding: 0.5em 0 0.5em 0.5em;
+}
+
+.portletHeader,
+.portletHeader a,
+.portletHeader a:hover {
+    color: white;
+}
+
+#portal-personaltools {
+    margin: 0;
+    background-color: #bc0004;
+    border: 2px solid #bc0004;
+    border-radius: 0 0 0 5px;
+}
+
+#portal-personaltools a {
+    color: white !important;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+#portal-personaltools a:hover {
+    color: white !important;
+}
+
+.carousel-banners {
+    margin:0 auto;
+}
+
+.carousel-pager {
+    text-align: center;
+    margin-top:10px;
+}
+
+/* BE CAREFUL WITH THIS!
+ * May unintentionally affect some pages
+ */
+#content-core > dl > dt,
+#content-core > .item {
+    text-align: center;
+}
+
+/**********************
+ Table Styling
+ **********************/
+
+/* Existing code for some reason puts styling in .invisible class.
+ * To counteract this without changing existing code, these changes are made.
+ *
+ * IMPORTANT: For existing table.invisible, make sure to add .tablepad
+ */
+.invisible {
+    visibility: visible;
+}
+
+.tablepad td {
+    padding: 0.5em 1em;
+}
+
+table {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.valign-top {
+    vertical-align: text-top;
+}
+
+.tdwidth-160 {
+    width:160px;
+}
+
+.tdwidth-100 {
+    width: 100px;
+}
+
+
+
+/**********************
+ Navigation Bar
+ **********************/
+
+#tabs > .selected > a,
+#tabs > .active > a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#tabs > .selected,
+#tabs > .active{    
+    background-color: #8f0003;
+}
+
+#tabs > li {
+    width: 100px;
+    height:110px;
+}
+
+#tabs > li:hover > a {
+    height:78%;
+}
+
+#tabs > li > ul {
+    display:none;
+}
+
+#tabs > li:hover {
+    background-color: #8f0003;
+}
+
+#tabs > li:hover > ul {
+    display: block;
+    width: 400px;
+    background-color: #8f0003;
+    margin-left: 0;
+    word-wrap: normal;
+    position: absolute;
+    z-index: 999999;
+    overflow: hidden;
+}
+
+#tabs > li > ul > li {
+    padding: 5px 10px;
+}
+
+#tabs > li > ul > li:hover {
+    background-color: #bc0004;
+}
+
+
+/**********************
+ Footer
+ **********************/
+
+#footer {
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: solid #eee 1px;
+    background-color: #8b7663;
+    margin-left: 0px;
+}
+
+#footer a,
+#footer p {
+    color: white;
+    font-size: 11px;
+}
+
+#footer li {
+    list-style: none;
+}
+
+#portal-siteactions li {
+    display: inline;
+    margin: 0 5px;
+}
+
+
+/**********************
+ Fonts
+ **********************/
+
+h2, h3, h4, h5, h6 {
+    font-size: 1em;
+}
+
+h1 {
+    text-align: center;
+    font-size:130%;
+    color: #c00016
+}
+
+.documentByLine {
+    font-size: 85%;
+}
+
+
+/**********************
+ Right and Left Content Columns
+ **********************/
+
+#right-column p {
+    font-size: 12px;
+}
+
+#right-column dd a {
+    color: #333333;
+}
+
+#right-column dd a:hover {
+    color: #bc0004;
+}
+ 
+.navTreeLevel0 {
+    margin: 0;
+}
+
+.navTree a {
+    color: #333333;
+}
+
+.navTreeCurrentNode > a {
+    color: #c00016;
+}
+
+.navTree {
+    overflow:hidden;
+    word-wrap: normal;
+}
+
+.navTree ul, 
+.navTree ol {
+    margin: 0 0 9px 10px;
+}
+
+.nav > li > ul > li {
+    padding-bottom: 5px;
+}
+
+.navbar-inner > .container {
+    width: 100%;
+}
+
+#left-column {
+    margin-left: 0;
+}
+
+.navTreeItem img {
+    margin-right: 5px;
+}
+
+
+/*************************
+ * ABOUT TABLES
+ *************************/
+
+.aboutTable {
+	width: 100%;
+}
+.aboutTable td {
+	padding-top:10px;
+    min-width:100px;
+}
+.aboutTable-img {
+	width:30%;
+	padding-right:10px;
+    text-align:center;
+}
+.aboutTable-img img{
+	width:100%;
+    max-width:150px;
+}
+.aboutTable-content {
+	width:70%;
+	font-size: 13px;
+}
+.aboutTable-name {
+	font-size: 15px;
+}
+.aboutTable-descrip {
+	padding-left: 15px;
+}
+.aboutTable-links {
+	padding-left:0px;
+}
+.aboutTable-links li {
+	list-style-type:none;
+}
+
+
+/*************************
+ * MEDIA QUERIES
+ *************************/
+
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 100%;
+    }
+    .logo {
+        width: 90%;
+        margin: 0 20px 10px 20px;
+    }
+}
+
+@media screen and (max-width: 705px) {
+    .span3 {
+        width: 18%;
+    }
+}
+
+
+
+
+/* Custom Classes */
+
+.SRTPResearchGrantTitles{
+    font-size: 1.3em;
+    color: #c00016;
+}
+
+/* Bootstrapped center images since editor seems to be broken */
+.centerIMG{
+    display: block;
+    margin: 0 auto;
+}
