@@ -1,0 +1,2011 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><meta charset="UTF-8" /><base href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis/u-c-davis" /><title>Sustainability Programs and Institutes — Dr. Suad Joseph</title><link rel="stylesheet" type="text/css" media="screen" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/reset-cachekey-b523e11c3ea65bc0698a632d6a3cf3ff.css" /><link rel="stylesheet" type="text/css" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/base-cachekey-773404d5602ba9bd07c9aa795ecd3693.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.overlays-cachekey-477e0dddacfbb621e153837dfae4aceb.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/resourcejquery.datatablesmediacssjquery.dataTables-cachekey-a8081da1c851c2fa9a2c76d46e6c7011.css" /><link rel="canonical" href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis/u-c-davis" /><link rel="shortcut icon" type="image/x-icon" href="http://sjoseph.ucdavis.edu/favicon.ico" /><link rel="apple-touch-icon" href="http://sjoseph.ucdavis.edu/touch_icon.png" /><link rel="search" href="http://sjoseph.ucdavis.edu/@@search" title="Search this site" /><style type="text/css" media="screen">@import url(http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-4d5a97ac344d2c57a93a855501b4fa51.css);</style><style type="text/css">@import url(http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/plomino-cachekey-6fb3e26e2c3dfa03cb1cd9e251748701.css);</style><script type="text/javascript" src="http://sjoseph.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-fb559e5185bcb4a57330b46b1b1d6c7f.js"></script><script type="text/javascript" src="http://sjoseph.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourceplomino.javascriptplomino.debug-cachekey-1ef0fa3bdcc8bcb0b1b2e89090b0dae4.js"></script><script type="text/javascript" src="http://sjoseph.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourcejquery.datatables-cachekey-358f4c2085c33bc369ebdc3ab284b290.js"></script><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="generator" content="Plone - http://plone.org" /><meta name="viewport" content="width=device-width" /><link rel="stylesheet" href="/++theme++quintagroup.theme.sliced/css/sliced.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/social.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.css" /><link href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic" rel="stylesheet" type="text/css" /><style type="text/css" media="screen">
+		.nav_center_block .portal-logo {
+          	opacity: 1 !important;
+    		}
+    	.top-image .portal-logo {
+			display: none;
+    		}
+    	.nav_center_block .portal-logo {
+			display:block !important;
+			text-align:left;
+    		}
+    	.nav-wrapper #theme-globalnav {
+			text-align: left;
+			}
+    
+		.top-panels-wrap input.searchField, .panel-below-content .LSBox input.searchField,
+		#portal-megamenu input.searchField, .top-panels-wrap input.searchField {
+			background-color: #97d5de;
+			border-color: #97d5de;
+			}
+	
+		.panel-below-content dl.portlet .livesearchContainer a,
+		.panel-below-content dl.portlet a:hover, .panel dl.portlet.portletOWLCarousel .itemDate, 
+		.panel .portletOWLCarousel .itemDate {
+			color: #97d5de !important;
+			}
+	</style><script type="text/javascript" src="/++theme++quintagroup.theme.sliced/js/viewportchecker.js"></script><script type="text/javascript" src="/++theme++quintagroup.theme.sliced/js/navigationslide.js"></script><script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.panel .cell').addClass("hidden").viewportChecker({
+                classToAdd: 'visible animated fadeInUp',
+                offset: 100    
+               });   
+            jQuery('.top-image').addClass("hidden").viewportChecker({
+                classToAdd: 'visible animated fadeInUp',
+                offset: 100    
+               });   
+        });            
+    </script><link rel="stylesheet" type="text/css" media="all" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/ploneCustom-cachekey-a0d83d21a6a40b0ebcfcfeaeb18f37b9.css" /><style>
+                #portal-columns {
+                    max-width: 960px;
+                    margin: 0 auto;
+                    position: relative;
+                    }
+                #content-core .listing.event,
+                #portal-column-content {
+                    width:66% !important;
+                    }   
+                #portal-column-one.width-1\3a 4,
+                #portal-column-two.width-1\3a 4  {
+                    width: 31.666667%;
+                    }
+                #portal-column-two.position-3\3a 4 {
+                    margin-left: -31.666667%;
+                    }
+                #portal-column-content.position-1\3a 4 {
+                    margin-left: -66%;
+                    }
+                #content div.newsImageContainer {
+                    width: 48.75%;
+                    }
+                @media only screen and (max-width: 767px) {    
+                    #content div.newsImageContainer {
+                        width: 100%;
+                        }                    
+                    }
+                </style></head><body class="sliced-theme template-document_view portaltype-document site-Plone section-bcbcb subsection-bcbcb-projects subsection-bcbcb-projects-sustainability-projects subsection-bcbcb-projects-sustainability-projects-uc-davis userrole-anonymous" dir="ltr"><div id="visual-portal-wrapper">
+        
+        <div id="portal-top" class="row">
+            <div class="cell width-full position-0">
+                <div id="portal-header">
+                    <div class="top-block">
+                        <div class="top-block-wrap">
+                            <div id="portal-searchbox">
+
+    <form id="searchGadget_form" action="http://sjoseph.ucdavis.edu/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" placeholder="Search Site" accesskey="4" class="searchField" id="searchGadget" /><div class="fa fa-search"><input class="searchButton" type="submit" value="Search" /></div><div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/Plone/bcbcb/bcbcb-projects/sustainability-projects/uc-davis" /><label for="searchbox_currentfolder_only" style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://sjoseph.ucdavis.edu/@@search" accesskey="5">
+            Advanced Search…
+        </a>
+    </div>
+
+</div>
+                            <div id="portal-personaltools-wrapper">
+
+<p class="hiddenStructure">Personal tools</p>
+
+
+
+<ul class="actionMenu deactivated" id="portal-personaltools"><li id="anon-personalbar">
+    
+        <a href="http://sjoseph.ucdavis.edu/caslogin?passback=http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis/u-c-davis/document_view" id="personaltools-CAS login">CAS Log In</a>
+    
+  </li>
+</ul></div>
+                        </div>
+                    </div>
+                    <div class="nav-wrapper">
+                        <div class="nav_center_block">
+                            <!--<a href="" title="Home" class="portal-logo">
+                                <img width="348" height="99" src="images/logo.png" />
+                            </a> -->
+                            <ul id="theme-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://sjoseph.ucdavis.edu" class="plain" title="">Home</a></li><li id="portaltab-ewic" class="plain"><a href="http://sjoseph.ucdavis.edu/ewic" class="plain" title="Encyclopedia of Women and Islamic Cultures">Encyclopedia of Women and Islamic Cultures</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/overview.htm" class="state-published" title="">
+            
+            EWIC: Volumes and Supplements
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-editors" class="state-published" title="">
+            
+            EWIC Editors
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview" class="state-published hasDropDown" title="">
+            
+            EWIC Preview
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview/EWIC_Preview.htm" class="state-published" title="">
+            
+            Encyclopedia of Women and Islamic Cultures: Previews
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-arabic-translation" class="state-published" title="">
+            
+            EWIC Arabic Translation
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/Images_Homepage/old-plone-logos/bibliography.pdf" class="state-published" title="">
+            
+            EWIC Bibliography
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database" class="state-published hasDropDown" title="">
+            
+            EWIC Scholars Database
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database/viewScholar" class="state-published" title="">
+            
+            Search Results
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/the-scholars-and-scholarship-project" class="state-published" title="">
+            
+            The Scholars and Scholarship Project
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-reviews" class="state-published" title="">
+            
+            EWIC Reviews
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-author-guidelines" class="state-published" title="">
+            
+            EWIC Author Guidelines
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/carousel" class="state-published" title="">
+            
+            EWIC Home Slideshow
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-public-outreach-resources" class="state-published" title="">
+            
+            EWIC Outreach Project
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-arab-families-working-group-1" class="plain"><a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1" class="plain" title="">Arab Families Working Group</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us" class="state-published hasDropDown" title="">
+            
+            About Us
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/core-group" class="state-published" title="">
+            
+            Core Group Members
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/acknowledgements" class="state-published" title="">
+            
+            AFWG Thanks!
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/contact-us" class="state-published" title="">
+            
+            Contact Us
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://www.arabfamilies.org/sites/sv3.drupalgardens.com/files/afwgdocuments/AFWG-FREQUENTLY%20ASKED%20QUESTIONS%20page_revised_2-20-13.pdf" class="state-published" title="">
+            
+            FAQ
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/afwg-alumni" class="state-published" title="">
+            
+            AFWG Alumni
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training" class="state-published hasDropDown" title="">
+            
+            Research Design and Proposal Writing
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/invitation-application-materials" class="state-published" title="">
+            
+            Invitation and Application Materials
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/workshops" class="state-published" title="">
+            
+            Past Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-materials-in-arabic-and-english" class="state-published" title="">
+            
+            Training Materials in Arabic
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-materials-in-english" class="state-published" title="">
+            
+            Training Materials in English
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/research-design-and-proposal-writing-resources" class="state-published" title="">
+            
+            Research Design and Proposal Writing Resources
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-to-engaged-research-october-2014/view" class="state-missing-value" title="">
+            
+            Training to Engaged Research October 2014
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants" class="state-published hasDropDown" title="">
+            
+            Fellowships and Grants
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/funding-opportunities-by-month" class="state-published" title="">
+            
+            Funding Opportunities by Month
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/funding-opportunities-for-faculty-and-post-docs" class="state-published" title="">
+            
+            Funding Opportunities for Faculty and Post Docs
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/funding-opportunities-for-graduate-students" class="state-published" title="">
+            
+            Funding Opportunities for Graduate Students
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/foundations-supporting-research-in-the-middle-east" class="state-published" title="">
+            
+            Foundations Supporting Research in the Middle East
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/scholars-database-search" class="state-published hasDropDown" title="">
+            
+            AFWG Scholars' Database
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/scholars-database-search/afwg-database-contributor-template" class="state-published" title="">
+            
+            Database Contributor Template
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/scholars-database-search/afwg-scholars-database-search" class="state-published" title="">
+            
+            Search the Scholar Database
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/resources" class="state-published hasDropDown" title="">
+            
+            Resources
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/resources/syllabi-project" class="state-published" title="">
+            
+            Syllabi Project
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications" class="state-published hasDropDown" title="">
+            
+            Publications
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/afwg-volumes-1" class="state-published" title="">
+            
+            AFWG Volumes
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/podcasts" class="state-published" title="">
+            
+            Podcasts
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/bibliographies" class="state-published" title="">
+            
+            Bibliographies
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/journal-publications" class="state-published" title="">
+            
+            Journal Publications
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/policy-briefs" class="state-published" title="">
+            
+            Policy Briefs
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects" class="state-published hasDropDown" title="">
+            
+            AFWG Research Projects
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects/research-projects-2013-2015" class="state-published" title="">
+            
+            Research Projects 2012-2016
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects/research-projects-2006-2011" class="state-published" title="">
+            
+            Research Projects 2006-2011
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects/research-projects-2001-2005" class="state-published" title="">
+            
+            Research Projects 2001-2005
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences" class="state-published hasDropDown" title="">
+            
+            Conferences
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/research-proposal-workshops" class="state-published" title="">
+            
+            Research &amp; Proposal Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/research-to-policy-workshop" class="state-published" title="">
+            
+            Research To Policy Workshop
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/media-training-workshops" class="state-published" title="">
+            
+            Media Training Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/stakeholder-workshops" class="state-published" title="">
+            
+            Stakeholder Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/core-group-workshops" class="state-published" title="">
+            
+            Core Group Workshops
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/arab-families-working-group-1" class="state-published" title="">
+            
+            Arab Families Working Group
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-media-project" class="plain"><a href="http://sjoseph.ucdavis.edu/media-project" class="plain" title="">Media Project</a></li><li id="portaltab-bcbcb" class="selected"><a href="http://sjoseph.ucdavis.edu/bcbcb" class="plain" title="">BCBCB Consortium</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb" class="state-published hasDropDown" title="">
+            
+            About BCBCB
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb/history-of-bcbcb-1" class="state-published" title="">
+            
+            Background
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb/steering-committee" class="state-published" title="">
+            
+            Steering Committee
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb/history-of-bcbcb" class="state-published" title="">
+            
+            Chronology of BCBCB
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects" class="state-published hasDropDown" title="">
+            
+            BCBCB Projects
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects" class="state-published hasDropDown" title="">
+            
+            Gender Projects and News
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/gender-project" class="state-published" title="">
+            
+            Gender and Family Project
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/u-c-davis" class="state-published" title="">
+            
+            UC Davis
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/american-university-in-cairo-auc" class="state-published" title="">
+            
+            American University in Cairo (AUC) 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/lebanese-american-university-lau" class="state-published" title="">
+            
+            Lebanese American University (LAU)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/birzeit-university" class="state-published" title="">
+            
+            Birzeit University
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/american-university-of-beirut-aub" class="state-published" title="">
+            
+            American University of Beirut (AUB)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/american-university-of-sharjah-aus" class="state-published" title="">
+            
+            American University of Sharjah (AUS)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/genetics-projects" class="state-published" title="">
+            
+            Genetics Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/law-projects" class="state-published" title="">
+            
+            Law Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/public-health-medicine-project" class="state-published" title="">
+            
+            Public Health and Medicine Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects" class="state-published hasDropDown" title="">
+            
+            Sustainability Projects and News
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-of-beirut-aub" class="state-published" title="">
+            
+            American University of Beirut (AUB)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-in-cairo-auc" class="state-published" title="">
+            
+            American University in Cairo (AUC) 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/birzeit-university" class="state-published" title="">
+            
+            Birzeit University
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/lebanese-american-university-lau" class="state-published" title="">
+            
+            Lebanese American University (LAU)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis" class="state-published" title="">
+            
+            UC Davis
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-of-sharjah-aus" class="state-published" title="">
+            
+            American University of Sharjah (AUS)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/water-projects" class="state-published" title="">
+            
+            Water Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/srtp-online-curriculum" class="state-published" title="">
+            
+            SRTP Online Curriculum
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+                </ul></li><li id="portaltab-workshops" class="plain"><a href="http://sjoseph.ucdavis.edu/workshops" class="plain" title="">Proposal Writing Workshops and Resources</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops" class="state-published hasDropDown" title="">
+            
+            All Workshops
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/acss-workshops" class="state-published" title="">
+            
+            ACSS Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/test" class="state-published" title="">
+            
+            AFWG Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/faculty-proposal-workshops" class="state-published" title="">
+            
+            Faculty Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/graduate-proposal-workshops" class="state-published" title="">
+            
+            Graduate Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/trgr" class="state-published" title="">
+            
+            OSF Workshops
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/proposal-writing-resources" class="state-published" title="">
+            
+            Proposal Writing Resources
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-sustainability-research-training-program" class="plain"><a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program" class="plain" title="">Sustainability Research &amp; Training Program</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program" class="state-published" title="">
+            
+            SRTP Research Grants
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-curriculum" class="state-published" title="">
+            
+            SRTP Online Curriculum
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/indices-of-sustainability" class="state-published" title="">
+            
+            Indices of Sustainability
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/the-sustainable-city-dubai" class="state-published" title="">
+            
+            The Sustainable City-Dubai
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/sustainability-research" class="state-published" title="">
+            
+            Sustainability Research
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-history" class="state-published" title="">
+            
+            SRTP History
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/sustainability-research-and-training-program-directory-in-progress" class="state-published" title="">
+            
+            Sustainability Research and Training Program Directory (in progress)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/phd-fellowship-program-in-sustainability-studies" class="state-published" title="">
+            
+            PhD Fellowship Program in Sustainability Studies
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-training-to-transformative-gender-research" class="plain"><a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research" class="plain" title="">Training to Transformative Gender Research</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research/trainers" class="state-published" title="">
+            
+            Trainers
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research/resources" class="state-published" title="">
+            
+            Resources
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+
+        
+    
+</li>
+                </ul></li></ul></div>
+                    </div>
+                    <div class="top-image">
+                        
+        <a class="portal-logo" href="http://sjoseph.ucdavis.edu"><img src="http://sjoseph.ucdavis.edu/logo.png" alt="Dr. Suad Joseph" title="Dr. Suad Joseph" height="56" width="215" /></a>
+    
+                        <div class="slogan">
+         
+    </div>
+                    </div>
+                </div>
+
+                <div class="top-panels-wrap">
+                    <div class="panels"></div>
+                </div>
+            </div>
+        </div>
+        <div class="main-section">
+            <div id="portal-columns">
+                <div id="portal-column-content" class="cell width-3:4 position-1:4">
+                    <div id="viewlet-above-content">
+<div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://sjoseph.ucdavis.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://sjoseph.ucdavis.edu/bcbcb">BCBCB Consortium</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects">BCBCB Projects</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-3" dir="ltr">
+        
+            <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects">Sustainability Projects and News</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-4" dir="ltr">
+        
+            <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis">UC Davis</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-5" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Sustainability Programs and Institutes</span>
+         
+    </span>
+
+</div>
+
+<div id="portlets-above" class="row">
+    
+    
+</div>
+
+
+</div>
+                    
+                    <div id="content"><div id="viewlet-above-content-title"></div><h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Sustainability Programs and Institutes
+                </h1><div id="viewlet-below-content-title">
+
+<div id="portlets-below" class="row">
+
+     
+     
+</div>
+
+
+</div><div id="content-core">
+                                 
+    
+        
+        <div class="" id="parent-fieldname-text-56d59c0d1b01407b907b7d5429e8b3da">
+            <h2 style="text-align: center; "><img src="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/UCDlogofixed2.gif/@@images/9198c065-2664-4a23-9f12-813bfd7e393a.jpeg" alt="UCD Logo" class="image-inline" title="UCD Logo" /></h2>
+<p class=" " style="text-align: left; "><strong><a class="external-link" href="http://asi.ucdavis.edu/front-page" target="_self" title="">Agricultural Sustainability Institute</a></strong><span> </span></p>
+<p style="padding-left: 30px; ">The ASI provides a hub that links initiatives and education in sustainable agriculture and food systems across all divisions of the College of Agricultural and Environmental Sciences at UC Davis, across the University of California, and with other partners across the State of California.</p>
+<p style="padding-left: 90px; "><em><a class="external-link" href="http://asi.ucdavis.edu/rr" target="_self" title="">Russell Ranch Sustainable Agriculture Facility<br /></a></em></p>
+<p style="padding-left: 120px; ">The Russell Ranch Sustainable Agriculture Facility is a unique 300-acre facility near the UC Davis campus dedicated to investigating irrigated and dry-land agriculture in a Mediterranean climate. Among Russell Ranch’s ongoing experiments is a 100-year study referred to as the <span class="external-link">Century Experiment (formerly known as LTRAS-Long Term Research on Agricultural Sustainability)</span>, which is comprised of 72 one-acre plots. We measure the long-term impacts of crop rotation, farming systems (conventional, organic and mixed) and inputs of water, nitrogen, carbon and other elements on agricultural sustainability. Sustainability is indicated by long-term trends in yield, profitability, resource-use efficiency (such as water or energy) and environmental impacts.</p>
+<p style="padding-left: 90px; "><em></em><em><a class="external-link" href="http://asi.ucdavis.edu/sf" target="_self" title="">The Student Farm<br /></a></em></p>
+<p style="padding-left: 120px; ">Since its inception in 1977, the Student Farm has served the UC Davis students and faculty, farmers, gardeners, school children and many others. The Student Farm offers internships, formal courses and research projects for students to learn about and explore the many aspects of sustainable agriculture and centers around: 1) A focus on sustainable agriculture principles and practices, 2) An emphasis on in-field, experiential learning, and 3) The encouragement of student initiative, creativity and exploration.</p>
+<p style="padding-left: 90px; "><em></em><em><a class="external-link" href="http://asi.ucdavis.edu/programs/sarep" target="_self" title="">Sustainable Agriculture Research and Education Program (SAREP)</a></em></p>
+<p style="padding-left: 120px; ">SAREP provides leadership and support for scientific research and education in agricultural and food systems that are economically viable, conserve natural resources and biodiversity, and enhance the quality of life in the state's communities. SAREP serves farmers, farmworkers, ranchers, researchers, educators, regulators, policy makers, industry professionals, consumers, and community organizations across the state. </p>
+<p style="padding-left: 90px; "><em><a class="external-link" href="http://asi.ucdavis.edu/programs/sf/children-and-youth" target="_self" title=""><span style="text-align: center; ">K12 Garden and Farm Education</span><span style="text-align: center; "> </span></a></em></p>
+<p style="padding-left: 120px; ">The School Gardening Program at the Student Farm, formerly known as the Children's Garden Program, began more than 20 years ago as a small student-initiated project and since then has evolved into a flourishing environmental education resource popular with teachers and students.  The Program serves elementary students and older youth through experiential field trips to our site, and works with teachers, parent volunteers, and the general public through hands-on workshops and resource development.</p>
+<p style="padding-left: 90px; "><em><a class="external-link" href="http://asi.ucdavis.edu/networks/infas" target="_self" title="">Inter-institutional Network for Food, Agriculture, and Sustainability (INFAS)</a></em></p>
+<p style="padding-left: 120px; ">Established in 2010 with an endowment from the W.K. Kellogg Foundation, the Inter-institutional Network for Food, Agriculture and Sustainability (INFAS) is a national network of university and college educators, researchers, and activists, representing 25 institutions and spanning 20 states, who collaborate in analysis, synthesis, and problem-solving with practitioners to increase U.S. food-system resilience; to illuminate critical trends and common stewardship of public goods essential for food systems, such as water, biodiversity, ecosystem services, and public institutions; and to reduce inequity and vulnerability in the U.S. food system. INFAS recognizes that our food system is profoundly inequitable and institutions of higher education hold power and privilege that can be used for good or harm. Equity in opportunity, food access and health outcomes is a non-negotiable foundational principle of a sustainable food system and a core value and commitment for the program. </p>
+<p style="padding-left: 120px; "> </p>
+<p><strong><a class="external-link" href="http://bml.ucdavis.edu/" target="_self" title="Bodega Marine Laboratory">Bodega Marine Laboratory</a></strong></p>
+<p style="padding-left: 30px; ">Bodega Marine Laboratory, a research unit of the University of California, Davis is dedicated to multi-disciplinary research aimed at solving complex environmental problems in coastal ecosystems. This specialized facility is equipped with a meteorological and oceanographic observation network, teaching classrooms, wet labs, seawater system, greenhouses, dive training facility, housing and conference facilities, vessel fleet, and more. The BML community includes faculty, researchers, visiting scientists, undergraduate and graduate students, staff and volunteers.</p>
+<p style="padding-left: 30px; ">Faculty and researchers are addressing a diverse array of basic and applied research problems, including the impacts of climate change on marine and atmospheric systems, invasive species, the effect of oil spills and other pollutants on diverse habitats and organisms, the effect of proposed energy gathering systems and marine protected areas on marine habitats and communities, and how changing productivity affects salmon and other species at the top of the food chain.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://www.cifar.ucdavis.edu/" target="_self" title="">California Institute of Food and Agricultural Research (CIFAR)</a></strong></p>
+<p style="padding-left: 30px; ">CIFAR is a California centered, global network and innovation hub focused on agri-food systems technologies and housed within the leading food science program in the United States.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://solar.ucdavis.edu/" target="_self" title="">California Solar Energy Collaborative</a></strong></p>
+<p style="padding-left: 30px; ">The mission of the California Solar Energy Collaborative (CSEC) is to assist the State, key stakeholders, and the Energy Commission in developing and expanding the utilization of solar power in California, consistent with the California Solar Initiative (CSI) which has set a target of installing 3000 MW of solar power generation capacity in California by 2017, and with California's overall renewable energy goals, as articulated in the Renewables Portfolio Standard (RPS), and greenhouse gas reduction targets, as articulated in Assembly Bill 32.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://environmentalpolicy.ucdavis.edu/" target="_self" title="">Center for Environmental Policy and Behavior (CEPB)</a></strong></p>
+<p style="padding-left: 30px; ">The mission of the Center for Environmental Policy and Behavior (CEPB) is scientific analysis of the interactions among policy institutions, human behavior, and political decisions in the context of environmental and natural resource conflicts. Through developing and testing theoretical models from social science, CEPB seeks to derive practical lessons that can be used to improve environmental policy.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://poverty.ucdavis.edu/" target="_self" title="">Center for Poverty Research</a></strong></p>
+<p style="padding-left: 30px; ">The Center for Poverty Research at UC Davis is one of three federally designated centers whose mission is to facilitate non-partisan academic research on poverty in the U.S., disseminate this research, and train the next generation of poverty scholars.  Our research agenda includes four themed areas of focus: labor markets and poverty, children and intergenerational transmission of poverty, the non-traditional safety net, and immigration.<span> </span></p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://cwee.ucdavis.edu/" target="_self" title="">Center for Water-Energy Efficiency (CWEE)</a></strong></p>
+<p style="padding-left: 30px; ">The Center seeks to 1) Identify, develop, and test innovative technologies and practices for aggressive improvements in water-energy efficiency, 2) Design policies and outreach activities that facilitate market access and penetration of innovative water–energy conservation strategies and technologies, and 3) Serve as a collaborative hub for universities, industrial partners, and government agencies to advance water-energy research, education, technology development, and policy assessment.<span></span></p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://eec.ucdavis.edu/" target="_self" title="">Energy Efficiency Center (EEC)</a></strong></p>
+<p style="padding-left: 30px; ">The EEC’s mission is to accelerate the development and commercialization of energy efficiency technologies and to train future leaders in energy efficiency. The EEC was established in 2006 with a challenge grant from the California Clean Energy Fund (CalCEF) as the first university-based energy efficiency center in the United States to focus on the transfer of technology into the marketplace. The EEC relies upon a strong public-private partnership and collaboration with industry, government, and university partners to meet the demands for innovation in energy efficiency, business development and the growing need for a trained labor force.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://energy.ucdavis.edu/" target="_self" title="">Energy Institute (EI), UC Davis Office of Research</a></strong></p>
+<p style="padding-left: 30px; ">UC Davis Energy Institute combines research, education, and outreach programs in energy science, technology, management, and policy to help facilitate the transition to a sustainable future and provide new energy solutions. A special program within the UC Davis Office of Research, the Institute focuses and coordinates energy research and education across the campus and partners with other campus, state, national, and international centers and institutes in fostering new innovations, expanding public service, and informing decision making in government, industry, and other sectors.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://environmentsandsocieties.ucdavis.edu/" target="_self" title="">Environment and Societies Program</a></strong><span> </span></p>
+<p style="padding-left: 30px; ">The UC Davis Research Initiative “Environments &amp; Societies: History, Literature, and Justice” builds cross-disciplinary collaboration in the environmental humanities and humanistic social sciences to undertake the broad rethinking of human-nature interactions that are critical to meeting the environmental challenges of our era.</p>
+<p><strong><a class="external-link" href="http://genomecenter.ucdavis.edu/" target="_self" title="">Genome Center</a></strong></p>
+<p style="text-align: left; padding-left: 30px; ">Established in 2003 the UC Davis Genome Center uses state-of-art-technologies to understand how the heritable genetic information of diverse organisms function in health and disease. The combination of cutting-edge research facilities, diverse service cores, and talented staff make the Genome Center a world class facility for genomics research and training.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://ice.ucdavis.edu/" target="_self" title="">Information Center for the Environment (ICE), Department of Environmental Science and Policy</a></strong></p>
+<p style="padding-left: 30px; ">ICE is an environmental information brokerage and research laboratory in the Department of Environmental Science &amp; Policy at the University of California, Davis, under the direction of Academic Director Jim Quinn and Managing Director Karen Beardsley. ICE specializes in the development and dissemination of geospatial data and technologies; the development of robust data architectures dedicated to the cataloging of global environmental information; and the creation of decision support systems geared toward improving the capabilities of resource managers in a variety of sectors.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://www.its.ucdavis.edu/" target="_self" title="">Institute of Transportation Studies (ITS)</a></strong></p>
+<p style="padding-left: 30px; ">The Institute of Transportation Studies at UC Davis (ITS-Davis) is the leading university center in the world on sustainable transportation. While our principal focus is research, we also emphasize education and outreach.<span> </span>The Institute is unique in hosting a graduate program in transportation, matching interdisciplinary research with interdisciplinary education. Our Transportation Technology and Policy (TTP) graduate curriculum draws from 34 different academic disciplines. We are partnering with government, industry and non-governmental organizations to inform policy making and business decisions, and advance public discourse on key transportation, energy and environmental issues.<span> </span>Our mission is to serve the needs of society by organizing and conducting multidisciplinary research on emerging and important transportation issues, disseminating this research through conferences and scholarly publications, and enhancing the quality and breadth of transportation education.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://johnmuir.ucdavis.edu/" target="_self" title="">John Muir Institute of the Environment (JMIE)</a></strong></p>
+<p style="padding-left: 30px; ">The John Muir Institute of the Environment supports innovation and discovery aimed at solving real-world environmental problems. The institute’s faculty are committed to strengthening the scientific foundation for environmental decision making through collective entrepreneurship, a team-oriented approach that recognizes the complexities of environmental problems and the societal context in which they occur. Under the direction of plant ecologist Professor Mark Schwartz, the John Muir Institute of the Environment champions science and technological innovation, provides campuswide leadership, hosts centers and projects, and seeds research and educational initiatives to solve real-world environmental problems. The institute links science and technology to policy by providing the intellectual setting for interactions between researchers, regulatory agencies, policymakers and the public</p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http://smallwatersystems.ucdavis.edu/" target="_self" title="">Center for Affordable Technologies for Small Water Systems (CATSWS)</a></em></p>
+<p class=" " style="text-align: left; padding-left: 120px; ">The Center for Affordable Technology for Small Water Systems (CATSWS) is a research center   that helps small rural water systems produce and deliver clean, safe drinking water.  The CATSWS specializes in designing, testing, and assessing technologies and techniques for such community-scale and home-scale water supplies, and in assessing and reporting on the condition of aquifers that may be affected by chemical and biological pollutants.<span>   </span></p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http://che.ucdavis.edu/" target="_self" title="">Center for Health and the Environment (CHE)</a></em></p>
+<p style="padding-left: 120px; ">The Center for Health and the Environment (CHE) is a center of excellence within UC Davis' John Muir Institute of the Environment (JMIE). The focus of research in CHE is the effect of environmental agents, including chemicals and radiation, on the health of humans, animals and other organisms. To investigate these issues, researchers at the CHE conduct epidemiologic studies in human populations, and experiments are performed with animals, organisms, cells, and molecules to measure environmental exposures as well as health outcomes associated with them. In addition, research on the development of agents for population control of humans and wildlife seeks to mitigate the adverse effects of overabundance on the environment. </p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http://che.ucdavis.edu/" target="_self" title=""></a></em><em><a class="external-link" href="https://watershed.ucdavis.edu/front?destination=node/116" target="_self" title="">Center for Watershed Sciences (CWS)</a></em></p>
+<p style="padding-left: 120px; ">The Center for Watershed Sciences is California's leading academic institute in water management. As an interdisciplinary research unit of the John Muir Institute of the Environment, the Center combines the talents of biologists, geologists, engineers, economists, legal scholars and others to help understand and solve California's complex water problems.</p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="https://watershed.ucdavis.edu/front?destination=node/116" target="_self" title=""></a></em><em><a class="external-link" href="http://conservationmanagement.ucdavis.edu/" target="_self" title="">Conservation Management Program (CMP)</a></em></p>
+<p style="padding-left: 120px; ">The Conservation Management Program promotes four tenets for successful conservation decision making: 1) A basic foundation in ecology is fundamental to developing the management and decision-making skills required to effectively manage ecosystems. This ecological foundation includes skills in statistics, experimental design and quantitative ecology. 2) Training in the social sciences of human ecology and environmental policy are required for conservation within the context of complex human cultures and stakeholder groups. 3) Practical skills for decision-making, planning and communication are essential for enabling scientists to step into leadership roles.<span> 4) </span>Integration and application of these various skills toward real conservation problems should be part of the graduate school experience.<span> </span>Our goal is to provide graduate training opportunities around these four tenets for students desiring careers in conservation.  </p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http://conservationmanagement.ucdavis.edu/" target="_self" title=""></a></em><em><a class="external-link" href="http://ej.ucdavis.edu/" target="_self" title="">Environmental Justice Project (EJP)</a></em></p>
+<p style="padding-left: 120px; ">The Environmental Justice Project is a multidisciplinary collaborative of academics and students at UC Davis from the humanities, sciences, and social sciences. We work in partnership with entities that are working on diverse environmental justice issues in California, particularly in Northern California and the Central Valley. The EJP strives to implement the principles of environmental justice in its teaching, research, and engagement. The EJP closes the gap between academic institutions and community-based organizations and regulatory agencies engaged with environmental justice issues.</p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http://ej.ucdavis.edu/" target="_self" title=""></a></em><em><a class="external-link" href="http://forestbiology.ucdavis.edu/" target="_self" title="">Forest Biology Research Center (FBRC)</a></em></p>
+<p style="padding-left: 120px; ">The overarching mission of the Forest Biology Research Center (FBRC) of the John Muir Institute of the Environment at UC Davis is to foster research and graduate education in Forest Biology. UC Davis is uniquely positioned to conduct research and graduate education in Forest Biology due to its proximity to the Sierra and Coastal Mountain forest ecosystems and its faculty expertise in all aspects of Forest Biology. The FBRC currently has a membership of 24 UC Davis faculty and affiliated members from the US Forest Service. </p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http://forestbiology.ucdavis.edu/" target="_self" title=""></a></em><em><a class="external-link" href="http://psrp.ucdavis.edu/" target="_self" title="">Public Service Research Program (PSRP)</a></em></p>
+<p style="padding-left: 120px; ">The Public Service Research Program (PSRP) is a unit in the UC Davis John Muir Institute of the Environment that fosters science outreach and communication and prepares students for careers as environmental professionals and scholars within or beyond academia. This section presents some history of PSRP and describes the evolution to the present programs and initiatives.</p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http://psrp.ucdavis.edu/" target="_self" title=""></a></em><em><a class="external-link" href="http://roadecology.ucdavis.edu/frontpage" target="_self" title="">Road Ecology Center (REC)</a></em></p>
+<p style="padding-left: 120px; ">The Road Ecology Center (REC) is the only center in the world that is devoted to road ecology research and education. Based at the University of California, Davis, it has hosted US and international scholars and has collaborated with entities in US counties, states, and other countries. The REC includes research in road effect zone modeling, field analysis of wildlife movement and collisions, online informatics to support volunteer scientists, air and noise pollution, impacts on water quality, transportation planning for sea level rise adaptation, and GIS modeling of connectivity and disturbance. The Center also hosts courses, workshops, and forums and co-organizes conferences in various fields related to road ecology. Join us in our research and education in improving the global surface transportation systems.</p>
+<p style="padding-left: 90px; "><em><a class="external-link" href="http://terc.ucdavis.edu/" target="_self" title="">Tahoe Environmental Research Center (TERC) </a></em></p>
+<p style="padding-left: 120px; ">The UC Davis Tahoe Environmental Research Center is a global leader in research, education, and public outreach on lakes that provides critical scientific information to help understand, restore, and sustain the Lake Tahoe Basin and other systems worldwide.</p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http:// http//terc.ucdavis.edu/" target="_self" title=""></a></em><em><a class="external-link" href="http://nrs.ucdavis.edu/" target="_self" title="">UC Natural Reserve System (NRS)</a></em></p>
+<p style="padding-left: 120px; ">The UC Natural Reserve System (NRS) is the largest and most diverse set of university-owned and operated reserves in the world. Its 36 reserves include examples of nearly every major ecosystem in the state. These reserves provide secure sites for long-term environmental research, education and public outreach. They enable monitoring of environmental health, and provide a baseline for ecosystem restoration, in the context of California's rapidly growing population and the changing global environment.<span> </span>The NRS makes relatively undisturbed samples of the state's natural ecosystems - and the facilities needed to support teaching and research - available not only to students, teachers, and researchers from the University of California, but to any qualified user from any institution, public or private, throughout the world.</p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http://nrs.ucdavis.edu/" target="_self" title=""></a></em><em><a class="external-link" href="http://www.werc.usgs.gov/Location.aspx?LocationID=4" target="_self" title="">USGS Western Ecological Research Station (WERC)</a></em></p>
+<p style="padding-left: 120px; ">The Pacific Southwest is the country's most ecologically rich and diverse area – it contains a dazzling array of habitats. The scientists of the Western Ecological Research Center reflect the diversity of this region with expertise in a wide range of disciplines. Their capabilities fulfill the varied needs of clients and partners, from ecological research, monitoring and technology development to basic biology and modeling. WERC is one of 18 Centers of the Biological Resources Discipline of the U.S. Geological Survey. Unlike most of BRD's Centers whose personnel are geographically centralized, WERC's scientists and staff are based in offices located throughout the Pacific Southwest. This diversity in location gives the scientists an in-depth understanding of the bioregions in which they reside that enables them to quickly meet high-priority client needs.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://ncst.ucdavis.edu/" target="_self" title="">National Center for Sustainable Transportation</a></strong><span> </span></p>
+<p style="padding-left: 30px; ">The National Center for Sustainable Transportation will help federal, state, regional, and local agencies reduce the greenhouse-gas emissions from passenger and freight travel that contribute to climate change. The goal of the National Center is to enhance the environmental sustainability of the United States’ transportation system through reduction in fossil fuel consumption and greenhouse gas emissions. The National Center is addressing the U.S. Department of Transportation’s strategic goal to advance environmentally sustainable policies and investments by asserting national leadership in reducing carbon emissions from transportation systems while supporting climate adaptation activities and continued mitigation of air pollution and other environmental impacts.<span></span></p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://policyinstitute.ucdavis.edu/" target="_self" title="">Policy Institute for Energy, Environment and the Economy</a></strong></p>
+<p style="padding-left: 30px; ">The UC Davis Policy Institute for Energy, Environment and the Economy (Policy Institute) leverages world-class university expertise and engages directly with decision-makers to deliver credible, relevant, and timely information and analysis to inform better energy and environmental policy.<span></span></p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://dining.ucdavis.edu/sustainability.html" target="_self" title="">Sustainability and UC Davis Dining Services</a></strong></p>
+<p style="padding-left: 30px; ">UC Davis Dining Services is committed to actively engaging in procedures, policies, and practices that foster sustainable solutions at the University of California, Davis. As a leader in providing healthy, well-balanced meals to the campus community and an enriched educational environment that foster a balance of mind, body, and soul, UC Davis Dining Services has developed an integrated sustainable food systems program in each of the campus dining commons, University Catering and several retail operations.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://sustainability.ucdavis.edu/" target="_self" title="">Sustainable 2<sup>nd</sup> Century: Campus Sustainability News and Events</a></strong></p>
+<p style="padding-left: 30px; ">The Sustainable 2nd Century celebrates UC Davis’ long-term commitment to environmental, economic and social sustainability. We use our strengths in teaching, research and public service to address society’s most pressing problems. Ideas that start on our campus — powered by faculty, students and staff — transform the world.<span></span></p>
+<p style="text-align: left; "><strong><a title="" href="http://sjoseph.ucdavis.edu/copy_of_sustainability-research-training-program" class="external-link" target="_self">Sustainability Research and Training Program</a></strong></p>
+<p style="padding-left: 30px; ">The Sustainability Research and Training Program (SRTP) is a collaborative project of the University of California, Davis (UC Davis) and the Diamond Developers (DD) of Dubai, UAE.  In March 2014, UC Davis and DD signed an agreement which would promote research and training regarding the technologies and social conditions entailed in building, living in, and maintaining communities designed for sustainable living.  DD is building such a community, which they have named the Sustainable City in Dubai. The Sustainable City will serve as a living laboratory much of the research.  The vision of the program is for interdisciplinary collaborative research with partners from the various BCBCB Consortium universities. The projects will engage faculty from the social sciences, physical sciences and engineering.  Research will focus on water, soil, solid waste management, organic food production, renewable energy, and the social conditions and experiences entailed in building, living in, and maintaining communities designed for sustainable living.  </p>
+<p style="text-align: left; "><strong><a class="external-link" href="https://extension.ucdavis.edu/" target="_self" title="">UC Davis Extension</a></strong></p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http:// http//extension.ucdavis.edu/unit/business_and_management/certificate/energy_resource_management/" target="_self" title=""></a></em><em><a class="external-link" href="https://extension.ucdavis.edu/areas-study/environment-and-sustainability" target="_self" title="">Environment and Sustainability Program Page/Sustainability Studies </a></em></p>
+<p style="padding-left: 120px; ">Environment and Sustainability is a multidisciplinary program that combines aspects of green building, sustainable design and energy to develop healthier communities and define effective ways to utilize energy and water.</p>
+<p style="padding-left: 120px; ">Recognizing the integrated nature of sustainable solutions, this unique collaboration allows students from a variety of sectors, including energy, planning and policy, environmental and water resources, and public health, to access practical, timely training and flexible certificate programs.</p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="https://extension.ucdavis.edu/areas-study/environment-and-sustainability" target="_self" title=""></a></em><em><a class="external-link" href="http://extension.ucdavis.edu/unit/green_building_and_sustainability/certificate/green_building_and_sustainable_design/" target="_self" title="">Green Building and Sustainable Design</a></em></p>
+<p style="padding-left: 120px; ">The <em>Professional Concentration in Green Building and Sustainable Design</em> addresses the trend of developing healthier communities by defining effective ways to utilize energy and promote water efficiency. The program combines elements from architecture, civil engineering, landscape architecture, environmental and land use planning, and construction management. Develop successful strategies for implementation of green building and sustainable design into site planning and design, building design and construction, and building management practices.</p>
+<p style="text-align: left; padding-left: 90px; "><em><a class="external-link" href="http://extension.ucdavis.edu/unit/green_building_and_sustainability/certificate/green_building_and_sustainable_design/" target="_self" title=""></a></em><em><a class="external-link" href="http://extension.ucdavis.edu/unit/green_building_and_sustainability/certificate/sustainability_and_the_built_environment/" target="_self" title="">Sustainability and the Built Environment Certificate Program</a></em></p>
+<p style="padding-left: 120px; ">UC Davis Extension's <em>Sustainability and the Built Environment Certificate Program</em> expands upon the highly successful Green Building and Sustainable Design classroom program. This certificate offers a comprehensive curriculum on how to plan, design, construct and manage communities from a more sustainable perspective. Learn about the latest planning approaches and policy/regulatory requirement; green architecture, sustainable site design and landscapes; renewable energy and energy efficiency; sustainable water resources management; and green infrastructure. Acquire the skills necessary to integrate sustainable design principles into long-range visions and the day-to-day development and management of the built environment.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://citris-uc.org/" target="_self" title="">UC Center for Information Technology Research in the Interest of Society (CITRIS)</a></strong></p>
+<p style="padding-left: 30px; ">The Center for Information Technology Research in the Interest of Society (CITRIS) was formed in 2001, when researchers within the UC system realized that the real opportunities lay not just in developing new and innovative technologies, but in <i>applying</i> them. CITRIS was established to address the most pressing social and environmental issues facing California. To meet this goal, we focus our research on four core initiatives: Energy, Health Care, Intelligent Infrastructure, and Data and Democracy.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://ucanr.edu/" target="_self" title=""> <span>UC Division of Agricultural and Natural Resources</span></a></strong></p>
+<p style="padding-left: 30px; ">The University of California's Division of Agriculture and Natural Resources is the bridge between local issues and the power of UC Research.  ANR's advisors, specialists and faculty bring practical, science-based answers to Californians. ANR works hand in hand with industry to enhance agricultural markets, help the balance of trade, address environmental concerns, protect plant health, and provide farmers with scientifically tested production techniques and Californians with increased food safety.</p>
+<p style="text-align: left; "><strong><a class="external-link" href="http://wcec.ucdavis.edu/" target="_self" title="">UC Western Cooling Efficiency Center</a></strong></p>
+<p style="padding-left: 30px; ">The Western Cooling Efficiency Center was established alongside the UC Davis Energy Efficiency Center in 2007 through a grant from the California Clean Energy Fund and in partnership with the California Energy Commission Public Interest Energy Research Program. The Center partners with industry stakeholders to stimulate the development of impactful cooling technologies that can enable reduced electrical demand, energy and water consumption in buildings.</p>
+            
+        </div>
+    
+    
+
+                             </div></div>
+                    <div id="viewlet-below-content">
+
+
+
+
+
+
+<div id="portlets-below" class="row">
+     
+     
+</div>
+
+
+</div>                    
+                </div>
+                <div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree"><dt class="portletHeader hiddenStructure">
+        
+        <a href="http://sjoseph.ucdavis.edu/sitemap" class="tile">Navigation</a>
+        
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0"><li class="navTreeItem visualNoMarker navTreeFolderish section-about-bcbcb">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>About BCBCB</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-bcbcb-projects">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="">
+            
+            <span>BCBCB Projects</span>
+        </a>
+
+        
+            <ul class="navTree navTreeLevel1"><li class="navTreeItem visualNoMarker navTreeFolderish section-gender-projects">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Gender Projects and News</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-genetics-projects">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/genetics-projects" class="state-published contenttype-document" title="">
+            
+            <span>Genetics Projects</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-law-projects">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/law-projects" class="state-published contenttype-document" title="">
+            
+            <span>Law Projects</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-public-health-medicine-project">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/public-health-medicine-project" class="state-published contenttype-document" title="">
+            
+            <span>Public Health and Medicine Projects</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-sustainability-projects">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="">
+            
+            <span>Sustainability Projects and News</span>
+        </a>
+
+        
+            <ul class="navTree navTreeLevel2"><li class="navTreeItem visualNoMarker section-american-university-of-beirut-aub">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-of-beirut-aub" class="state-published contenttype-document" title="">
+            
+            <span>American University of Beirut (AUB)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-american-university-in-cairo-auc">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-in-cairo-auc" class="state-published contenttype-document" title="">
+            
+            <span>American University in Cairo (AUC) </span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-birzeit-university">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/birzeit-university" class="state-published contenttype-document" title="">
+            
+            <span>Birzeit University</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-lebanese-american-university-lau">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/lebanese-american-university-lau" class="state-published contenttype-document" title="">
+            
+            <span>Lebanese American University (LAU)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-uc-davis">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="">
+            
+            <span>UC Davis</span>
+        </a>
+
+        
+            <ul class="navTree navTreeLevel3"><li class="navTreeItem visualNoMarker navTreeCurrentNode section-u-c-davis">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis/u-c-davis" class="state-published navTreeCurrentItem navTreeCurrentNode contenttype-document" title="">
+            
+            <span>Sustainability Programs and Institutes</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-contributors-1">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis/contributors-1" class="state-published contenttype-document" title="">
+            
+            <span>Sustainability Research and Training Program Directory (in progress)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+            </ul></li>
+
+
+<li class="navTreeItem visualNoMarker section-american-university-of-sharjah-aus">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-of-sharjah-aus" class="state-published contenttype-document" title="">
+            
+            <span>American University of Sharjah (AUS)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+            </ul></li>
+
+
+<li class="navTreeItem visualNoMarker section-water-projects">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/water-projects" class="state-published contenttype-document" title="">
+            
+            <span>Water Projects</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-srtp-online-curriculum">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/srtp-online-curriculum" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>SRTP Online Curriculum</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+            </ul></li>
+
+
+
+
+        </ul>
+        
+    </dd>
+</dl></div>
+
+
+
+
+            
+        </div>
+                
+            </div>
+        </div>
+        <div id="portal-footer-wrapper" class="row">
+            <div class="cell width-full position-0">
+                 
+
+                <ul id="portal-siteactions"><li id="siteaction-sitemap"><a href="http://sjoseph.ucdavis.edu/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-accessibility"><a href="http://sjoseph.ucdavis.edu/accessibility-info" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-contact"><a href="http://sjoseph.ucdavis.edu/contact-info" accesskey="9" title="Contact">Contact</a></li>
+</ul><div id="portal-footer">
+          <p class="copyright">
+               
+               
+               Copyright
+               <abbr title="Copyright">©</abbr>
+               2012-2016
+               by 
+               <a href="http://www.ucdavis.edu">UCDavis </a>and <a href="http://sjoseph.ucdavis.edu">Suad Joseph</a>
+              
+               
+
+               
+          </p>
+
+</div>
+                <div id="portal-colophon">
+<div class="colophonWrapper">
+<ul><li>
+    <a href="http://plone.org" title="This site was built using the Plone Open Source CMS/WCM.">
+      Powered by Plone &amp; Python</a>
+  </li>
+</ul></div>
+</div>
+                
+                </div>
+        </div>
+    </div><div id="main-bg">
+        <div></div>
+    </div><div class="themeComment hiddenStructure visualNoPrint">This is Sliced Diazo Plone Theme</div></body></html>
