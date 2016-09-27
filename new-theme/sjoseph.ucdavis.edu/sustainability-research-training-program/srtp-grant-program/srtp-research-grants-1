@@ -1,0 +1,1878 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><meta charset="UTF-8" /><base href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program/srtp-research-grants-1" /><title>SRTP Research Grants — Dr. Suad Joseph</title><link rel="stylesheet" type="text/css" media="screen" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/reset-cachekey-b523e11c3ea65bc0698a632d6a3cf3ff.css" /><link rel="stylesheet" type="text/css" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/base-cachekey-773404d5602ba9bd07c9aa795ecd3693.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.overlays-cachekey-477e0dddacfbb621e153837dfae4aceb.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/resourcejquery.datatablesmediacssjquery.dataTables-cachekey-a8081da1c851c2fa9a2c76d46e6c7011.css" /><link rel="canonical" href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program" /><link rel="shortcut icon" type="image/x-icon" href="http://sjoseph.ucdavis.edu/favicon.ico" /><link rel="apple-touch-icon" href="http://sjoseph.ucdavis.edu/touch_icon.png" /><link rel="search" href="http://sjoseph.ucdavis.edu/@@search" title="Search this site" /><style type="text/css" media="screen">@import url(http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-4d5a97ac344d2c57a93a855501b4fa51.css);</style><style type="text/css">@import url(http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/plomino-cachekey-6fb3e26e2c3dfa03cb1cd9e251748701.css);</style><script type="text/javascript" src="http://sjoseph.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-fb559e5185bcb4a57330b46b1b1d6c7f.js"></script><script type="text/javascript" src="http://sjoseph.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourceplomino.javascriptplomino.debug-cachekey-1ef0fa3bdcc8bcb0b1b2e89090b0dae4.js"></script><script type="text/javascript" src="http://sjoseph.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourcejquery.datatables-cachekey-358f4c2085c33bc369ebdc3ab284b290.js"></script><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="generator" content="Plone - http://plone.org" /><meta name="viewport" content="width=device-width" /><link rel="stylesheet" href="/++theme++quintagroup.theme.sliced/css/sliced.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/social.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.css" /><link href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic" rel="stylesheet" type="text/css" /><style type="text/css" media="screen">
+		.nav_center_block .portal-logo {
+          	opacity: 1 !important;
+    		}
+    	.top-image .portal-logo {
+			display: none;
+    		}
+    	.nav_center_block .portal-logo {
+			display:block !important;
+			text-align:left;
+    		}
+    	.nav-wrapper #theme-globalnav {
+			text-align: left;
+			}
+    
+		.top-panels-wrap input.searchField, .panel-below-content .LSBox input.searchField,
+		#portal-megamenu input.searchField, .top-panels-wrap input.searchField {
+			background-color: #97d5de;
+			border-color: #97d5de;
+			}
+	
+		.panel-below-content dl.portlet .livesearchContainer a,
+		.panel-below-content dl.portlet a:hover, .panel dl.portlet.portletOWLCarousel .itemDate, 
+		.panel .portletOWLCarousel .itemDate {
+			color: #97d5de !important;
+			}
+	</style><script type="text/javascript" src="/++theme++quintagroup.theme.sliced/js/viewportchecker.js"></script><script type="text/javascript" src="/++theme++quintagroup.theme.sliced/js/navigationslide.js"></script><script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.panel .cell').addClass("hidden").viewportChecker({
+                classToAdd: 'visible animated fadeInUp',
+                offset: 100    
+               });   
+            jQuery('.top-image').addClass("hidden").viewportChecker({
+                classToAdd: 'visible animated fadeInUp',
+                offset: 100    
+               });   
+        });            
+    </script><link rel="stylesheet" type="text/css" media="all" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/ploneCustom-cachekey-a0d83d21a6a40b0ebcfcfeaeb18f37b9.css" /><style>
+                #portal-columns {
+                    max-width: 960px;
+                    margin: 0 auto;
+                    position: relative;
+                    }
+                #content-core .listing.event,
+                #portal-column-content {
+                    width:66% !important;
+                    }   
+                #portal-column-one.width-1\3a 4,
+                #portal-column-two.width-1\3a 4  {
+                    width: 31.666667%;
+                    }
+                #portal-column-two.position-3\3a 4 {
+                    margin-left: -31.666667%;
+                    }
+                #portal-column-content.position-1\3a 4 {
+                    margin-left: -66%;
+                    }
+                #content div.newsImageContainer {
+                    width: 48.75%;
+                    }
+                @media only screen and (max-width: 767px) {    
+                    #content div.newsImageContainer {
+                        width: 100%;
+                        }                    
+                    }
+                </style></head><body class="sliced-theme template-document_view portaltype-document site-Plone section-sustainability-research-training-program subsection-srtp-grant-program subsection-srtp-grant-program-srtp-research-grants-1 userrole-anonymous" dir="ltr"><div id="visual-portal-wrapper">
+        
+        <div id="portal-top" class="row">
+            <div class="cell width-full position-0">
+                <div id="portal-header">
+                    <div class="top-block">
+                        <div class="top-block-wrap">
+                            <div id="portal-searchbox">
+
+    <form id="searchGadget_form" action="http://sjoseph.ucdavis.edu/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" placeholder="Search Site" accesskey="4" class="searchField" id="searchGadget" /><div class="fa fa-search"><input class="searchButton" type="submit" value="Search" /></div><div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/Plone/sustainability-research-training-program/srtp-grant-program" /><label for="searchbox_currentfolder_only" style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://sjoseph.ucdavis.edu/@@search" accesskey="5">
+            Advanced Search…
+        </a>
+    </div>
+
+</div>
+                            <div id="portal-personaltools-wrapper">
+
+<p class="hiddenStructure">Personal tools</p>
+
+
+
+<ul class="actionMenu deactivated" id="portal-personaltools"><li id="anon-personalbar">
+    
+        <a href="http://sjoseph.ucdavis.edu/caslogin?passback=http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program/srtp-research-grants-1/document_view" id="personaltools-CAS login">CAS Log In</a>
+    
+  </li>
+</ul></div>
+                        </div>
+                    </div>
+                    <div class="nav-wrapper">
+                        <div class="nav_center_block">
+                            <!--<a href="" title="Home" class="portal-logo">
+                                <img width="348" height="99" src="images/logo.png" />
+                            </a> -->
+                            <ul id="theme-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://sjoseph.ucdavis.edu" class="plain" title="">Home</a></li><li id="portaltab-ewic" class="plain"><a href="http://sjoseph.ucdavis.edu/ewic" class="plain" title="Encyclopedia of Women and Islamic Cultures">Encyclopedia of Women and Islamic Cultures</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/overview.htm" class="state-published" title="">
+            
+            EWIC: Volumes and Supplements
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-editors" class="state-published" title="">
+            
+            EWIC Editors
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview" class="state-published hasDropDown" title="">
+            
+            EWIC Preview
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview/EWIC_Preview.htm" class="state-published" title="">
+            
+            Encyclopedia of Women and Islamic Cultures: Previews
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-arabic-translation" class="state-published" title="">
+            
+            EWIC Arabic Translation
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/Images_Homepage/old-plone-logos/bibliography.pdf" class="state-published" title="">
+            
+            EWIC Bibliography
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database" class="state-published hasDropDown" title="">
+            
+            EWIC Scholars Database
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database/viewScholar" class="state-published" title="">
+            
+            Search Results
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/the-scholars-and-scholarship-project" class="state-published" title="">
+            
+            The Scholars and Scholarship Project
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-reviews" class="state-published" title="">
+            
+            EWIC Reviews
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-author-guidelines" class="state-published" title="">
+            
+            EWIC Author Guidelines
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/carousel" class="state-published" title="">
+            
+            EWIC Home Slideshow
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-public-outreach-resources" class="state-published" title="">
+            
+            EWIC Outreach Project
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-arab-families-working-group-1" class="plain"><a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1" class="plain" title="">Arab Families Working Group</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us" class="state-published hasDropDown" title="">
+            
+            About Us
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/core-group" class="state-published" title="">
+            
+            Core Group Members
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/acknowledgements" class="state-published" title="">
+            
+            AFWG Thanks!
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/contact-us" class="state-published" title="">
+            
+            Contact Us
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://www.arabfamilies.org/sites/sv3.drupalgardens.com/files/afwgdocuments/AFWG-FREQUENTLY%20ASKED%20QUESTIONS%20page_revised_2-20-13.pdf" class="state-published" title="">
+            
+            FAQ
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/afwg-alumni" class="state-published" title="">
+            
+            AFWG Alumni
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training" class="state-published hasDropDown" title="">
+            
+            Research Design and Proposal Writing
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/invitation-application-materials" class="state-published" title="">
+            
+            Invitation and Application Materials
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/workshops" class="state-published" title="">
+            
+            Past Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-materials-in-arabic-and-english" class="state-published" title="">
+            
+            Training Materials in Arabic
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-materials-in-english" class="state-published" title="">
+            
+            Training Materials in English
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/research-design-and-proposal-writing-resources" class="state-published" title="">
+            
+            Research Design and Proposal Writing Resources
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-to-engaged-research-october-2014/view" class="state-missing-value" title="">
+            
+            Training to Engaged Research October 2014
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants" class="state-published hasDropDown" title="">
+            
+            Fellowships and Grants
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/funding-opportunities-by-month" class="state-published" title="">
+            
+            Funding Opportunities by Month
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/funding-opportunities-for-faculty-and-post-docs" class="state-published" title="">
+            
+            Funding Opportunities for Faculty and Post Docs
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/funding-opportunities-for-graduate-students" class="state-published" title="">
+            
+            Funding Opportunities for Graduate Students
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/foundations-supporting-research-in-the-middle-east" class="state-published" title="">
+            
+            Foundations Supporting Research in the Middle East
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/scholars-database-search" class="state-published hasDropDown" title="">
+            
+            AFWG Scholars' Database
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/scholars-database-search/afwg-database-contributor-template" class="state-published" title="">
+            
+            Database Contributor Template
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/scholars-database-search/afwg-scholars-database-search" class="state-published" title="">
+            
+            Search the Scholar Database
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/resources" class="state-published hasDropDown" title="">
+            
+            Resources
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/resources/syllabi-project" class="state-published" title="">
+            
+            Syllabi Project
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications" class="state-published hasDropDown" title="">
+            
+            Publications
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/afwg-volumes-1" class="state-published" title="">
+            
+            AFWG Volumes
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/podcasts" class="state-published" title="">
+            
+            Podcasts
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/bibliographies" class="state-published" title="">
+            
+            Bibliographies
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/journal-publications" class="state-published" title="">
+            
+            Journal Publications
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/policy-briefs" class="state-published" title="">
+            
+            Policy Briefs
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects" class="state-published hasDropDown" title="">
+            
+            AFWG Research Projects
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects/research-projects-2013-2015" class="state-published" title="">
+            
+            Research Projects 2012-2016
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects/research-projects-2006-2011" class="state-published" title="">
+            
+            Research Projects 2006-2011
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects/research-projects-2001-2005" class="state-published" title="">
+            
+            Research Projects 2001-2005
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences" class="state-published hasDropDown" title="">
+            
+            Conferences
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/research-proposal-workshops" class="state-published" title="">
+            
+            Research &amp; Proposal Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/research-to-policy-workshop" class="state-published" title="">
+            
+            Research To Policy Workshop
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/media-training-workshops" class="state-published" title="">
+            
+            Media Training Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/stakeholder-workshops" class="state-published" title="">
+            
+            Stakeholder Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/core-group-workshops" class="state-published" title="">
+            
+            Core Group Workshops
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/arab-families-working-group-1" class="state-published" title="">
+            
+            Arab Families Working Group
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-media-project" class="plain"><a href="http://sjoseph.ucdavis.edu/media-project" class="plain" title="">Media Project</a></li><li id="portaltab-bcbcb" class="plain"><a href="http://sjoseph.ucdavis.edu/bcbcb" class="plain" title="">BCBCB Consortium</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb" class="state-published hasDropDown" title="">
+            
+            About BCBCB
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb/history-of-bcbcb-1" class="state-published" title="">
+            
+            Background
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb/steering-committee" class="state-published" title="">
+            
+            Steering Committee
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb/history-of-bcbcb" class="state-published" title="">
+            
+            Chronology of BCBCB
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects" class="state-published hasDropDown" title="">
+            
+            BCBCB Projects
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects" class="state-published hasDropDown" title="">
+            
+            Gender Projects and News
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/gender-project" class="state-published" title="">
+            
+            Gender and Family Project
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/u-c-davis" class="state-published" title="">
+            
+            UC Davis
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/american-university-in-cairo-auc" class="state-published" title="">
+            
+            American University in Cairo (AUC) 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/lebanese-american-university-lau" class="state-published" title="">
+            
+            Lebanese American University (LAU)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/birzeit-university" class="state-published" title="">
+            
+            Birzeit University
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/american-university-of-beirut-aub" class="state-published" title="">
+            
+            American University of Beirut (AUB)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/american-university-of-sharjah-aus" class="state-published" title="">
+            
+            American University of Sharjah (AUS)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/genetics-projects" class="state-published" title="">
+            
+            Genetics Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/law-projects" class="state-published" title="">
+            
+            Law Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/public-health-medicine-project" class="state-published" title="">
+            
+            Public Health and Medicine Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects" class="state-published hasDropDown" title="">
+            
+            Sustainability Projects and News
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-of-beirut-aub" class="state-published" title="">
+            
+            American University of Beirut (AUB)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-in-cairo-auc" class="state-published" title="">
+            
+            American University in Cairo (AUC) 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/birzeit-university" class="state-published" title="">
+            
+            Birzeit University
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/lebanese-american-university-lau" class="state-published" title="">
+            
+            Lebanese American University (LAU)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis" class="state-published" title="">
+            
+            UC Davis
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-of-sharjah-aus" class="state-published" title="">
+            
+            American University of Sharjah (AUS)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/water-projects" class="state-published" title="">
+            
+            Water Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/srtp-online-curriculum" class="state-published" title="">
+            
+            SRTP Online Curriculum
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+                </ul></li><li id="portaltab-workshops" class="plain"><a href="http://sjoseph.ucdavis.edu/workshops" class="plain" title="">Proposal Writing Workshops and Resources</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops" class="state-published hasDropDown" title="">
+            
+            All Workshops
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/acss-workshops" class="state-published" title="">
+            
+            ACSS Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/test" class="state-published" title="">
+            
+            AFWG Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/faculty-proposal-workshops" class="state-published" title="">
+            
+            Faculty Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/graduate-proposal-workshops" class="state-published" title="">
+            
+            Graduate Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/trgr" class="state-published" title="">
+            
+            OSF Workshops
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/proposal-writing-resources" class="state-published" title="">
+            
+            Proposal Writing Resources
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-sustainability-research-training-program" class="selected"><a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program" class="plain" title="">Sustainability Research &amp; Training Program</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program" class="state-published" title="">
+            
+            SRTP Research Grants
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-curriculum" class="state-published" title="">
+            
+            SRTP Online Curriculum
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/indices-of-sustainability" class="state-published" title="">
+            
+            Indices of Sustainability
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/the-sustainable-city-dubai" class="state-published" title="">
+            
+            The Sustainable City-Dubai
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/sustainability-research" class="state-published" title="">
+            
+            Sustainability Research
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-history" class="state-published" title="">
+            
+            SRTP History
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/sustainability-research-and-training-program-directory-in-progress" class="state-published" title="">
+            
+            Sustainability Research and Training Program Directory (in progress)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/phd-fellowship-program-in-sustainability-studies" class="state-published" title="">
+            
+            PhD Fellowship Program in Sustainability Studies
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-training-to-transformative-gender-research" class="plain"><a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research" class="plain" title="">Training to Transformative Gender Research</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research/trainers" class="state-published" title="">
+            
+            Trainers
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research/resources" class="state-published" title="">
+            
+            Resources
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+
+        
+    
+</li>
+                </ul></li></ul></div>
+                    </div>
+                    <div class="top-image">
+                        
+        <a class="portal-logo" href="http://sjoseph.ucdavis.edu"><img src="http://sjoseph.ucdavis.edu/logo.png" alt="Dr. Suad Joseph" title="Dr. Suad Joseph" height="56" width="215" /></a>
+    
+                        <div class="slogan">
+         
+    </div>
+                    </div>
+                </div>
+
+                <div class="top-panels-wrap">
+                    <div class="panels"></div>
+                </div>
+            </div>
+        </div>
+        <div class="main-section">
+            <div id="portal-columns">
+                <div id="portal-column-content" class="cell width-3:4 position-1:4">
+                    <div id="viewlet-above-content">
+<div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://sjoseph.ucdavis.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program">Sustainability Research &amp; Training Program</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">SRTP Research Grants</span>
+         
+    </span>
+
+</div>
+
+<div id="portlets-above" class="row">
+    
+    
+</div>
+
+
+</div>
+                    
+                    <div id="content"><div id="viewlet-above-content-title"></div><h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    SRTP Research Grants
+                </h1><div id="viewlet-below-content-title">
+
+<div id="portlets-below" class="row">
+
+     
+     
+</div>
+
+
+</div><div id="content-core">
+                                 
+    
+        
+        <div class="" id="parent-fieldname-text-68c368a1d0744427884d656aee0f184a">
+            <div>
+<p align="center" style="text-align: justify; "><i>The Sustainability Research and Training Program (SRTP) was the first program implemented under the master agreement between the University of California, Davis (UC Davis) and Diamond Developers of Dubai, UAE.  The purpose was to conduct research and training related to technologies, systems, social conditions and experiences entailed in building, living in, and maintaining communities that are designed for sustainable living. There have been three calls for proposals which have resulted in nine awards.  Links to the project abstracts can be found below.</i></p>
+</div>
+<ol><li><a class="anchor-link" href="#assessment-of-the-hybrid-solar-technologies-for-air-conditioning-in-the-sustainable-city-of-dubai" target="_self" title=""><b>Assessment of the Hybrid Solar Technologies for Air Conditioning in The Sustainable City,  Dubai</b></a><b>, </b>Pieter Stroeve, PhD, Principal Investigator, Director UC Davis California Solar Energy Collaborative and Distinguished Professor in Department of Chemical Engineering and Materials Science, UC Davis.</li>
+<li><a class="anchor-link" href="#demonstration-of-novel-water-technology-at-tsc---dubai" target="_self" title=""><b>Demonstration of Novel Water Technology at The Sustainable City, Dubai</b></a>, Bassam Younis, PhD, Principal Investigator, Professor of Hydraulics and Fluid Mechanics, Civil and Environmental Engineering, UC Davis.</li>
+<li><a class="anchor-link" href="#developing-an-integrated-approach-for-assessment-and-utilization-of-biomass-for-improving-the-sustainability-of-a-city" target="_self" title=""><b>Developing an Integrated Approach for Assessment and Utilization of Biomass for Improving the Sustainability of a City</b></a>,<b> </b>Pramod K. Pandey, PhD<b>, </b>Principal Investigator, Department of Population Health and Reproduction, School of Veterinary Medicine, UC Davis. </li>
+<li><a class="anchor-link" href="#developing-co-products-from-anaerobic-digestion--application-of-composted-anaerobic-digestate-to-soil-to-enhance-sustainable-agriculture-and-waste-management" target="_self" title=""><b>Developing Co-Products from Anaerobic Digestion: Application of Composted Anaerobic Digestate to Soil to Enhance Sustainable Agriculture and Waste Management</b></a><b>, </b>Christopher Simmons, PhD, Principal Investigator, Assistant Professor, Department of Food Science and Technology, UC Davis. </li>
+<li><a class="anchor-link" href="#electrical-energy-storage-and-energy-management-system-for-the-sustainable-city-in-dubai" target="_self" title=""><b>Electrical Energy Storage and Energy Management System for the Sustainable City in Dubai</b></a><b>, </b>Jae Wan Park, PhD, Principal Investigator, Associate Professor, Mechanical and Aerospace Engineering, UC Davis.  </li>
+<li><a class="anchor-link" href="#greener-cities-are-cooler-cities--using-vegetated-green-infrastructure-to-mitigate-urban-micro-climates-in-desert-urban-landscapes" target="_self" title=""><b>Greener Cities are Cooler Cities: Using Vegetated Green Infrastructure to Mitigate Urban Micro-climates in Desert Urban Landscapes</b></a>,<b> </b>Yaser Abunnasr, PhD; Principal Investigator, Assistant Professor of Landscape Architecture, Department of Landscape, AUB.</li>
+<li><a class="anchor-link" href="#promoting-a-culture-of-sustainability-at-the-sustainability-city--identifying-and-adapting-best-practices" target="_self" title=""><b>Promoting a Culture of Sustainability at The Sustainability City: Identifying and Adapting Best Practices</b></a>, Alan Meier, PhD, Principal Investigator, Senior Scientist, Energy Efficiency Center, UC Davis. </li>
+<li><a class="anchor-link" href="#sequential-energy-and-compost-production-from-organic-residues" target="_self" title=""><b>Sequential Energy and Compost Production from Organic Residues</b></a>,<b> </b>Jean S. VanderGheynst, PhD, Principal Investigator, Professor, Biological and Agricultural Engineering, UC Davis.</li>
+<li><a class="anchor-link" href="#travelers--response-to-innovative-technology-and-sustainability-policies-in-an-energy-efficient-development-in-dubai--the-sustainable-city" target="_self" title=""><b>Travelers’ Response to Innovative Technology and Sustainability Policies in an Energy-Efficient Development in Dubai: The Sustainable City</b></a>, Giovanni Circella, PhD, Principal Investigator, Professional Researcher, National Center for Sustainable Transportation &amp; Institute of Transportation Studies, UC Davis.  </li>
+</ol><p><strong><br /></strong></p>
+<h3 class="SRTPResearchGrantTitles"><a name="assessment-of-the-hybrid-solar-technologies-for-air-conditioning-in-the-sustainable-city-of-dubai" id="assessment-of-the-hybrid-solar-technologies-for-air-conditioning-in-the-sustainable-city-of-dubai"></a><strong>Assessment of the Hybrid Solar Technologies for Air Conditioning in the Sustainable City of Dubai</strong></h3>
+<p><strong><i>Research Team from UC Davis and American University of Beirut</i></strong></p>
+<ul><li>Pieter Stroeve, PhD, Director UC Davis California Solar Energy Collaborative and Distinguished Professor in Department of Chemical Engineering and Materials Science, Principal Investigator</li>
+<li>Masoud Rahman, PhD, Solar Research Engineer, UC Davis California Solar Energy Collaborative, Co-Principal Investigator</li>
+<li>Nesreene Ghaddar, PhD, Professor, Mechanical Engineering, American University of Beirut</li>
+<li>Kamel Ghali, PhD, Chair, Department of Mechanical Engineering, American University of Beirut</li>
+<li>Sara Outcault, PhD, UC Davis Western Cooling Efficiency Center, Social and Behavioral Scientist</li>
+<li>Tobias Benjamin Barr, UC Davis Energy Institute and UC Davis Energy &amp; Transportation Hub, Project Manager</li>
+<li>Steven Wiryadinata, Graduate Student Researcher, UC Davis Department of Mechanical Engineering, Building HVAC Engineer</li>
+</ul><div><strong><em>Abstract</em></strong></div>
+<p>Air conditioning is one of the major energy consumption items in Dubai and countries with the same environmental conditions. Providing the majority of the air conditioning energy demand by renewable technologies will be a major step toward sustainable and green communities. The Sustainable City (TSC) in Dubai is currently under design, construction, and development by Diamond Developers Company (DD) with the most recent and innovative sustainable standards and technologies.</p>
+<p>In this study, different scenarios of integrated solar technologies and air conditioning systems for providing the energy demand of the Center of Excellence (SCE) building in the Sustainable City of Dubai were evaluated. This study included the determination of air conditioning demand of the building based on the environmental condition, behavioral aspects of the users of the building, air conditioning modeling, and the technologies available in the building.</p>
+<p>After comparison of various scenarios, the team recommended photovoltaic (PV) technologies for supplying the electrical demand of the building. Evacuated tube solar collectors will be used to provide the thermal energy for the thermal-driven single state absorption chiller. The results show that 1764 PV panels and 4120 evacuated tube solar collectors are required for the SCE building. Additionally, the potential advantages of the building-integrated solar technologies for the building were calculated and discussed. The life cycle assessment of solar and air conditioning technologies for the building showed that the payback time is in the range of 4 to 8 years.</p>
+<p>The study also addressed the human factors related to system performance and acceptability, and main barrier being an anticipated temperature setting of 24°C, slightly highly than the local norm.  Ensuring system performance may require changes in occupant behavior. To estimate the acceptability of such changes, a survey on thermal comfort in the workplace was conducted.  Twelve recommendations addressing occupant behavior were developed based on the survey results, the theory of behavior change, the physiological and cultural aspects of thermal comfort, and international best practice on thermostatic control.  The recommendations addressed selecting controls technology, encouraging occupant acceptance and adaption, and empowering occupants to control temperature settings, in order to promote energy conservation and reliable system operation.  The final report is available <a title="" href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program/DubaiCenterofExcellenceBuildingFinalReport21.pdf" class="internal-link" target="_self">here</a>. </p>
+<p><span><br /></span></p>
+<h2 class="SRTPResearchGrantTitles"><a name="demonstration-of-novel-water-technology-at-tsc---dubai" id="demonstration-of-novel-water-technology-at-tsc---dubai"></a><span>Demonstration of Novel Water Technology at TSC – Dubai</span></h2>
+<p><strong><i>Research Team from UC Davis and American University of Beirut</i></strong></p>
+<ul><li>Bassam Younis, PhD, Professor of Hydraulics and Fluid Mechanics, Civil and Environmental Engineering, UC Davis, Principal Investigator</li>
+<li>Yusuf Abou Jawdah, PhD, Professor, Agriculture and Food Sciences, American University of Beirut, Partner</li>
+</ul><p><em><strong>Abstract</strong></em></p>
+<p>This project included: construction of a newly-designed reactor for water disinfection using UV light; testing the reactor at various facilities at UC Davis, including at a greenhouse and at a recreational pool; use of solar panels to power the reactor; installation of the reactor at the grey-water treatment plant in The Sustainable City, Dubai.   </p>
+<p>In the first year of the grant, the reactor was transported to various facilities where water in need of disinfection is generated. The reactor was tested <i>in situ </i>and its performance compared with existing commercial systems. Based on experience gained from these field tests, the reactor was modified to make it lighter and thus easier to transport, and, also, more robust, and more efficient in terms of the quantities of water treated relative to the electric energy requirements. The principal developments were in the choice of nozzles used to introduce the water into the reactor, in the method by which the UV lamps are incorporated within the reactor outer shell, and the flow control system that governs the rate at which water is introduced into the reactor.</p>
+<p><img src="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program/SRTPresearchgrants.png/@@images/62513996-27b6-4720-9694-fe4974729bbf.png" alt="" class="centerIMG" title="" /></p>
+<p>Further modifications were made to the reactor when an opportunity arose for testing its performance in breaking down the pharmaceuticals that are found in wastewater. Contaminants were broken down very effectively to the extent that they no longer posed a hazard should the treated water is re-used or is discharged into a natural waterway. Learn more from this <a href="https://www.youtube.com/watch?v=FTJBtNqJvOs&amp;feature=youtu.be">YouTube video</a>.</p>
+<p>Work is now in progress to incorporate instruments that will monitor the system’s performance with respect to operating temperature, UV light intensity, and total run time. Also in progress is the coupling of the UV reactor with innovative solar panels which  allow for 50% of the incident light to pass to the inside of the greenhouse while still generating electric energy sufficient to power the UV reactor and are covered by a newly-developed film that allows for only the portions of the light spectrum that is needed to sustain plant growth while filtering out the portions that do not benefit the plants but cause interior temperature to rise to the extent that is detrimental to the plants.</p>
+<p><img src="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program/SRTPresearchgrants2.png" alt="" class="centerIMG" title="" /></p>
+<p class="Default">The reactor has been shipped to Dubai and will be tested in The Sustainable City in the December of 2016.  Findings are anticipated after site testing.</p>
+<h2 class="SRTPResearchGrantTitles"><a name="developing-an-integrated-approach-for-assessment-and-utilization-of-biomass-for-improving-the-sustainability-of-a-city" id="developing-an-integrated-approach-for-assessment-and-utilization-of-biomass-for-improving-the-sustainability-of-a-city"></a>Developing an Integrated Approach for Assessment and Utilization of Biomass for Improving the Sustainability of a City <i></i></h2>
+<p><strong><i>Research Team from UC Davis, American University of Beirut and Birzeit University</i></strong></p>
+<ul><li>Pramod K. Pandey, PhD<b>, </b>Department of Population Health and Reproduction, School of Veterinary Medicine, UC Davis<b></b></li>
+<li>Salma Talhouk, PhD, Department of Landscape Design and Ecosystem Management, American University of Beirut, Lebanon<b></b></li>
+<li>Ali Chalak, PhD, Department of Agricultural Sciences, American University of Beirut, Lebanon<b></b></li>
+<li>Shadi Hamadeh, PhD, Agricultural &amp;Animal and Veterinary Sciences, American University of Beirut, Lebanon</li>
+<li>Makaram Suidan, PhD, Faculty of Engineering and Architecture, American University of Beirut, Lebanon</li>
+<li>Rashed Al-Sa’ed, PhD, Sanitary &amp; Environmental Engineering, Birzeit University, Birzeit, West Bank, Palestine</li>
+</ul><p><em><strong>Abstract</strong></em></p>
+<p>About 40% of total world’s food production goes as waste. Converting the enormous amount of food waste produced globally into soil amendment can reduce the application of chemical fertilizers and enhance the sustainable agriculture system.  Many waste treatment processes such as windrow composting and anaerobic digestion are promising technologies; however, the fate of food-borne pathogens in these methods is not well understood. Further, extensive time, infrastructures, and space are needed to adopt these methods in urban environment. This project team executed a series of studies in three different parts of the world (Davis, California, USA; Beirut, Lebanon; and Birzeit, West Bank, Palestine) to improve the understanding of food waste, grass clipping, horse manure, and palm tree waste conversion into a soil amendment.</p>
+<p><img src="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program/pramadpandy.png" alt="" class="centerIMG" title="" /></p>
+<p><span class="discreet">Dr. Pramod Pandey (UC Davis), Dr. Shagufta Gill (Scientist, International Center for Biosaline Agriculture), Mr. Mohammad Jarrar (Engineer, Diamond Developer), and Dr. Rashed Al-Sa’ed (Birzeit University) met in Dubai to launch SRTP study on municipal waste composting. </span></p>
+<p>The study executed five different types of composting processes (in-vessel composting, static composting, aerated composting, plowed composting, and vermicomposting) at University of California-Davis, Davis, California.  A model was developed to estimate the organic waste production of a sustainable city and to verify the progression and the quality of composting process at Tadweer Waste Treatment LLC, Dubai, UAE. The research team at American University of Beirut executed a study which was focused on understanding the social acceptability, environmental benefits, and economics of vermicomposting.  The third research team at Birzeit University, West Bank, Palestine performed windrow composting research.</p>
+<p>The work at UC Davis showed that in-vessel composting was the most suitable method for inactivating pathogens (<i>E. coli </i>and <i>Salmonella</i>) of organic waste within 24 hours. In addition, the results showed that this process produced a high quality soil amendment.</p>
+<p>Another work, which studied in-house composting with an external aeration system, produced <i>Salmonella </i>free mature compost in 70 days. The lab and field scales vermicomposting experiments provided important insights to convert food and green waste into a matured soil amendment. A mathematical model was developed to verify the composting process, and test the quality of the compost product. Further, the model calculates the waste production of a sustainable city.</p>
+<p><img src="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program/copy2_of_pramadpandy.png" alt="" class="centerIMG" title="" /></p>
+<p style="text-align: center; "><span class="discreet">Pile of urban waste ready for processing.</span></p>
+<p>American University of Beirut’s work assessed public perception and attitude towards the vermicomposting in Lebanon. The work developed an innovative and economical system to raise worms for converting household waste into soil amendment. Though the residents showed a greater level of interest in vermicomposting, a general view was to carryout vermicomposting at municipality level instead of at a home. The work showed that one ton of vermicast will yield an estimated US$871-1,352 across three sectors: landfill operations, the private vermi-compost, and agriculture.</p>
+<p>The researchers from Birzeit University investigated the feasibility of a windrow composting of domestic organic waste recycling for overcoming the problems related to waste collection and disposal. The results of five compost piles under five different mixing conditions showed that the windrow composting was controlled by moisture content, temperature, and pH. The compost quality met the USEPA standards after 3.5 months of windrow composting. Lab results showed that a 95% of total coliforms were removed during the process.  The final report can be found<a title="" href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program/DiamondDeveloperProjectReport_121315_Pandeyetal2015.pdf" class="internal-link" target="_self"> here</a>.</p>
+<h2 class="SRTPResearchGrantTitles"><a name="developing-co-products-from-anaerobic-digestion--application-of-composted-anaerobic-digestate-to-soil-to-enhance-sustainable-agriculture-and-waste-management" id="developing-co-products-from-anaerobic-digestion--application-of-composted-anaerobic-digestate-to-soil-to-enhance-sustainable-agriculture-and-waste-management"></a>Developing Co-Products from Anaerobic Digestion: Application of Composted Anaerobic Digestate to Soil to Enhance Sustainable Agriculture and Waste Management</h2>
+<p><strong><i>Research Team from UC Davis and American University of Beirut</i></strong></p>
+<ul><li>Christopher Simmons, PhD, Assistant Professor, Department of Food Science and Technology, UC Davis, Principal Investigator</li>
+<li>Jean VanderGheynst,PhD,  Professor, Department of Biological and Agricultural Engineering – Co-Principal Investigator</li>
+<li>Ramin Yazdani, PhD, Assistant Professional Researcher, UC Davis Air Quality Research Center, Co-Principal Investigator</li>
+<li>Yigal Achmon, PhD, Postdoctoral researcher, Department of Food Science and Technology, UC Davis</li>
+<li>Mutasem El-Fadel, PhD, Professor, Department of Engineering and Architecture, American University of Beirut</li>
+</ul><p><em><strong>Abstract</strong></em></p>
+<p>New strategies are needed to advance sustainable management of food, agricultural, and green wastes while promoting sustainable agriculture. Capitalizing on the warm climate of the Gulf region, the project proposed development of a green technology that uses passive solar heating in conjunction with microbial production of volatile acids in the soil to inactivate pathogens and weed seeds in agricultural soils on rural and urban farms. Soil microbial activity was driven by soil amendment with composted digestate from anaerobic digesters. Preliminary data showed that this technique is more effective than solar heating alone and leads to rapid inactivation of weed seeds, with no detriment to subsequently planted crops. This technology provides a sustainable method to manage organic residues from anaerobic digestion, making anaerobic digestion more economically viable, while also creating opportunities to maintain soil health and safety without the need for harmful chemical fumigants.</p>
+<p>The research educational objectives were to develop solarization online training materials for urban and rural growers and to develop solarization and soil science lecture materials for graduate students that can be translated to Innovation Center in the Sustainable City, Dubai.</p>
+<p>In the first year of the project, an assessment of the compatibility of composted solid anaerobic digestion residues with soil solarization was performed by simulating solarization in bioreactors. Two different digestates were assayed in field experiments.  The resulting data showed that solid digestates can perform differently in biosolarization and that such differences may stem from the conditions used to generate digestate including temperature, feedstock composition and digestion time.  This informed a field study which analyzed weed inactivation, soil quality, and microbial diversity.  Conclusions to date were that solid residues from anaerobic digestion can be largely stable in the context of biosolarization as they represent the most recalcitrant fraction of organic matter within the digester. The digestate will likely become even more stable after composting. Nevertheless, differences in biosolarization efficacy were observed when digestate was used directly from the digester. Differences may correspond to the conditions used for anaerobic digestion. The data indicate that digestate from thermophilic anaerobic digestion may be better suited for weed inactivation during biosolarization due to its thermotolerant bacterial community’s ability to produce volatile fatty acids (VFAs) under the high temperatures of biosolarization. However, efficacy depends on the weed species targeted and evolution of other inhibitory compounds beyond VFAs should be explored. In addition to opportunities for weed inactivation, biosolarization using digestate may benefit soil quality by releasing plant nutrients from the digestate.</p>
+<p>The grant term is from September 2014 through August 2016, and findings anticipated in December 2016.</p>
+<p class="Default"> </p>
+<h2 class="SRTPResearchGrantTitles"><a name="electrical-energy-storage-and-energy-management-system-for-the-sustainable-city-in-dubai" id="electrical-energy-storage-and-energy-management-system-for-the-sustainable-city-in-dubai"></a>Electrical Energy Storage and Energy Management System for the Sustainable City in Dubai</h2>
+<p><strong><i>Research Team from UC Davis and American University in Cairo</i></strong></p>
+<ul><li>Jae Wan Park, PhD, Associate Professor, Mechanical and Aerospace Engineering, University of California, Davis.  Principal Investigator</li>
+<li>Heba Nassar, Professor of Economics, American University in Cairo.</li>
+</ul><p><em><b>Abstract</b></em></p>
+<p>The Sustainable City (TSC) in Dubai is expected to be the first residential community in Dubai meeting the highest environmental standards by adopting a sustainable approach including photovoltaic (PV) solar production and electric vehicles (EVs). While PV solar production helps the city to generate energy with little detriment to the environment, the intermittent nature of solar generation requires special attention when connecting to the grid. Critical issues include grid instability and the imbalance between energy demand and production, especially during periods of over-generation. TSC is equipped with a significant volume of PV panels, capable of producing up to 10 MW. However, the grid lacks electrical energy storage (EES) and an energy management system (EMS). Integration of EES and EMS will provide the TSC with additional benefits including: 1) significant reduction of peak demand, 2) improved power quality and stability, 3) island-mode operation in case of blackout, and 4) enhanced sustainability of the EVs by charging them preferably with the solar electricity stored in the EES.</p>
+<p>The overall goals of this project were to: 1) develop a computer model of the SCD microgrid with EES and EMS, taking into account user behavior and preferences; 2) simulate the grid operation with proposed EES and EMS to enhance grid stability as well as to minimize the peak demand; 3) design and simulate the T grid for higher-level of sustainable scenarios, including off-grid mode; and 4) carry out the performance evaluation of the proposed system.</p>
+<p>The first tasks for this project will be data collection for the grid architecture of the TSC and the characteristics of loads and user demands. We will gather metered energy consumption data, and conduct an energy use survey to have a better understanding of energy consumption of residential buildings and commercial buildings, and EV charging patterns.</p>
+<p>In the next step, researchers will develop a numerical model of a subdivision of TSC incorporating PV panels, EES and EV charging stations. The developed model will be validated by grid operation data from the UC Davis Aggie House and the Robert Mondavi Institute (RMI) microgrid. The model will simulate TSC grid operation based on local solar energy production and energy demand data including EV operation as well as residential and commercial buildings. The grid performance will be analyzed in terms of energy cost, peak shaving and environmental impacts. The results will identify the optimal design of the EES and EMS for the TSC microgrid.</p>
+<p>The researchers will redesign and optimize the TSC microgrid with additional renewable generation capacity and EESs for a higher level of sustainable operations, such as demand response (DR), trading overproduction and off-grid operation. Finally, a comprehensive assessment will be performed including system performance and economic analysis such as payback period of the proposed system. Together, the technical, social, and economic outputs of this research will substantially improve sustainability, stability, and reliability of the electrical grid of the TSC.</p>
+<p>This one-year research project will begin in July 2016.</p>
+<p> </p>
+<h2 class="SRTPResearchGrantTitles"><a name="greener-cities-are-cooler-cities--using-vegetated-green-infrastructure-to-mitigate-urban-micro-climates-in-desert-urban-landscapes" id="greener-cities-are-cooler-cities--using-vegetated-green-infrastructure-to-mitigate-urban-micro-climates-in-desert-urban-landscapes"></a>Greener Cities are Cooler Cities: Using Vegetated Green Infrastructure to Mitigate Urban Micro-climates in Desert Urban Landscapes</h2>
+<p><strong><i>Research Team from UC Davis and American University of Beirut</i></strong></p>
+<ul><li><strong><i></i></strong>Yaser Abunnasr, PhD; Assistant Professor of Landscape Architecture, Department of Landscape Design and Ecosystem Management; Faculty of Agricultural and Food Sciences, American University of Beirut.  Principal Investigator.</li>
+<li>Stephen M. Wheeler, Ph.D., Professor of Urban Design and Sustainability, Landscape Architecture Program, Department of Human Ecology, UC Davis.  Co-Principal Investigator</li>
+<li>Aram Yeretzian, MSc Arch; Assistant Professor, Dept. of Architecture &amp; Design and Dept. of Civil &amp; Environmental Engineering, Faculty of Engineering and Architecture, American University of Beirut</li>
+<li>Hadi Jaafar, PhD; Assistant Professor, Department of Agriculture, Faculty of Agricultural and Food Sciences, American University of Beirut.</li>
+<li>Salma N. Talhouk, PhD; Professor of Landscape Horticulture, Department of Landscape Designand Ecosystem Management, Faculty of Agricultural and Food Sciences, American University of Beirut.</li>
+</ul><div><em><strong>Abstract</strong></em></div>
+<div><em><strong><br /></strong></em></div>
+<p>Vegetated green infrastructure (VGI) such as urban tree canopies, planted areas, and green roofs have been found to reduce urban heat island (UHI) effects. The challenge to advance VGI in desert city contexts such as Dubai lies in allocating land for VGI, measuring extent of temperature reduction, optimizing water consumption and plant selection, and securing willingness of municipal and planning officials. The proposed research will develop recommendations for Dubai at the metropolitan scale and design guidelines for The Sustainable City at the urban/neighborhood scales to incorporate VGI based on urban landscape patterns that ameliorate the urban micro-climate. The combination of worldwide best practices information with results from medium and high resolution imagery reclassification and site temperature measurements will inform the DSC scenario simulations of VGI applications. Interviews with public stakeholders will assess willingness to adopt such measures. The combined results will contribute to Dubai citywide strategies to reduce the UHI and provide applicable guidelines to incorporate the VGI in the DSC and other arid regions worldwide.  The grant term is from October 2016 through September 2018, with final report anticipated in December 2018.<img src="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program/SRTPresearchgrants3.jpg" alt="" class="centerIMG" title="" /></p>
+<p style="text-align: center; "><span class="discreet">Young landscape plantings at The Sustainable City, Dubai</span></p>
+<h2 class="SRTPResearchGrantTitles"><a name="promoting-a-culture-of-sustainability-at-the-sustainability-city--identifying-and-adapting-best-practices" id="promoting-a-culture-of-sustainability-at-the-sustainability-city--identifying-and-adapting-best-practices"></a>Promoting a Culture of Sustainability at The Sustainability City: Identifying and Adapting Best Practices <i></i></h2>
+<p><strong><i>Research Team from UC Davis and American University in Cairo</i></strong></p>
+<ul><li>Alan Meier, PhD, Senior Scientist, Energy Efficiency Center, UC Davis. Principal Investigator.</li>
+<li>Richard Tutwiler, PhD, Director of the Institute for a Sustainable Environment (RISE) at the American University in Cairo (AUC), Co-Principal Investigator.</li>
+<li>Martina Jaskolski, PhD,  Human Geographer and Research Coordinator, RISE AUC</li>
+<li>Nermin Dessouky, Graduate Researcher, Research Institute for a Sustainable Environment, AUC</li>
+<li>Chelsea Estevez, Graduate Researcher, Research Institute for a Sustainable Environment, AUC</li>
+<li>Yara Moustafa, Graduate Researcher, Research Institute for a Sustainable Environment, AUC</li>
+</ul><p><em><strong>Abstract</strong></em></p>
+<p>This research project addressed the fundamental question of whether or not a new residential community with a built environment and operational processes designed on sustainability principles can engender community social behavior that contributes to the sustainability goal. This project has identified best practices that the management of The Sustainable City (TSC) can implement to promote a “culture of sustainability” among the new community of residents, employees, and visitors. Research activities included site assessment, synthesis of current literature, comparative case studies from Egypt, and recommended best practices adapted to the context and design of TSC. Research outputs have been delivered to SRTP and Diamond Developers in an iterative and interactive process to achieve solutions that can be immediately applied with measureable impact.</p>
+<p>The research team was a partnership between UC Davis and the American University in Cairo. The project included fieldwork in Dubai with Diamond Developers to produce a social and cultural appraisal of the expected community living and working in TSC, including its diverse cultural backgrounds and expectations. Based on the appraisal, the project identified a suite of best practices for promoting a culture of sustainability through a synthesis of the academic and practitioner literatures and comparative case studies in Egypt. Best practices were evaluated on the basis of their practicality for TSC and the ability to measure their impact.  This project began in October 2015 with final report anticipated in January 2017.</p>
+<p> </p>
+<h2 class="SRTPResearchGrantTitles"><a name="sequential-energy-and-compost-production-from-organic-residues" id="sequential-energy-and-compost-production-from-organic-residues"></a>Sequential Energy and Compost Production from Organic Residues<b> </b></h2>
+<p><strong><i>Research Team from UC Davis and American University of Beirut</i></strong></p>
+<ul><li>Jean S. VanderGheynst, PhD, Professor, Biological and Agricultural Engineering, UC Davis, Principal Investigator</li>
+<li>Christopher Simmons, PhD, Assistant Professor, Department of Food Science and Technology, UC Davis, Co-Principal Investigator</li>
+<li>Ramin Yazdani, PhD, Assistant Professional Researcher, UC Davis Air Quality Research Center, CoPrincipal Investigator</li>
+<li>Alissa Kendall, PhD, Associate Professor, Department of Civil and Environmental Engineering, UC Davis, Co-Principal Investigator</li>
+<li>Mutasem El-Fadel, PhD, Professor, Department of Civil and Environmental Engineering, American University of Beirut</li>
+<li>Sara Pace, PhD student in Biological Systems Engineering at UC Davis</li>
+</ul><p><em><strong>Abstract</strong></em></p>
+<p>Composting and amendment of compost to soil can improve the sustainability of an ecosystem and community. However, composting processes, especially those treating wastes that are readily degradable, require energy to aerate and water to maintain biological activity, and can emit greenhouse gases (GHG). Some organic residue sources, including many that originate from food processing and handling operations contain organic matter fractions that can be readily converted to energy through anaerobic digestion. The overall goal of the proposal was to develop tools that allow organic waste management specialists to evaluate digestion and composting conversion scenarios to sustainably convert organic residues to valuable soil amendment. This goal was met through coordinated research and training efforts at UC Davis and the American University of Beirut that involved laboratory studies to elucidate the potential for methane and heat production from organic wastes followed by validation studies in the field. Scientific knowledge will be advanced through joint publications of the collaborators, development of educational materials and activities for the living laboratory of The Sustainable City in Dubai, and development of models to assess sustainability of waste management scenarios. </p>
+<p>In the first year of the grant,<i> s</i>tudies were conducted in both anaerobic and aerobic digestion to assess which type of feedstock combinations (carbon/nitrogen ratios) and digestion conditions are ideal for stabilizing organic residues under aerobic and anaerobic conditions.  Data were collected for the life cycle assessment model. The grant term is from September 2014 through August 2016, and findings anticipated in December 2016.</p>
+<h2 class="SRTPResearchGrantTitles"><a name="travelers--response-to-innovative-technology-and-sustainability-policies-in-an-energy-efficient-development-in-dubai--the-sustainable-city" id="travelers--response-to-innovative-technology-and-sustainability-policies-in-an-energy-efficient-development-in-dubai--the-sustainable-city"></a>Travelers’ Response to Innovative Technology and Sustainability Policies in an Energy-Efficient Development in Dubai: The Sustainable City</h2>
+<p><strong><i>Research Team from UC Davis and American University of Beirut</i></strong></p>
+<ul><li>Giovanni Circella, PhD, Professional Researcher, National Center for Sustainable Transportation &amp; Institute of Transportation Studies, UC Davis.  Principal Investigator.</li>
+<li>Susan Handy, PhD, Professor and Director, National Center for Sustainable Transportation, and Institute of Transportation Studies, UC Davis</li>
+<li>Patricia L. Mokhtarian, PhD, Professor Emerita, Institute of Transportation Studies, UC Davis</li>
+<li>Maya Abou Zeid, PhD, Assistant Professor, American University of Beirut</li>
+</ul><p><em><strong>Abstract</strong></em></p>
+<p>This project aims to evaluate the mobility patterns of residents of the sustainability inspired development, The Sustainable City (TSC), in Dubai, UAE. The project will provide important insights into the relationships among the personal attitudes and preferences of the individuals that decide to relocate to this community, the characteristics of the local built environment, the availability of alternative transportation modes in the community, the travel behavior of residents, and their response to the innovative transportation solutions designed to increase environmental sustainability.</p>
+<p>The research team will survey residents that have moved into the new community, and collect a rich dataset including information about their personal preferences and the motivations behind the choice to relocate to TSC their previous travel habits, their mobility choices after they moved to TSC, and their use of the transportation options available for travel inside this sustainability-inspired community, and to/from TSC. The study will investigate travelers’ response to the policies for sustainability and the deployment of advanced technologies for transportation. It will complement the assessment of the energy consumed for other purposes in this new development, and provide an evaluation of mobility patterns and greenhouse gas (GHG) emissions from transportation in TSC. The study will advance the research frontier improving the understanding of the relationships among the characteristics of land use and travel behavior in new developments of emerging economies and non-OECD countries, in particular in terms of travelers’ response to policies for environmental sustainability. The research will inform the development of additional policies and services that can meet the residents’ mobility needs and further increase the environmental sustainability of TSC. It will support the educational purposes of TSC in promoting transportation sustainability, and help develop guidelines to promote sustainability in other developments in Dubai and other cities of the Middle East.  This project will begin in July 2016 with final report anticipated in September 2018.</p>
+<p> </p>
+            
+        </div>
+    
+    
+
+                             </div></div>
+                    <div id="viewlet-below-content">
+
+
+
+
+
+
+<div id="portlets-below" class="row">
+     
+     
+</div>
+
+
+</div>                    
+                </div>
+                <div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree"><dt class="portletHeader hiddenStructure">
+        
+        <a href="http://sjoseph.ucdavis.edu/sitemap" class="tile">Navigation</a>
+        
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0"><li class="navTreeItem visualNoMarker navTreeCurrentNode navTreeFolderish section-srtp-grant-program">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program" class="state-published navTreeCurrentItem navTreeCurrentNode navTreeFolderish contenttype-folder" title="">
+            
+            <span>SRTP Research Grants</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-srtp-curriculum">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-curriculum" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>SRTP Online Curriculum</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-indices-of-sustainability">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/indices-of-sustainability" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Indices of Sustainability</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-the-sustainable-city-dubai">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/the-sustainable-city-dubai" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>The Sustainable City-Dubai</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-sustainability-research">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/sustainability-research" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Sustainability Research</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-srtp-history">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-history" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>SRTP History</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-sustainability-research-and-training-program">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/sustainability-research-and-training-program-directory-in-progress" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>Sustainability Research and Training Program Directory (in progress)</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-phd-fellowship-program-in-sustainability-studies">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/phd-fellowship-program-in-sustainability-studies" class="state-published navTreeFolderish contenttype-folder" title="">
+            
+            <span>PhD Fellowship Program in Sustainability Studies</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+        </ul>
+        
+    </dd>
+</dl></div>
+
+
+
+
+            
+        </div>
+                
+            </div>
+        </div>
+        <div id="portal-footer-wrapper" class="row">
+            <div class="cell width-full position-0">
+                 
+
+                <ul id="portal-siteactions"><li id="siteaction-sitemap"><a href="http://sjoseph.ucdavis.edu/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-accessibility"><a href="http://sjoseph.ucdavis.edu/accessibility-info" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-contact"><a href="http://sjoseph.ucdavis.edu/contact-info" accesskey="9" title="Contact">Contact</a></li>
+</ul><div id="portal-footer">
+          <p class="copyright">
+               
+               
+               Copyright
+               <abbr title="Copyright">©</abbr>
+               2012-2016
+               by 
+               <a href="http://www.ucdavis.edu">UCDavis </a>and <a href="http://sjoseph.ucdavis.edu">Suad Joseph</a>
+              
+               
+
+               
+          </p>
+
+</div>
+                <div id="portal-colophon">
+<div class="colophonWrapper">
+<ul><li>
+    <a href="http://plone.org" title="This site was built using the Plone Open Source CMS/WCM.">
+      Powered by Plone &amp; Python</a>
+  </li>
+</ul></div>
+</div>
+                
+                </div>
+        </div>
+    </div><div id="main-bg">
+        <div></div>
+    </div><div class="themeComment hiddenStructure visualNoPrint">This is Sliced Diazo Plone Theme</div></body></html>

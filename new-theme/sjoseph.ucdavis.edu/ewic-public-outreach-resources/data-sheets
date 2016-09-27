@@ -1,0 +1,1835 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><meta charset="UTF-8" /><base href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/data-sheets" /><title>Datasheets — Dr. Suad Joseph</title><link rel="stylesheet" type="text/css" media="screen" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/reset-cachekey-b523e11c3ea65bc0698a632d6a3cf3ff.css" /><link rel="stylesheet" type="text/css" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/base-cachekey-773404d5602ba9bd07c9aa795ecd3693.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.overlays-cachekey-477e0dddacfbb621e153837dfae4aceb.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/resourcejquery.datatablesmediacssjquery.dataTables-cachekey-a8081da1c851c2fa9a2c76d46e6c7011.css" /><link rel="canonical" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/data-sheets" /><link rel="shortcut icon" type="image/x-icon" href="http://sjoseph.ucdavis.edu/favicon.ico" /><link rel="apple-touch-icon" href="http://sjoseph.ucdavis.edu/touch_icon.png" /><link rel="search" href="http://sjoseph.ucdavis.edu/@@search" title="Search this site" /><style type="text/css" media="screen">@import url(http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-4d5a97ac344d2c57a93a855501b4fa51.css);</style><style type="text/css">@import url(http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/plomino-cachekey-6fb3e26e2c3dfa03cb1cd9e251748701.css);</style><script type="text/javascript" src="http://sjoseph.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-fb559e5185bcb4a57330b46b1b1d6c7f.js"></script><script type="text/javascript" src="http://sjoseph.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourceplomino.javascriptplomino.debug-cachekey-1ef0fa3bdcc8bcb0b1b2e89090b0dae4.js"></script><script type="text/javascript" src="http://sjoseph.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourcejquery.datatables-cachekey-358f4c2085c33bc369ebdc3ab284b290.js"></script><script type="text/javascript">
+        jQuery(function($){
+            if (typeof($.datepicker) != "undefined"){
+              $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional[''],
+                {dateFormat: 'mm/dd/yy'}));
+            }
+        });
+        </script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="generator" content="Plone - http://plone.org" /><meta name="viewport" content="width=device-width" /><link rel="stylesheet" href="/++theme++quintagroup.theme.sliced/css/sliced.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/social.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.css" /><link href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic" rel="stylesheet" type="text/css" /><style type="text/css" media="screen">
+		.nav_center_block .portal-logo {
+          	opacity: 1 !important;
+    		}
+    	.top-image .portal-logo {
+			display: none;
+    		}
+    	.nav_center_block .portal-logo {
+			display:block !important;
+			text-align:left;
+    		}
+    	.nav-wrapper #theme-globalnav {
+			text-align: left;
+			}
+    
+		.top-panels-wrap input.searchField, .panel-below-content .LSBox input.searchField,
+		#portal-megamenu input.searchField, .top-panels-wrap input.searchField {
+			background-color: #97d5de;
+			border-color: #97d5de;
+			}
+	
+		.panel-below-content dl.portlet .livesearchContainer a,
+		.panel-below-content dl.portlet a:hover, .panel dl.portlet.portletOWLCarousel .itemDate, 
+		.panel .portletOWLCarousel .itemDate {
+			color: #97d5de !important;
+			}
+	</style><script type="text/javascript" src="/++theme++quintagroup.theme.sliced/js/viewportchecker.js"></script><script type="text/javascript" src="/++theme++quintagroup.theme.sliced/js/navigationslide.js"></script><script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery('.panel .cell').addClass("hidden").viewportChecker({
+                classToAdd: 'visible animated fadeInUp',
+                offset: 100    
+               });   
+            jQuery('.top-image').addClass("hidden").viewportChecker({
+                classToAdd: 'visible animated fadeInUp',
+                offset: 100    
+               });   
+        });            
+    </script><link rel="stylesheet" type="text/css" media="all" href="http://sjoseph.ucdavis.edu/portal_css/Sunburst%20Theme/ploneCustom-cachekey-a0d83d21a6a40b0ebcfcfeaeb18f37b9.css" /><style>
+                #portal-columns {
+                    max-width: 960px;
+                    margin: 0 auto;
+                    position: relative;
+                    }
+                #content-core .listing.event,
+                #portal-column-content {
+                    width:66% !important;
+                    }   
+                #portal-column-one.width-1\3a 4,
+                #portal-column-two.width-1\3a 4  {
+                    width: 31.666667%;
+                    }
+                #portal-column-two.position-3\3a 4 {
+                    margin-left: -31.666667%;
+                    }
+                #portal-column-content.position-1\3a 4 {
+                    margin-left: -66%;
+                    }
+                #content div.newsImageContainer {
+                    width: 48.75%;
+                    }
+                @media only screen and (max-width: 767px) {    
+                    #content div.newsImageContainer {
+                        width: 100%;
+                        }                    
+                    }
+                </style></head><body class="sliced-theme template-document_view portaltype-document site-Plone section-ewic-public-outreach-resources subsection-data-sheets userrole-anonymous" dir="ltr"><div id="visual-portal-wrapper">
+        
+        <div id="portal-top" class="row">
+            <div class="cell width-full position-0">
+                <div id="portal-header">
+                    <div class="top-block">
+                        <div class="top-block-wrap">
+                            <div id="portal-searchbox">
+
+    <form id="searchGadget_form" action="http://sjoseph.ucdavis.edu/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Search Site</label>
+
+        <input name="SearchableText" type="text" size="18" title="Search Site" placeholder="Search Site" accesskey="4" class="searchField" id="searchGadget" /><div class="fa fa-search"><input class="searchButton" type="submit" value="Search" /></div><div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/Plone/ewic-public-outreach-resources" /><label for="searchbox_currentfolder_only" style="cursor: pointer">
+                only in current section
+            </label>
+        </div>
+
+        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="http://sjoseph.ucdavis.edu/@@search" accesskey="5">
+            Advanced Search…
+        </a>
+    </div>
+
+</div>
+                            <div id="portal-personaltools-wrapper">
+
+<p class="hiddenStructure">Personal tools</p>
+
+
+
+<ul class="actionMenu deactivated" id="portal-personaltools"><li id="anon-personalbar">
+    
+        <a href="http://sjoseph.ucdavis.edu/caslogin?passback=http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/data-sheets/document_view" id="personaltools-CAS login">CAS Log In</a>
+    
+  </li>
+</ul></div>
+                        </div>
+                    </div>
+                    <div class="nav-wrapper">
+                        <div class="nav_center_block">
+                            <!--<a href="" title="Home" class="portal-logo">
+                                <img width="348" height="99" src="images/logo.png" />
+                            </a> -->
+                            <ul id="theme-globalnav"><li id="portaltab-index_html" class="selected"><a href="http://sjoseph.ucdavis.edu" class="plain" title="">Home</a></li><li id="portaltab-ewic" class="plain"><a href="http://sjoseph.ucdavis.edu/ewic" class="plain" title="Encyclopedia of Women and Islamic Cultures">Encyclopedia of Women and Islamic Cultures</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/overview.htm" class="state-published" title="">
+            
+            EWIC: Volumes and Supplements
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-editors" class="state-published" title="">
+            
+            EWIC Editors
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview" class="state-published hasDropDown" title="">
+            
+            EWIC Preview
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview/EWIC_Preview.htm" class="state-published" title="">
+            
+            Encyclopedia of Women and Islamic Cultures: Previews
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-arabic-translation" class="state-published" title="">
+            
+            EWIC Arabic Translation
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/Images_Homepage/old-plone-logos/bibliography.pdf" class="state-published" title="">
+            
+            EWIC Bibliography
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database" class="state-published hasDropDown" title="">
+            
+            EWIC Scholars Database
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database/viewScholar" class="state-published" title="">
+            
+            Search Results
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/the-scholars-and-scholarship-project" class="state-published" title="">
+            
+            The Scholars and Scholarship Project
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-reviews" class="state-published" title="">
+            
+            EWIC Reviews
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-author-guidelines" class="state-published" title="">
+            
+            EWIC Author Guidelines
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/carousel" class="state-published" title="">
+            
+            EWIC Home Slideshow
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-public-outreach-resources" class="state-published" title="">
+            
+            EWIC Outreach Project
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-arab-families-working-group-1" class="plain"><a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1" class="plain" title="">Arab Families Working Group</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us" class="state-published hasDropDown" title="">
+            
+            About Us
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/core-group" class="state-published" title="">
+            
+            Core Group Members
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/acknowledgements" class="state-published" title="">
+            
+            AFWG Thanks!
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/contact-us" class="state-published" title="">
+            
+            Contact Us
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://www.arabfamilies.org/sites/sv3.drupalgardens.com/files/afwgdocuments/AFWG-FREQUENTLY%20ASKED%20QUESTIONS%20page_revised_2-20-13.pdf" class="state-published" title="">
+            
+            FAQ
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/afwg-alumni" class="state-published" title="">
+            
+            AFWG Alumni
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training" class="state-published hasDropDown" title="">
+            
+            Research Design and Proposal Writing
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/invitation-application-materials" class="state-published" title="">
+            
+            Invitation and Application Materials
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/workshops" class="state-published" title="">
+            
+            Past Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-materials-in-arabic-and-english" class="state-published" title="">
+            
+            Training Materials in Arabic
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-materials-in-english" class="state-published" title="">
+            
+            Training Materials in English
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/research-design-and-proposal-writing-resources" class="state-published" title="">
+            
+            Research Design and Proposal Writing Resources
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-to-engaged-research-october-2014/view" class="state-missing-value" title="">
+            
+            Training to Engaged Research October 2014
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants" class="state-published hasDropDown" title="">
+            
+            Fellowships and Grants
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/funding-opportunities-by-month" class="state-published" title="">
+            
+            Funding Opportunities by Month
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/funding-opportunities-for-faculty-and-post-docs" class="state-published" title="">
+            
+            Funding Opportunities for Faculty and Post Docs
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/funding-opportunities-for-graduate-students" class="state-published" title="">
+            
+            Funding Opportunities for Graduate Students
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/fellowships-and-grants/foundations-supporting-research-in-the-middle-east" class="state-published" title="">
+            
+            Foundations Supporting Research in the Middle East
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/scholars-database-search" class="state-published hasDropDown" title="">
+            
+            AFWG Scholars' Database
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/scholars-database-search/afwg-database-contributor-template" class="state-published" title="">
+            
+            Database Contributor Template
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/scholars-database-search/afwg-scholars-database-search" class="state-published" title="">
+            
+            Search the Scholar Database
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/resources" class="state-published hasDropDown" title="">
+            
+            Resources
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/resources/syllabi-project" class="state-published" title="">
+            
+            Syllabi Project
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications" class="state-published hasDropDown" title="">
+            
+            Publications
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/afwg-volumes-1" class="state-published" title="">
+            
+            AFWG Volumes
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/podcasts" class="state-published" title="">
+            
+            Podcasts
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/bibliographies" class="state-published" title="">
+            
+            Bibliographies
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/journal-publications" class="state-published" title="">
+            
+            Journal Publications
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/publications/policy-briefs" class="state-published" title="">
+            
+            Policy Briefs
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects" class="state-published hasDropDown" title="">
+            
+            AFWG Research Projects
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects/research-projects-2013-2015" class="state-published" title="">
+            
+            Research Projects 2012-2016
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects/research-projects-2006-2011" class="state-published" title="">
+            
+            Research Projects 2006-2011
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/research-projects/research-projects-2001-2005" class="state-published" title="">
+            
+            Research Projects 2001-2005
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences" class="state-published hasDropDown" title="">
+            
+            Conferences
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/research-proposal-workshops" class="state-published" title="">
+            
+            Research &amp; Proposal Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/research-to-policy-workshop" class="state-published" title="">
+            
+            Research To Policy Workshop
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/media-training-workshops" class="state-published" title="">
+            
+            Media Training Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/stakeholder-workshops" class="state-published" title="">
+            
+            Stakeholder Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/conferences/core-group-workshops" class="state-published" title="">
+            
+            Core Group Workshops
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/arab-families-working-group-1" class="state-published" title="">
+            
+            Arab Families Working Group
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-media-project" class="plain"><a href="http://sjoseph.ucdavis.edu/media-project" class="plain" title="">Media Project</a></li><li id="portaltab-bcbcb" class="plain"><a href="http://sjoseph.ucdavis.edu/bcbcb" class="plain" title="">BCBCB Consortium</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb" class="state-published hasDropDown" title="">
+            
+            About BCBCB
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb/history-of-bcbcb-1" class="state-published" title="">
+            
+            Background
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb/steering-committee" class="state-published" title="">
+            
+            Steering Committee
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/about-bcbcb/history-of-bcbcb" class="state-published" title="">
+            
+            Chronology of BCBCB
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects" class="state-published hasDropDown" title="">
+            
+            BCBCB Projects
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects" class="state-published hasDropDown" title="">
+            
+            Gender Projects and News
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/gender-project" class="state-published" title="">
+            
+            Gender and Family Project
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/u-c-davis" class="state-published" title="">
+            
+            UC Davis
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/american-university-in-cairo-auc" class="state-published" title="">
+            
+            American University in Cairo (AUC) 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/lebanese-american-university-lau" class="state-published" title="">
+            
+            Lebanese American University (LAU)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/birzeit-university" class="state-published" title="">
+            
+            Birzeit University
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/american-university-of-beirut-aub" class="state-published" title="">
+            
+            American University of Beirut (AUB)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/gender-projects/american-university-of-sharjah-aus" class="state-published" title="">
+            
+            American University of Sharjah (AUS)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/genetics-projects" class="state-published" title="">
+            
+            Genetics Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/law-projects" class="state-published" title="">
+            
+            Law Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/public-health-medicine-project" class="state-published" title="">
+            
+            Public Health and Medicine Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects" class="state-published hasDropDown" title="">
+            
+            Sustainability Projects and News
+        </a>
+
+        <ul class="submenu navTree navTreeLevel2"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-of-beirut-aub" class="state-published" title="">
+            
+            American University of Beirut (AUB)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-in-cairo-auc" class="state-published" title="">
+            
+            American University in Cairo (AUC) 
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/birzeit-university" class="state-published" title="">
+            
+            Birzeit University
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/lebanese-american-university-lau" class="state-published" title="">
+            
+            Lebanese American University (LAU)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/uc-davis" class="state-published" title="">
+            
+            UC Davis
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/sustainability-projects/american-university-of-sharjah-aus" class="state-published" title="">
+            
+            American University of Sharjah (AUS)
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/water-projects" class="state-published" title="">
+            
+            Water Projects
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/bcbcb/bcbcb-projects/srtp-online-curriculum" class="state-published" title="">
+            
+            SRTP Online Curriculum
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+                </ul></li><li id="portaltab-workshops" class="plain"><a href="http://sjoseph.ucdavis.edu/workshops" class="plain" title="">Proposal Writing Workshops and Resources</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops" class="state-published hasDropDown" title="">
+            
+            All Workshops
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/acss-workshops" class="state-published" title="">
+            
+            ACSS Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/test" class="state-published" title="">
+            
+            AFWG Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/faculty-proposal-workshops" class="state-published" title="">
+            
+            Faculty Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/graduate-proposal-workshops" class="state-published" title="">
+            
+            Graduate Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/trgr" class="state-published" title="">
+            
+            OSF Workshops
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/proposal-writing-resources" class="state-published" title="">
+            
+            Proposal Writing Resources
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-sustainability-research-training-program" class="plain"><a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program" class="plain" title="">Sustainability Research &amp; Training Program</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-grant-program" class="state-published" title="">
+            
+            SRTP Research Grants
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-curriculum" class="state-published" title="">
+            
+            SRTP Online Curriculum
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/indices-of-sustainability" class="state-published" title="">
+            
+            Indices of Sustainability
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/the-sustainable-city-dubai" class="state-published" title="">
+            
+            The Sustainable City-Dubai
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/sustainability-research" class="state-published" title="">
+            
+            Sustainability Research
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/srtp-history" class="state-published" title="">
+            
+            SRTP History
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/sustainability-research-and-training-program-directory-in-progress" class="state-published" title="">
+            
+            Sustainability Research and Training Program Directory (in progress)
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/sustainability-research-training-program/phd-fellowship-program-in-sustainability-studies" class="state-published" title="">
+            
+            PhD Fellowship Program in Sustainability Studies
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-training-to-transformative-gender-research" class="plain"><a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research" class="plain" title="">Training to Transformative Gender Research</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research/trainers" class="state-published" title="">
+            
+            Trainers
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research/resources" class="state-published" title="">
+            
+            Resources
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/training-to-transformative-gender-research/seminars" class="state-published" title="">
+            
+            Seminars
+        </a>
+
+        
+    
+</li>
+                </ul></li></ul></div>
+                    </div>
+                    <div class="top-image">
+                        
+        <a class="portal-logo" href="http://sjoseph.ucdavis.edu"><img src="http://sjoseph.ucdavis.edu/logo.png" alt="Dr. Suad Joseph" title="Dr. Suad Joseph" height="56" width="215" /></a>
+    
+                        <div class="slogan">
+         
+    </div>
+                    </div>
+                </div>
+
+                <div class="top-panels-wrap">
+                    <div class="panels"></div>
+                </div>
+            </div>
+        </div>
+        <div class="main-section">
+            <div id="portal-columns">
+                <div id="portal-column-content" class="cell width-3:4 position-1:4">
+                    <div id="viewlet-above-content">
+<div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">You
+are here:</span>
+    <span id="breadcrumbs-home">
+        <a href="http://sjoseph.ucdavis.edu">Home</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources">EWIC Public Outreach Resources</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Datasheets</span>
+         
+    </span>
+
+</div>
+
+<div id="portlets-above" class="row">
+    
+    
+</div>
+
+
+</div>
+                    
+                    <div id="content"><div id="viewlet-above-content-title"></div><h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    Datasheets
+                </h1><div id="viewlet-below-content-title">
+
+<div id="portlets-below" class="row">
+
+     
+     
+</div>
+
+
+</div><div id="content-core">
+                                 
+    
+        
+        <div class="" id="parent-fieldname-text-8fe1ad246345400a986900471890a0b3">
+            <table class="plain"><tbody><tr><th>
+<div class="visualClear" style="text-align: left; "><span class="internal-link">EWIC Datasheets are single page, fact-based information bulletins covering a wide-range of topics. <span>EWIC datasheets are produced by graduate and undergraduate student researchers in the Suad Joseph Research Lab.  They are reviewed by faculty members and are intended for a general public audience.</span> </span></div>
+<div class="visualClear" style="text-align: left; "><span class="internal-link"><br /></span></div>
+<div class="visualClear" style="text-align: left; "><span class="internal-link">The EWIC Datasheets below are organized by topic. Within subgroups datasheets cover Muslim-majority countries and disaspora populations. They are written with a wide audience in mind.  Please feel free to print, distribute and use as needed. If you have any questions or corrections please email us at <a class="email-link" href="mailto:ewic@ucdavis.edu" target="_self" title="">ewic@ucdavis.edu</a>.  The EWIC Outreach Project is grateful to the Henry Luce Foundation for support of our work.  Earlier EWIC outreach work was additionally supported by the International Development Research Center (IDRC), Ottawa, and the Ford Foundation (Cairo, and New York City).  The EWIC Outreach Project is also grateful to the University of California, Davis, Office of Research, Dean of Graduate Studies, and the Anthropology Department for their on-going support. </span></div>
+</th></tr></tbody></table><table align="center"><tbody><tr><th>
+<h3 style="text-align: left; "><strong>Government and Politics</strong></h3>
+<ul><li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-iranian-politics" class="internal-link" target="_blank">Women in Government: Iran</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/women-in-govt-south-asia" class="internal-link" target="_self"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link">Women in Governmental Bodies: South Asia</span></span></span></span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/women-in-government-western-sub-saharan-africa" class="internal-link" target="_self">Women in Government: Western Sub-Saharan Africa</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-south-asian-women-in-government" class="internal-link" target="_self">Women in Government: South Asia</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/women-in-politics-in-the-eastern-mediterranean" class="internal-link" target="_self"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span dir="ltr">Women in Politics: Eastern Mediterranean</span></span></span></span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-levantine-legislation-1" class="internal-link" target="_self">Women in Levantine Legislation</a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-government-heads-of-state-in-the-muslim-world" class="internal-link" target="_self">Women in Government: Heads of State in the Muslim World</a></b></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-the-electorate-mena-region" class="internal-link" target="_blank">Women in the Electorate: MENA Region</a></b></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-and-colonialism-algeria" class="internal-link" target="_blank">Women and Colonialism: Algeria</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-and-colonialism-egypt" class="internal-link" target="_self">Women and Colonialism: Egypt</a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-national-legislatures-post-2011-egypt-tunisia-libya" class="internal-link" target="_blank">Women in National Legislatures post-2011: Egypt, Tunisia, Libya</a></b></li>
+</ul><h3 style="text-align: left; "><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span><span dir="ltr"><strong>Demographics &amp; Population</strong></span></span></span></span></span></span></span></span></span></h3>
+<ul><li style="text-align: left; "><strong><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslim-immigration-and-policy-in-italy" class="internal-link" target="_self">Muslim Immigration and Policy in Italy</a></strong></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/african-american-muslim-communities" class="internal-link" target="_self">African-American Muslim Communities</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslim-demographics-australia" class="internal-link" target="_self">Muslim Demographics: Australia</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslim-demographics-germany" class="internal-link" target="_self">Muslim Demographics: Germany</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslim-demographics-china-1" class="internal-link" target="_self"><span class="internal-link">Muslim Demographics: China</span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslims-in-the-philippines" class="internal-link" target="_self">Muslims Demographics: Philippines</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslim-demographics-south-america" class="internal-link" target="_self"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link">Muslim Demographics: South America</span></span></span></span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslim-demographics-nordic-countries-and-the-netherlands" class="internal-link" target="_self"><span class="internal-link">Muslim Demographics: Nordic Countries and the Netherlands</span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-muslim-demographics" class="internal-link" target="_self">Muslim Demographics: Worldwide</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-muslim-demographics-europe" class="internal-link" target="_self"><span class="internal-link">Demographics: European Muslim</span><span class="internal-link">s</span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-population-and-policies-for-french-muslims" class="internal-link" target="_self">Population and Policies for French Muslims</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslims-as-minorities" class="internal-link" target="_self">Muslims as Minorities</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/muslim-women-in-hausa" class="internal-link" target="_self">Muslim Women in Hausa</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/muslim-women-in-sub-saharan-africa" class="internal-link" target="_self">Muslim Women in Sub Saharan Africa</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/displaced-muslims-in-burma" class="internal-link" target="_self">Displaced Muslims in Burma</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-uyghur-culture" class="internal-link" target="_self">Women in Uyghur Culture</a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/demography-and-origins-of-european-muslim-women" class="internal-link" target="_self">Demography and Origins of European Muslim Women</a></b></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/climate-change-impacts-on-women-sub-saharan-africa" class="internal-link" target="_blank">Climate Change Impacts on Women-Sub-Saharan Africa</a></li>
+</ul><h3 style="text-align: left; "><strong><span class="internal-link">Labor and Employment</span></strong></h3>
+<ul><li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/south-asian-women-judiciaries" class="internal-link" target="_self">South Asian Women: Judiciaries </a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/women-in-nonagricultural-sectors-pakistan-india-bangladesh-afghanistan" class="internal-link" target="_self">Women in Nonagricultural Sectors: Pakistan, India, Bangladesh &amp; Afghanistan</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslim-women-in-broadcasting-united-kingdom-1" class="internal-link" target="_self">Muslim Women in Broadcasting: United Kingdom</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/malaysia-employment" class="internal-link" target="_self">Women's Employment: Malaysia</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/female-financiers-arab-gulf-states" class="internal-link" target="_self">Female Financiers: Arab Gulf States</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-south-asian-women-in-government" class="internal-link" target="_self">Notable Arab-American Women</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/indonesian-fashion-industry" class="internal-link" target="_self">Indonesian Fashion Industry</a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-the-stem-field-arab-region" class="internal-link" target="_blank">Women in the STEM field: Arab Region</a></b></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-stem-middle-east-north-africa" class="internal-link" target="_blank">Women in the STEM field: Middle East &amp; North Africa</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-the-stem-field-central-asia" class="internal-link" target="_blank">Women in the STEM field: Central Asia</a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/muslim-women-in-the-olympic-games" class="internal-link" target="_blank">Muslim Women in the Olympic Games</a></b></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-the-medical-field-west-asia" class="internal-link" target="_blank">Women in the Medical Field: West Asia</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women2019s-role-in-agriculture-north-africa" class="internal-link" target="_blank">Women’s Role in Agriculture: North Africa</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-fisheries-malaysia-and-indonesia" class="internal-link" target="_blank">Women in Fisheries: Malaysia and Indonesia</a></li>
+<li style="text-align: left; "><span><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-agriculture-west-asia" class="internal-link" target="_blank">Women in Agriculture: West Asia</a></span></li>
+<li style="text-align: left; "><span><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/arab-women-in-journalism-arab-region" class="internal-link" target="_blank">Arab Women in Journalism - Arab Region</a></span></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women2019s-participation-in-the-labor-force-north-africa" class="internal-link" target="_blank">Women’s Participation in the Labor Force: North Africa</a></li>
+</ul></th><th>
+<h3 style="text-align: left; "><strong><span class="internal-link">Conflict</span></strong></h3>
+<ul><li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/overview-muslim-women-and-displacement" class="internal-link" target="_self">Overview: Women and Displacement </a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-and-displacement-muslim-majority-countries" class="internal-link" target="_self">Women and Displacement: Muslim Majority Countries</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/families-affected-by-drone-strikes-pakistan-afghanistan-yemen" class="internal-link" target="_self"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link">Families affected by drone strikes: Pakistan, Afghanistan, Yemen</span></span></span></span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/women-in-the-armed-forces-pakistan" class="internal-link" target="_self">Women in the Armed Forces: Pakistan</a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/outlawing-the-burka-europe" class="internal-link" target="_blank">Outlawing the Burka: Europe</a></b></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/syrian-women-migrants-to-europe" class="internal-link" target="_blank">Syrian Women Migrants to Europe </a><span> </span></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/military-women2019s-participation-muslim-world" class="internal-link" target="_blank">Military: Women's Participation: Muslim World</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/hate-crimes-against-muslim-women-australia" class="internal-link" target="_blank">Hate Crimes Against Muslim Women: Australia</a><span> </span></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/climate-change-impacts-on-women-west-asia" class="internal-link" target="_blank">Climate Change Impacts on Women: West Asia</a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/hate-crimes-against-muslim-women-north-america" class="internal-link" target="_self">Hate Crimes against Muslim Women: North America</a></b></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/palestinian-women-in-the-israeli-prison-system" class="internal-link" target="_blank">Palestinian Women in the Israeli Prison System</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-the-arab-spring-libya" class="internal-link" target="_blank">Women and the Arab Spring: Libya</a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/displaced-arab-women-post-2011-syria-iraq-and-libya" class="internal-link" target="_blank">Displaced Arab Women post-2011: Syria, Iraq, and Libya</a></b></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-the-arab-spring-egypt" class="internal-link" target="_blank">Women and the Arab Spring: Egypt</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-and-the-arab-spring-tunisia" class="internal-link" target="_blank">Women and the Arab Spring: Tunisia </a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/post-paris-attacks-muslim-women-and-hate-crimes" class="internal-link" target="_blank">Post-Paris Attacks: Muslim Women and Hate Crimes</a></b></li>
+</ul><h3 style="text-align: left; "><strong style="text-align: center; ">Women's</strong> <strong>Organizations</strong></h3>
+<ul><li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-womens-organizations-malaysia" class="internal-link" target="_self">Women's Organizations: Malaysia</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-womens-organizations-indonesia" class="internal-link" target="_self">Women's Organization: Indonesia</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/womens-organizations-in-morocco" class="internal-link" target="_self">Women's Organizations: Morocco</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-womens-organizations-egypt" class="internal-link" target="_self">Women's Organizations: Egypt</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/womens-organizations-in-pakistan" class="internal-link" target="_self">Women's Organizations: Pakistan</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/female-activism-in-north-africa" class="internal-link" target="_self">Female Activism in North Africa</a></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/social-and-political-involvement-of-muslim-women-in-europe-france" class="internal-link" target="_self">Social and Political Involvement of Muslim Women In Europe: France</a></b></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/muslim-women2019s-organizations-in-the-u-s" class="internal-link" target="_blank">Muslim Women’s Organizations in the U.S.</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/womens-organizations-in-palestine" class="internal-link" target="_blank">Women's Organizations: Palestine</a></li>
+</ul><h3 style="text-align: left; "><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><strong>Healthcare and Education</strong></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3>
+<ul><li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/healthcare-in-southeast-asia-indonesia-malaysia-and-brunei" class="internal-link" target="_self">Healthcare in Southeast Asia: Indonesia, Malaysia and Brunei</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/women-in-stem-and-higher-education-afghanistan-india-and-bangladesh" class="internal-link" target="_self">Women in Stem and Higher Education: Afghanistan, India and Bangladesh</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/universal-healthcare-arab-gulf-countries" class="internal-link" target="_self">Universal Healthcare: Arab Gulf Countries</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/muslim-women-central-asia-health-care-systems" class="internal-link" target="_self">Muslim Women: Central Asia: Health Care Systems</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/bangladesh-education-and-marriage" class="internal-link" target="_self">Education and Marriage: Bangladesh</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/education-iran" class="internal-link" target="_self">Education: Iran</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/literacy-rates-arab-gulf-states" class="internal-link" target="_self"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link">Women and Literacy: Arab Gulf States</span></span></span></span></span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/literacy-rates-sub-saharan-africa-1" class="internal-link" target="_self"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link">Women and Literacy: Sub-Saharan Africa</span></span></span></span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/women-and-literacy-central-asia" class="internal-link" target="_self"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><span dir="ltr">Women and Literacy: Central Asia</span></span></span></span></span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-north-african-women-in-science" class="internal-link" target="_self"><span class="internal-link">North African Women in Science</span></a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/population-and-hiv-in-ethiopia" class="internal-link" target="_self">Population and HIV in Ethiopia</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/datasheet-population-and-fertility-in-nigeria" class="internal-link" target="_self">Population and Fertility in Nigeria</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/reproductive-rights-in-iran" class="internal-link" target="_self">Reproductive Rights in Iran</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/womens-health-in-morocco" class="internal-link" target="_self">Women's Health in Morocco</a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/south-asian-literacy-datasheet" class="internal-link" target="_self">South Asian Literacy </a></li>
+<li style="text-align: left; "><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/muslim-women-in-american-universities" class="internal-link" target="_self">Muslim Women in American Universities</a><span> </span></li>
+<li style="text-align: left; "><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women2019s-education-in-palestine" class="internal-link" target="_blank">Women’s Education in Palestine</a></b></li>
+</ul><div style="text-align: left; "><span><br /></span></div>
+<h3 style="text-align: left; "><strong>Humanities, Arts, and Cultural Studies</strong></h3>
+<ul style="text-align: left; "><li><strong><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/palestinian-women-in-writing-and-poetry" class="internal-link" target="_blank">Palestinian Women in Writing and Poetry</a></strong></li>
+<li><strong><strong><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-and-traditional-dance-forms-in-southeast-asia" class="internal-link" target="_blank">Traditional Dance Forms in Southeast Asia</a></strong></strong></li>
+<li><span class="internal-link"><span class="internal-link"><span class="internal-link"><span class="internal-link"><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/datasheet-muslim-women-in-hip-hop-and-rap" class="internal-link" target="_self">Muslim Women in Hip Hop and Rap</a></span></span></span></span></li>
+<li><span class="internal-link"><span class="internal-link"><span class="internal-link"><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/american-and-british-muslim-women-in-comedy" class="internal-link" target="_blank">American and British Muslim Women in Comedy</a></span></span></span></li>
+<li><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/egyptian-women-in-street-art-and-grafitti" class="internal-link" target="_blank">Egyptian Women in Street Art and Grafitti</a></b></li>
+<li><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/arab-women-in-sports" class="internal-link" target="_blank">Arab Women in Sports</a></li>
+<li><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/women-in-folk-music-central-asia" class="internal-link" target="_blank">Women in Folk Music - Central Asia</a></li>
+<li><b><a title="" href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/muslim-women-in-pop-music" class="internal-link" target="_blank">Muslim Women in Pop Music</a></b></li>
+</ul></th></tr><tr><td><span><br /></span></td>
+<td></td>
+</tr></tbody></table><p> </p>
+<p> </p>
+<p><br class="internal-link" title="" /> </p>
+<p style="text-align: left; "><span class="internal-link"><span class="internal-link"><span class="internal-link"><br /></span></span></span></p>
+<p style="text-align: left; "><span class="internal-link"><span class="internal-link"><span class="internal-link"><br /></span></span></span></p>
+            
+        </div>
+    
+    
+
+                             </div></div>
+                    <div id="viewlet-below-content">
+
+
+
+
+
+
+<div id="portlets-below" class="row">
+     
+     
+</div>
+
+
+</div>                    
+                </div>
+                <div id="portal-column-one" class="cell width-1:4 position-0">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f506c6f6e650a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree"><dt class="portletHeader hiddenStructure">
+        
+        <a href="http://sjoseph.ucdavis.edu/sitemap" class="tile">Navigation</a>
+        
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0"><li class="navTreeItem visualNoMarker section-ewic-scholarly-articles">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-scholarly-articles" class="state-published contenttype-document" title="">
+            
+            <span>EWIC Scholarly Articles</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeCurrentNode section-data-sheets">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/data-sheets" class="state-published navTreeCurrentItem navTreeCurrentNode contenttype-document" title="">
+            
+            <span>Datasheets</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-topical-notes">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/topical-notes" class="state-published contenttype-document" title="">
+            
+            <span>Topical Notes</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-web-resources-1">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-outreach-resources/web-resources-pdf/at_download/file" class="state-published contenttype-link" title="">
+            
+            <span>Web Resources</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-other-resources">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/other-resources" class="state-published contenttype-document" title="">
+            
+            <span>Other Resources</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-ewic-editor-outreach">
+
+    
+
+
+        <a href="http://sjoseph.ucdavis.edu/ewic-public-outreach-resources/ewic-editor-outreach" class="state-published contenttype-document" title="">
+            
+            <span>EWIC Editor Outreach</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+        </ul>
+        
+    </dd>
+</dl></div>
+
+
+
+
+            
+        </div>
+                
+            </div>
+        </div>
+        <div id="portal-footer-wrapper" class="row">
+            <div class="cell width-full position-0">
+                 
+
+                <ul id="portal-siteactions"><li id="siteaction-sitemap"><a href="http://sjoseph.ucdavis.edu/sitemap" accesskey="3" title="Site Map">Site Map</a></li>
+    <li id="siteaction-accessibility"><a href="http://sjoseph.ucdavis.edu/accessibility-info" accesskey="0" title="Accessibility">Accessibility</a></li>
+    <li id="siteaction-contact"><a href="http://sjoseph.ucdavis.edu/contact-info" accesskey="9" title="Contact">Contact</a></li>
+</ul><div id="portal-footer">
+          <p class="copyright">
+               
+               
+               Copyright
+               <abbr title="Copyright">©</abbr>
+               2012-2016
+               by 
+               <a href="http://www.ucdavis.edu">UCDavis </a>and <a href="http://sjoseph.ucdavis.edu">Suad Joseph</a>
+              
+               
+
+               
+          </p>
+
+</div>
+                <div id="portal-colophon">
+<div class="colophonWrapper">
+<ul><li>
+    <a href="http://plone.org" title="This site was built using the Plone Open Source CMS/WCM.">
+      Powered by Plone &amp; Python</a>
+  </li>
+</ul></div>
+</div>
+                
+                </div>
+        </div>
+    </div><div id="main-bg">
+        <div></div>
+    </div><div class="themeComment hiddenStructure visualNoPrint">This is Sliced Diazo Plone Theme</div></body></html>
