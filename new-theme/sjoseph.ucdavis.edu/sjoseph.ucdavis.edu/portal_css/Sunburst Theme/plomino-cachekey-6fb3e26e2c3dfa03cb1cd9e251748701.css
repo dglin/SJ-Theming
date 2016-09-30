@@ -1,0 +1,231 @@
+
+/* - plomino.css - */
+@media all {
+/* http://sjoseph.ucdavis.edu/portal_css/plomino.css?original=1 */
+/* */
+/* */
+.plominoLabelClass {
+color: #aaaaFF;
+border-style:dashed;
+border-width:thin;
+}
+.plominoFieldClass {
+color: #0000FF;
+border-style:dashed;
+border-width:thin;
+}
+.plominoActionClass {
+color: #FF0000;
+border-style:dashed;
+border-width:thin;
+}
+.plominoSubformClass {
+color: #C0C0C0;
+border-style:dashed;
+border-width:thin;
+}
+.plominoHidewhenClass {
+color: #00FF00;
+border-style:dashed;
+border-width:thin;
+}
+.plominoCacheClass {
+color: #dc7f7f;
+border-style:dashed;
+border-width:thin;
+}
+.plominoNoWrap {
+white-space: nowrap;
+}
+span.TEXTFieldRead-TEXTAREA {
+white-space: pre-line;
+}
+/* */
+table.plominoview {
+border-collapse: collapse;
+border-spacing: 0;
+border-left: 1px solid White;
+border-bottom: 1px solid White;
+font-size: 90%;
+margin: 1em 0em 1em 0em;
+}
+table.plominoview th {
+background: #dddddd;
+border-top: 1px solid White;
+border-bottom: 1px solid White;
+border-right: 1px solid White;
+font-weight: normal;
+padding: 0.25em 0.5em;
+text-transform: none;
+}
+table.plominoview td {
+border-right: 1px solid White;
+padding: 0.25em 0.5em;
+cursor: pointer;
+}
+table.plominoview tr:hover {
+background: #dddddd;
+}
+.plominoActive {
+cursor: pointer;
+}
+table.plominoview a {
+text-decoration: none;
+}
+table.plominoview a:hover {
+text-decoration: underline;
+}
+tr.datagrid_row_selected {
+border: 1px solid black;
+}
+tr.datagrid_row_selected td {
+background-color: #B0BED9;
+}
+/* */
+.mceContentBody .plomino-accordion-content {
+border: solid 1px #f00;
+margin: 3px;
+padding: 3px;
+}
+/* */
+.picklist {
+margin-top: 5px;
+padding: 5px;
+border: 1px solid #ccc;
+}
+/* */
+tr.collapsed, tr.expanded {
+cursor: pointer;
+}
+/* */
+.calendar {
+z-index: 1100;
+}
+a.viewlink {
+display: block;
+text-decoration: none;
+border: none !important;
+}
+/* */
+dd.plominoMessage a {
+border: none;
+float: right;
+}
+.plominoTraceback {
+float: right;
+}
+#debug-button {
+border:1px solid transparent;
+}
+#plominoTracebackPopup pre {
+background-color: #222;
+color: White;
+font-family: Consolas, Inconsolata, Menlo, "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace;
+padding: 1em;
+overflow: auto;
+height: 70%;
+font-size: 90%;
+margin-bottom: 1em;
+line-height: 1.25em;
+}
+dl.portlet-design-plomino dd.portletItem {
+padding: 0 1em;
+}
+dl.portlet-design-plomino dl.collapsible a:link {
+border: 0;
+}
+dl.portlet-design-plomino dt a:link,
+dl.portlet-design-plomino dt a:visited,
+dl.portlet-design-plomino dt a:hover {
+display: inline;
+}
+.portlet-design-plomino dl.collapsible dd ul {
+list-style-type: inherit;
+list-style-position: inside;
+}
+.portlet-design-plomino dl.collapsible dd ul li ul {
+list-style-type: circle;
+list-style-position: inside;
+}
+.CodeMirror {
+font-size: 12px;
+}
+/* */
+
+}
+
+
+/* - ++resource++ContentWellPortlets.styles/ContentWellPortlets.css - */
+@media all {
+/* http://sjoseph.ucdavis.edu/portal_css/++resource++ContentWellPortlets.styles/ContentWellPortlets.css?original=1 */
+.managePortletsAboveLink,
+.managePortletsBelowLink,
+.manageFooterPortletsLink,
+.manageInHeaderPortletsLink,
+.managePortletsBelowTitleLink { text-align: center; margin: 0 auto 1em; clear:both;}
+.portlet-manager-row .porlet-well_manager { width: 30%; float:left; margin:1%; }
+.portlet-manager-row { width:100%; float:left; }
+/* */
+div.width-1\3a 5 { width:    17.75%; } /* */
+div.width-2\3a 5 { width:    37.75%; } /* */
+div.width-3\3a 5 { width:    57.75%; } /* */
+div.width-4\3a 5 { width:    77.75%; } /* */
+div.position-1\3a 5 {margin-left:    -78.875%;} /* */
+div.position-2\3a 5 {margin-left:    -58.875%;} /* */
+div.position-3\3a 5 {margin-left:    -38.875%;} /* */
+div.position-4\3a 5 {margin-left:    -18.875%;} /* */
+div.width-1\3a 6 { width:    14.416%; } /* */
+div.width-5\3a 6 { width:    81.083%; } /* */
+div.position-1\3a 6 {margin-left:    -82.208%;} /* */
+div.position-5\3a 6 {margin-left:    -15.542%;} /* */
+
+}
+
+
+/* - ++resource++carousel.css - */
+@media screen {
+/* http://sjoseph.ucdavis.edu/portal_css/++resource++carousel.css?original=1 */
+.carousel {
+position: relative;
+margin-bottom: 1em;
+}
+.carousel-banner {
+display: none;
+overflow: hidden;
+}
+.carousel-text {
+background-color: #DDDDDD;
+bottom: 0;
+left: 0;
+padding: 2%;
+position: absolute;
+width: 96%;
+}
+.carousel-banner-1 {
+display: block;
+}
+.carousel-pager {
+margin: 0.75em 0;
+}
+.carousel-pager-item,
+.carousel-pager-button-prev,
+.carousel-pager-button-next {
+background-color: #DDDDDD;
+padding: 0.25em 0.5em;
+}
+.carousel-pager-item-active {
+background-color: #75AD0A;
+}
+.carousel-pager-item-active:link,
+.carousel-pager-item-active:visited,
+.carousel-pager-item-active .carousel-title {
+color: white;
+}
+.carousel-pager-item-classic {
+cursor: pointer;
+}
+.carousel-settings-introduction {
+margin-bottom: 1em;
+}
+}
+

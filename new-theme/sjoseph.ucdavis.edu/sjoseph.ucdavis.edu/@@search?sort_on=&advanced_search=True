@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://sjoseph.ucdavis.edu/news/aggregator" xml:lang="en">
+  <link rel="self" href="http://sjoseph.ucdavis.edu/news/aggregator/atom.xml"/>
+  <title type="html">News</title>
+  <subtitle>Site News</subtitle>
+  <updated>2014-03-06T17:14:42-07:00</updated>
+  <link rel="alternate" type="text/html" href="http://sjoseph.ucdavis.edu/news/aggregator"/>
+  <id>urn:syndication:b56a91c429a94c0981681a83e60fdbee</id>
+  <logo>http://sjoseph.ucdavis.edu/logo.png</logo>
+  <icon>http://sjoseph.ucdavis.edu/favicon.ico</icon>
+  <generator uri="http://www.plone.org" version="1.0">plone</generator>
+  
+  <author>
+    <name></name>
+    
+  </author>
+
+  
+    <entry>
+      <title>Suad Joseph to give lecture on "Studying Up" in Academia</title>
+      <link rel="alternate" type="text/html" href="http://sjoseph.ucdavis.edu/news/suad-joseph-to-give-lecture-on-studying-up-in-academia"/>
+      
+      <id>urn:syndication:a23a18d0bb994148b4717f6f81dd0503</id>
+      <summary></summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2015-02-04T11:18:04-07:00</published>
+
+      <updated>2015-05-12T16:23:11-07:00</updated>
+
+
+    </entry>
+
+  
+  
+    <entry>
+      <title>Dr. Joseph awarded Ford Foundation and Doha International Family Institute Grants</title>
+      <link rel="alternate" type="text/html" href="http://sjoseph.ucdavis.edu/news/anthropology-of-the-middle-east-a-new-millennium-of-research.-middle-east-studies-association.-washington-dc.-dec.-2011"/>
+      
+      <id>urn:syndication:fe424903fc1a4a0ca52ab2ed52394885</id>
+      <summary></summary>
+      
+
+      <author>
+        <name></name>
+        
+      </author>
+
+      <published>2013-05-16T14:10:00-07:00</published>
+
+      <updated>2014-04-25T19:57:49-07:00</updated>
+
+
+    </entry>
+
+  
+
+</feed>

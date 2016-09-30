@@ -1465,14 +1465,12 @@
 </li>
                 </ul></li></ul></div>
                     </div>
-                    <div class="top-image">
-                        
-        <a class="portal-logo" href="http://sjoseph.ucdavis.edu"><img src="http://sjoseph.ucdavis.edu/logo.png" alt="Dr. Suad Joseph" title="Dr. Suad Joseph" height="56" width="215" /></a>
-    
-                        <div class="slogan">
-         
-    </div>
-                    </div>
+                    <!-- <div class="top-image">
+                        <a href="." title="Home" class="portal-logo">
+                            <img width="348" height="99" alt="Python Reel Theme Logo" src="images/logo.png" />
+                        </a>
+                        <div class="slogan"></div>
+                    </div> -->
                 </div>
 
                 <div class="top-panels-wrap">
