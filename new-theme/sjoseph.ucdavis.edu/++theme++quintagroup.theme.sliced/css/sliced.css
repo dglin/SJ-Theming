@@ -371,6 +371,7 @@ div.position-0 {
   margin: 50px 0 ;
 }
 #portal-personaltools #anon-personalbar a {
+  white-space: nowrap;
   margin: 0;
 }
 /*****navigation****/
@@ -381,10 +382,17 @@ div.position-0 {
   display: inline-block;
   padding: 0px 25px 24px 25px;
   font: 18px/16px 'Arimo', sans-serif;
+  height: 100%;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 #theme-globalnav li:hover > a,
 #theme-globalnav li.selected > a {
   color: #127a89;
+}
+#theme-globalnav li:hover,
+#theme-globalnav li.selected {
   background-color: #d1cec4;
 }
 #theme-globalnav {
