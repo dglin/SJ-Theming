@@ -110,8 +110,9 @@ table {
 }
 
 #tabs > li {
-    width: 100px;
+    width: 110px;
     height:110px;
+		text-align: center;
 }
 
 #tabs > li:hover > a {
@@ -120,6 +121,7 @@ table {
 
 #tabs > li > ul {
     display:none;
+		text-align: left;
 }
 
 #tabs > li:hover {
@@ -234,10 +236,6 @@ h1 {
 
 .nav > li > ul > li {
     padding-bottom: 5px;
-}
-
-.navbar-inner > .container {
-    width: 100%;
 }
 
 #left-column {

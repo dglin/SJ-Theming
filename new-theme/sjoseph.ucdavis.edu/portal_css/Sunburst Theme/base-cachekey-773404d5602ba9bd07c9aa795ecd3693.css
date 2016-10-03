@@ -1110,6 +1110,7 @@ border-bottom-left-radius: 0.5em;
 #portal-personaltools #anon-personalbar a {
 float: left;
 margin: 0 0.5em;
+width: 100px
 }
 #portal-languageselector {
 float: right;
@@ -1257,6 +1258,7 @@ margin-top: 0.5em;
 }
 #content h1.documentFirstHeading {
 margin-top: 0;
+text-align: center;
 }
 #content p,
 #content table,
@@ -2624,6 +2626,8 @@ border: 0.4pt solid Black;
 }
 .image-inline {
 float: none;
+margin: 0 auto;
+display: block;
 }
 .image-right {
 float: right;

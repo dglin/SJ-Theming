@@ -11,7 +11,7 @@
 * a img,:link img,:visited img { border:none }
 a { outline: none; }
 table { border-spacing: 0; }
-img { vertical-align: text-bottom; }
+img { vertical-align: text-bottom; margin: 0 auto; display:block; }
 iframe { border-width: 0; border-style:none; }
 /* */
 
