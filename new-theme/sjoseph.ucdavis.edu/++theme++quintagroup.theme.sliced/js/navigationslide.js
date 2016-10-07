@@ -38,7 +38,8 @@ $(document).ready(function(){
     $(window).resize(function() {
         if ($(window).width() > 767) {
             //onStart();
-            calculateMargin();
+
+//             calculateMargin();
         } else {
             $('#theme-globalnav').css({ 'margin-left': "auto" });
         }
@@ -48,6 +49,8 @@ $(document).ready(function(){
 
         if ($(window).width() > 767) {
             if ($(window).scrollTop() > topHeight) {
+                $('.nav-wrapper').wrap('<div class="nav-placeholder"></div>');
+                $('.nav-placeholder').height($('.nav-wrapper').outerHeight());
                 $('.nav-wrapper').addClass('fixed');
                 $('.nav-wrapper.fixed .portal-logo').css({'opacity':'1'}); 
             } else {
@@ -57,5 +60,7 @@ $(document).ready(function(){
             }  
     });
     //onStart();
-    calculateMargin();
+
+
+//     calculateMargin();
 });
