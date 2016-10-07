@@ -1,5 +1,9 @@
 @charset "UTF-8";
 /********color and fonts******/
+ul.submenu {
+	word-wrap: break-word;
+}
+
 body {
   font: 14px/20px 'Arimo', sans-serif;
   color: #494949;
