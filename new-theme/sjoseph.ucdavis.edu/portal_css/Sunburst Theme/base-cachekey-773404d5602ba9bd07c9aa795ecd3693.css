@@ -2273,6 +2273,7 @@ display:none;
 left:0;
 position:absolute;
 top:100%;
+word-wrap: break-word;
 }
 #portal-globalnav li:hover > ul.submenu {
 display:block;
@@ -2289,12 +2290,13 @@ ul.submenu ul {
 top:0;
 left:100%;
 }
-ul.submenu a.state-published:hover,
+ul.submenu a.state-published,
 .selected ul.submenu .state-published {
-color: #fff !important;
+color: #127a89 !important;
 }
 
-}
+ul.submenu a.state-published:hover {
+color: #fff !important
 
 
 /* - ++resource++plone.app.discussion.stylesheets/discussion.css - */
