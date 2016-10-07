@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-    function onStart() {
+//    function onStart() {
 //        var leftMargin = (960 - $('#theme-globalnav').width())/2,
 //            logoWidth = $('.nav-wrapper .portal-logo').width();
 //        if ($(window).width() > 767) {
@@ -37,7 +37,7 @@ $(document).ready(function(){
 //    }
     $(window).resize(function() {
         if ($(window).width() > 767) {
-            onStart();
+            //onStart();
             calculateMargin();
         } else {
             $('#theme-globalnav').css({ 'margin-left': "auto" });
@@ -56,6 +56,6 @@ $(document).ready(function(){
                 }
             }  
     });
-    onStart();
+    //onStart();
     calculateMargin();
 });

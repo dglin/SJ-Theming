@@ -737,7 +737,7 @@ input.searchButton {
   font-size: 100%;
   margin: 10px 0;
   padding: 0;
-  min-width: 40px;
+  min-width: 75px;
 }
 dl.actionMenu.deactivated dt {
   margin: 0;
@@ -1560,7 +1560,8 @@ dl.portlet {
 }
 #portal-column-two,
 #portal-column-one {
-  padding: 8px 0 50px;
+  padding: 10px;
+  background-color: #e8e5de;
 }
 #portal-column-two .portletWrapper:first-child .portletHeader,
 #portal-column-one .portletWrapper:first-child .portletHeader {
@@ -3361,3 +3362,4 @@ dl.portlet ul.social-icons a:hover,
   display: block;
   margin: 0 auto;
 }
+
