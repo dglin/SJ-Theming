@@ -4,6 +4,10 @@ ul.submenu {
 	word-wrap: break-word;
 }
 
+#content h1.documentFirstHeading {
+	text-align: center;
+}
+
 body {
   font: 14px/20px 'Arimo', sans-serif;
   color: #494949;
