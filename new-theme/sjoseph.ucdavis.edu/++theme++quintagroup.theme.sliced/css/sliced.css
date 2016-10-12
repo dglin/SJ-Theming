@@ -4,6 +4,18 @@ ul.submenu {
 	word-wrap: break-word;
 }
 
+#content h1.documentFirstHeading {
+	text-align: center;
+}
+
+#theme-globalnav li.selected ul.submenu li a {
+	color: #127a89 !important;
+}
+
+#theme-globalnav li.selected ul.submenu li a:hover {
+	color: #fff !important;
+}
+
 body {
   font: 14px/20px 'Arimo', sans-serif;
   color: #494949;
@@ -3366,4 +3378,3 @@ dl.portlet ul.social-icons a:hover,
   display: block;
   margin: 0 auto;
 }
-
