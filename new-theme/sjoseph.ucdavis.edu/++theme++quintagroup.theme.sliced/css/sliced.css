@@ -571,6 +571,8 @@ div.position-0 {
       align-content: space-between;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+	align-items: center !important;
+	justify-content: center !important;
 }
 
 #theme-globalnav > li {
