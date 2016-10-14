@@ -395,13 +395,15 @@ div.position-0 {
   margin-top: 66px;
 }
 #theme-globalnav > li > a {
-  display: inline-block;
+  display: flex;
   padding: 0;
   font: 18px/16px 'Arimo', sans-serif;
   height: 100%;
-  position: absolute;
+  position: relative;
   left: 50%;
   transform: translateX(-50%);
+	align-items: center !important;
+	justify-content: center !important;
 }
 
 #theme-globalnav li.selected > a {
@@ -571,6 +573,8 @@ div.position-0 {
       align-content: space-between;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+	align-items: center !important;
+	justify-content: center !important;
 }
 
 #theme-globalnav > li {
