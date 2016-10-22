@@ -35,6 +35,10 @@ $(document).ready(function(){
 //            });
 //        }    
 //    }
+	$('.nav-wrapper').resize(function() {
+		var wrapper = $('#theme-globalnav');
+		$('.nav-wrapper').css('line-height', '' + wrapper.height());
+	});	
     $(window).resize(function() {
         if ($(window).width() > 767) {
             //onStart();
@@ -44,23 +48,47 @@ $(document).ready(function(){
             $('#theme-globalnav').css({ 'margin-left': "auto" });
         }
     });
-    $(window).bind('scroll', function() {   
-        var topHeight = $(".top-block").height();
 
-        if ($(window).width() > 767) {
+    $(window).bind('scroll', function() {
+        var topHeight = $(".top-block").height();
+        var el = $('.nav-placeholder');
+        if ($(window).width() > 0) {
             if ($(window).scrollTop() > topHeight) {
-                $('.nav-wrapper').wrap('<div class="nav-placeholder"></div>');
-                $('.nav-placeholder').height($('.nav-wrapper').outerHeight());
-                $('.nav-wrapper').addClass('fixed');
-                $('.nav-wrapper.fixed .portal-logo').css({'opacity':'1'}); 
+                if(!el.length) {
+                    $('.trigger-box').wrap('<div class="nav-placeholder"></div>');
+                    $('.nav-placeholder').height($('.trigger-box').outerHeight());
+                }
+                $('.trigger-box').addClass('fixed');
+                $('.trigger.fixed .portal-logo').css({'opacity':'1'}); 
             } else {
-                $('.nav-wrapper').removeClass('fixed');
-                $('.nav-wrapper .portal-logo').css({'opacity':'0'});
+                el.before($('.trigger-box'));
+                el.remove();
+                $('.trigger-box').removeClass('fixed');
+                $('.trigger-box .portal-logo').css({'opacity':'0'});
                 }
             }  
     });
     //onStart();
-
-
 //     calculateMargin();
+
+    $('label[for="nav-trigger"').bind('click', function() {
+		var wrapper = $('.nav-wrapper');
+		var themenav = $('#theme-globalnav');
+		if (wrapper.attr('data-slid') === "slidout") {
+			themenav.animate({marginLeft: "-120em"}, 100).promise().done(function() {
+					themenav.css('display', 'none');
+			});
+			wrapper.animate({width: "3em"}, 1000, function() {
+					wrapper.attr('data-slid', 'slidin');
+			});
+			
+		} else if (wrapper.attr('data-slid') === "slidin") {
+			themenav.css('display', 'flex');
+			wrapper.animate({width: "100%"}, 500);
+			themenav.animate({marginLeft: 0}, 100, function() {
+					wrapper.attr('data-slid', 'slidout');
+				});
+		}
+        $('.nav_placeholder').height($('.nav-wrapper').height());
+    });
 });

@@ -1,9 +1,9 @@
 @charset "UTF-8";
 /********color and fonts******/
 ul.submenu {
-	word-wrap: break-word;
-	max-height: 500px
-	overflow-y: auto;
+    word-wrap: break-word;
+    max-height: 500px;
+    overflow-y: auto;
 }
 
 #content h1.documentFirstHeading {
@@ -163,6 +163,10 @@ label {
   z-index: 2;
 }
 .nav-wrapper {
+  display: flex;
+  align-content: space-around;
+  flex-direction: row-reverse;
+  min-height: 20em;
   width: 100%;
 }
 #content li,
@@ -210,6 +214,13 @@ dl.portlet li,
   padding: 0;
   margin: 0;
   width: 0;
+}
+.nohighlight {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 /************grid***********/
 div.width-full {
@@ -393,6 +404,27 @@ div.position-0 {
   margin: 0;
 }
 /*****navigation****/
+#nav-trigger {
+    display: none;
+}
+
+label[for="nav-trigger"] {
+	background-color: transparent;
+/*     position: relative; */
+/*     top: 50%; */
+/*     height: 100%; */
+    padding: 2px;
+/*     margin: 5px; */
+/*     float: right; */
+}
+
+label[for="nav-trigger"]:hover {
+    border-radius: 5%;
+    color: white;
+    background-color: #127a89;
+    cursor: pointer;
+}
+
 .top-image {
   margin-top: 66px;
 }
@@ -549,16 +581,19 @@ div.position-0 {
   z-index: 10;
   max-width: 80%;
   margin: 0 auto;
+  float: left;
+	-webkit-transition: width 2s;
+    transition: width 2s;
 }
 .nav_center_block .portal-logo {
   opacity: 0;
 }
-.nav-wrapper.fixed {
+.trigger-box.fixed {
   position: fixed;
   top: 0;
   z-index: 1;
 }
-.nav-wrapper.fixed #theme-globalnav {
+.trigger-box.fixed #theme-globalnav {
   text-align: left;
 }
 #portal-top #portal-header .nav-wrapper,
@@ -3384,3 +3419,6 @@ dl.portlet ul.social-icons a:hover,
   display: block;
   margin: 0 auto;
 }
+
+
+
