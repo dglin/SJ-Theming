@@ -7,7 +7,7 @@ $(document).ready(function(){
 	$(window).bind('scroll', function() {
 		$('.nav-wrapper').addClass('fixed');
 	});
-
+	
     $('label[for="nav-trigger"]').bind('click', function() {
 		var wrapper = $('.nav-wrapper');
 		var themenav = $('#theme-globalnav');
@@ -25,9 +25,12 @@ $(document).ready(function(){
 			$('.placeholder').animate({height: "0"}, 500).promise().done(function() {
 				wrapper.attr('data-slid', 'slidin');
 			});
-		} else if (wrapper.attr('data-slid') === "slidin") {
-			label.removeClass('right');
+		} else if (wrapper.attr('data-slid') === "slidin") { // TODO: If scrollTop is zero, then animate placeholder
+			label.removeClass('right');						 // 	  back out to full width.
 			label.addClass('left');
+			if ($(window).scrollTop() == 0) {
+				$('.placeholder').animate({height: wrapper.height()}, 500);
+			}
 			wrapper.animate({width: "100%"}, 500); // TODO: Animate opacity to 100
 			themenav.animate({marginLeft: 0}, 100).promise().done(function() {
 				wrapper.attr('data-slid', 'slidout');
