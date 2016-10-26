@@ -403,6 +403,28 @@ div.position-0 {
   white-space: nowrap;
   margin: 0;
 }
+.chevron::before {
+	border-style: solid;
+	border-width: 0.25em 0.25em 0 0;
+	content: '';
+	display: inline-block;
+	position: relative;
+	height: 2em;
+	width: 2em;
+	top: 8em;
+	transform: rotate(-45deg);
+	vertical-align: center;
+}
+
+.chevron.right:before {
+	right: .5em;
+	transform: rotate(45deg);
+}
+
+.chevron.left:before {
+	left: .5em;
+	transform: rotate(-135deg);
+}
 /*****navigation****/
 #nav-trigger {
     display: none;
@@ -410,18 +432,10 @@ div.position-0 {
 
 label[for="nav-trigger"] {
 	background-color: transparent;
-/*     position: relative; */
-/*     top: 50%; */
-/*     height: 100%; */
-    padding: 2px;
-/*     margin: 5px; */
-/*     float: right; */
 }
 
 label[for="nav-trigger"]:hover {
-    border-radius: 5%;
-    color: white;
-    background-color: #127a89;
+    color: #127a89;
     cursor: pointer;
 }
 
@@ -588,12 +602,11 @@ label[for="nav-trigger"]:hover {
 .nav_center_block .portal-logo {
   opacity: 0;
 }
-.trigger-box.fixed {
+.nav-wrapper.fixed {
   position: fixed;
-  top: 0;
-  z-index: 1;
+  z-index: 999999;
 }
-.trigger-box.fixed #theme-globalnav {
+.nav-wrapper.fixed #theme-globalnav {
   text-align: left;
 }
 #portal-top #portal-header .nav-wrapper,
