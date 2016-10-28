@@ -1,4 +1,10 @@
 @charset "UTF-8";
+
+:root {
+  main_color: #494949;
+  first_color: #c00016;
+  secondary_color: #bc0004;
+}
 /********color and fonts******/
 ul.submenu {
     word-wrap: break-word;
@@ -7,11 +13,11 @@ ul.submenu {
 }
 
 #content h1.documentFirstHeading {
-	text-align: center;
+    text-align: center;
 }
 
 #theme-globalnav li.selected ul.submenu li a {
-	color: #127a89 !important;
+    color: #c00016 !important;
 }
 
 #theme-globalnav li.selected ul.submenu li a:hover {
@@ -89,7 +95,7 @@ td > img {
   display: none;
 }
 a:link {
-  color: #127a89;
+  color: #c00016;
 }
 /* a:visited, */
 h1,
@@ -117,7 +123,7 @@ h3 {
 }
 h4 {
   font: 16px/22px Georgia;
-  color: #127a89;
+  color: #c00016;
   padding-bottom: 10px;
 }
 h5 {
@@ -135,12 +141,12 @@ abbr {
 label {
   font-weight: normal;
 }
-.portletLogin label {
+.portletLogin {
   padding-bottom: 8px;
   display: inline-block;
 }
 #content-core input {
-  border: 1px solid #127a89;
+  border: 1px solid #c00016;
   padding: 7px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -345,7 +351,7 @@ div.position-0 {
   color: #fff;
 }
 #portal-header a:hover {
-  color: #97d5de;
+  color: #bc0004;
 }
 .owl-carousel .owl-item img {
   width: 100%;
@@ -432,10 +438,12 @@ div.position-0 {
 
 label[for="nav-trigger"] {
 	background-color: transparent;
+    align-self: center;
+    margin-right:20px;
 }
 
 label[for="nav-trigger"]:hover {
-    color: #127a89;
+    color: #c00016;
     cursor: pointer;
 }
 
@@ -455,14 +463,14 @@ label[for="nav-trigger"]:hover {
 }
 
 #theme-globalnav li.selected > a {
-  color: #127a89;
+  color: white;
 }
 #theme-globalnav li.selected {
-  background-color: #d1cec4;
+  background-color: #c00016;
 }
 
 #theme-globalnav li:hover {
-  background-color: #127a89;
+  background-color: #c00016;
 }
 
 #theme-globalnav li:hover > a {
@@ -500,7 +508,7 @@ label[for="nav-trigger"]:hover {
 #theme-globalnav:not(.megamenu-nav) li ul a {
   padding: 15px 30px;
   display: block;
-  color: #127a89;
+  color: #c00016;
   font: 16px/20px 'Arimo', sans-serif;
 }
 #theme-globalnav:not(.megamenu-nav) li ul:focus a {
@@ -558,7 +566,7 @@ label[for="nav-trigger"]:hover {
   width: 1px;
   height: 12px;
   position: absolute;
-  background: #127a89;
+  background: #c00016;
   left: 50%;
   bottom: 0;
 }
@@ -570,7 +578,7 @@ label[for="nav-trigger"]:hover {
   bottom: auto;
 }
 #theme-globalnav li ul li:not(.LSRow):hover > a {
-  background: #127a89;
+  background: #c00016;
   color: #fff;
 }
 .nav-wrapper .portal-logo {
@@ -629,7 +637,7 @@ label[for="nav-trigger"]:hover {
 
 #theme-globalnav > li {
     width: 150px;
-    height: 110px;
+    height: 70px;
     padding-top: 10px;
 }
 
@@ -639,7 +647,7 @@ label[for="nav-trigger"]:hover {
 
 #portal-megamenu .megamenu-nav:hover > li:hover > a {
   background: none;
-  color: #127a89;
+  color: #c00016;
 }
 #portal-megamenu .subs .portletCalendar .portletHeader a {
   display: inline-block;
@@ -697,7 +705,7 @@ label[for="nav-trigger"]:hover {
   cursor: pointer;
 }
 #portal-header #portal-searchbox .fa-search:hover:before {
-  color: #97d5de;
+  color: #bc0004;
 }
 #portal-header #portal-searchbox .searchSection {
   display: none;
@@ -712,7 +720,7 @@ label[for="nav-trigger"]:hover {
   color: #494949;
 }
 #portal-header #portal-searchbox #LSResult a {
-  color: #127a89;
+  color: #c00016;
 }
 #portal-header #portal-searchbox #LSResult a:hover {
   color: #494949;
@@ -789,7 +797,7 @@ input.searchButton {
   padding: 0;
 }
 #portal-languageselector .currentLanguage a {
-  color: #97d5de;
+  color: #bc0004;
 }
 #portal-languageselector a {
   color: #fff;
@@ -798,7 +806,7 @@ input.searchButton {
   font: 14px/20px 'Arimo', sans-serif;
 }
 #portal-languageselector a:hover {
-  color: #97d5de;
+  color: #bc0004;
 }
 /*******personaltools******/
 #portal-personaltools {
@@ -813,7 +821,7 @@ dl.actionMenu.deactivated dt {
   margin: 0;
 }
 #portal-header .activated dt a {
-  color: #97d5de;
+  color: #bc0004;
 }
 #portal-personaltools dd {
   background: #fff;
@@ -834,7 +842,7 @@ dl.actionMenu.activated dd {
   display: block;
 }
 .top-block .actionMenuContent li:hover {
-  background: #127a89;
+  background: #c00016;
 }
 #portal-personaltools dd a {
   line-height: 18px;
@@ -861,7 +869,7 @@ dl.actionMenu.activated dd div {
   width: 100%;
   float: left;
   background: #646464;
-  color: #97d5de;
+  color: #bc0004;
 }
 #theme-globalnav .subs dl.portlet dt a:link,
 .top-panels-wrap dl.portlet dt a:link,
@@ -912,7 +920,7 @@ dl.actionMenu.activated dd div {
 #theme-globalnav .subs .panel dl.portlet.portletStaticText .portletItem:hover a:hover,
 .top-panels-wrap .panel dl.portlet.portletStaticText .portletItem:hover a:hover,
 .panel-below-content .panel dl.portlet.portletStaticText .portletItem:hover a:hover {
-  color: #97d5de !important;
+  color: #bc0004 !important;
 }
 #theme-globalnav .subs .panel dl.portlet.portletStaticText .portletItem:hover a,
 .top-panels-wrap .panel dl.portlet.portletStaticText .portletItem:hover a,
@@ -928,12 +936,12 @@ dl.actionMenu.activated dd div {
 #theme-globalnav .subs .portletItemDetails,
 .top-panels-wrap .portletItemDetails,
 .panel-below-content .portletItemDetails {
-  color: #97d5de;
+  color: #bc0004;
 }
 #theme-globalnav .subs .event.today,
 .top-panels-wrap .event.today,
 .panel-below-content .event.today {
-  color: #97d5de;
+  color: #bc0004;
   font-weight: bold;
 }
 #theme-globalnav .subs .event.today:hover,
@@ -952,7 +960,7 @@ dl.collapsible {
 .top-panels-wrap .qg-item .portletItem .documentDescription,
 .panel-below-content .qg-item .portletItem .documentDescription {
   font: 14px/20px 'Arimo', sans-serif;
-  color: #97d5de;
+  color: #bc0004;
 }
 /*******content******/
 .main-section {
@@ -965,7 +973,7 @@ dl.collapsible {
   margin: 0;
 }
 #content .documentDescription {
-  color: #127a89;
+  color: #c00016;
 }
 .documentContent,
 .portalMessage.info {
@@ -996,13 +1004,13 @@ fieldset,
   font-weight: normal;
 }
 #content fieldset {
-  border-color: #127a89;
+  border-color: #c00016;
 }
 #content legend {
   font-size: 100%;
 }
 .ploneCalendar td.today {
-  color: #127a89;
+  color: #c00016;
   font-weight: bold;
 }
 #content a:visited,
@@ -1013,13 +1021,13 @@ dl.portlet a:link,
 dl.portlet a:visited,
 #content a.link-overlay {
   border-bottom: 0 !important;
-  color: #127a89;
+  color: #c00016;
 }
 #content a:hover {
   color: #494949 !important;
 }
 dl.portlet .portletHeader a:hover {
-  color: #127a89 !important;
+  color: #c00016 !important;
 }
 dl.portlet dd a:hover {
   color: #494949 !important;
@@ -1030,7 +1038,7 @@ dl.portlet dd a:hover {
   padding: 9px 0;
 }
 #portal-breadcrumbs a {
-  color: #127a89;
+  color: #c00016;
 }
 #portal-breadcrumbs a:hover {
   color: #494949;
@@ -1166,16 +1174,16 @@ dl.portlet dt a:visited {
   color: #494949;
 }
 dl.portlet dt a:hover {
-  color: #127a89;
+  color: #c00016;
 }
 #content .callout,
 .portletStaticText .callout {
-  color: #97d5de;
+  color: #bc0004;
   background: rgba(255, 255, 255, 0.8);
   border: 0;
 }
 /* .state-published {
-  color: #127a89 !important;
+  color: #c00016 !important;
 } */
 #content-core dt .contenttype-event {
   font: 20px/28px Georgia;
@@ -1487,13 +1495,13 @@ div.header h3 {
 }
 .panel dl.portlet.portletOWLCarousel .itemDate,
 .panel .portletOWLCarousel .itemDate {
-  color: #97d5de;
+  color: #bc0004;
 }
 .panel dl.portlet.portletOWLCarousel .itemTitle,
 .panel .portletOWLCarousel .itemTitle {
   padding: 35px 0 26px;
   font: 20px/24px 'Arimo', sans-serif;
-  color: #97d5de;
+  color: #bc0004;
 }
 .panel dl.portlet.portletOWLCarousel .itemTitle:hover,
 .panel .portletOWLCarousel .itemTitle:hover {
@@ -1522,17 +1530,17 @@ div.header h3 {
 }
 #portal-column-one dl.portlet.portletOWLCarousel .itemDate,
 #portal-column-two dl.portlet.portletOWLCarousel .itemDate {
-  color: #127a89;
+  color: #c00016;
 }
 .panel-above-content .panel dl.portlet.portletOWLCarousel .itemDate,
 #portal-footer-wrapper .panel dl.portlet.portletOWLCarousel .itemDate,
 .panel-above-content .panel .portletOWLCarousel .itemDate,
 #portal-footer-wrapper .panel .portletOWLCarousel .itemDate {
-  color: #127a89 !important;
+  color: #c00016 !important;
 }
 .panel-above-content .panel dl.portlet.portletOWLCarousel .itemTitle,
 #portal-footer-wrapper .panel dl.portlet.portletOWLCarousel .itemTitle {
-  color: #127a89 !important;
+  color: #c00016 !important;
 }
 .panel-above-content .panel dl.portlet.portletOWLCarousel .itemTitle:hover,
 #portal-footer-wrapper .panel dl.portlet.portletOWLCarousel .itemTitle:hover {
@@ -1545,7 +1553,7 @@ div.header h3 {
 }
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background-color: #97d5de;
+  background-color: #bc0004;
 }
 .panel-above-content .owl-theme .owl-controls .owl-page span,
 #portal-footer-wrapper .owl-theme .owl-controls .owl-page span {
@@ -1555,7 +1563,7 @@ div.header h3 {
 #portal-footer-wrapper .owl-theme .owl-controls .owl-page.active span,
 .panel-above-content .owl-theme .owl-controls.clickable .owl-page:hover span,
 #portal-footer-wrapper .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background-color: #127a89;
+  background-color: #c00016;
 }
 .top-panels-wrap .portletOWLCarousel .portletItem .itemDescription {
   color: #494949 !important;
@@ -1574,7 +1582,7 @@ div.header h3 {
 #portal-column-two .itemTitle,
 #portal-column-one .itemTitle {
   font: 20px/24px 'Arimo', sans-serif;
-  color: #127a89;
+  color: #c00016;
   padding: 20px 0 12px;
   display: block;
 }
@@ -1599,7 +1607,7 @@ div.header h3 {
 #portal-column-one .owl-theme .owl-controls.clickable .owl-page.active span,
 #portal-column-two .owl-theme .owl-controls.clickable .owl-page:hover span,
 #portal-column-one .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background: #127a89;
+  background: #c00016;
 }
 #portal-column-two .owl-theme .owl-controls,
 #portal-column-one .owl-theme .owl-controls {
@@ -1675,7 +1683,7 @@ dl.portlet dt a {
   padding: 5px;
 }
 #content-core table th {
-  color: #127a89;
+  color: #c00016;
   font: normal 18px/24px 'Arimo', sans-serif;
 }
 #content table th,
@@ -1748,7 +1756,7 @@ dl.portlet.portletQgCarousel dt a:hover {
   width: 15px;
 }
 .portletQgCarousel .qg-buttons button:hover {
-  color: #97d5de;
+  color: #bc0004;
 }
 .portletQgCarousel .qg-buttons button:before {
   content: ">";
@@ -1770,7 +1778,7 @@ dl.portlet.portletQgCarousel dt a:hover {
 }
 #portal-footer-wrapper .qg-buttons button:hover,
 .panel-above-content .qg-buttons button:hover {
-  color: #127a89;
+  color: #c00016;
 }
 dl.portlet.portletQgCarousel .qg-carousel dd.portletItem {
   padding-top: 0;
@@ -1894,8 +1902,8 @@ input.searchButton:hover {
 }
 #portal-megamenu input.searchField,
 .top-panels-wrap input.searchField {
-  background-color: #97d5de;
-  border-color: #97d5de;
+  background-color: #bc0004;
+  border-color: #bc0004;
   color: #fff;
 }
 #portal-megamenu input.searchField:hover,
@@ -1922,8 +1930,8 @@ input.searchButton:hover {
 #portal-footer-wrapper .LSBox input.searchField,
 #portal-columns .LSBox input.searchField,
 .panel-above-content .LSBox input.searchField {
-  background-color: #127a89;
-  border-color: #127a89;
+  background-color: #c00016;
+  border-color: #c00016;
   color: #fff;
 }
 #portal-footer-wrapper .LSBox .searchField:hover,
@@ -1938,7 +1946,7 @@ input.searchButton:hover {
 #portal-footer-wrapper .LSBox .searchField:focus ~ .fa-search,
 #portal-columns .LSBox .searchField:focus ~ .fa-search,
 .panel-above-content .LSBox .searchField:focus ~ .fa-search {
-  color: #127a89;
+  color: #c00016;
 }
 #content-core #search-field {
   max-width: 300px;
@@ -1949,8 +1957,8 @@ input.searchButton:hover {
   right: 10px;
 }
 #content-core #search-field input.searchPage {
-  background-color: #127a89;
-  border-color: #127a89;
+  background-color: #c00016;
+  border-color: #c00016;
   color: #fff !important;
   font-size: 20px !important;
   /* fixed base.css line 519 */
@@ -1959,7 +1967,7 @@ input.searchButton:hover {
 #content-core #search-field .searchPage:focus,
 #content-core #search-field .searchPage:hover ~ .fa-search,
 #content-core #search-field .searchPage:focus ~ .fa-search {
-  color: #127a89;
+  color: #c00016;
 }
 #content-core #search-field input.searchPage.searchButton {
   background-color: transparent;
@@ -1967,7 +1975,7 @@ input.searchButton:hover {
   padding: 0;
 }
 #content-core #search-field .searchPage:focus ~ input.searchPage.searchButton:hover {
-  color: #127a89;
+  color: #c00016;
 }
 #content-core #search-field input.searchPage.searchButton:hover {
   color: #fff;
@@ -1976,8 +1984,8 @@ input.searchButton:hover {
   color: #fff;
 }
 .panel-below-content .LSBox input.searchField {
-  background-color: #97d5de;
-  border-color: #97d5de;
+  background-color: #bc0004;
+  border-color: #bc0004;
   color: #fff;
 }
 .panel-below-content .LSBox .searchField:hover,
@@ -2020,7 +2028,7 @@ input.searchButton:hover {
   background: #fff;
 }
 .panel-below-content dl.portlet .livesearchContainer a {
-  color: #97d5de !important;
+  color: #bc0004 !important;
 }
 body .panel-below-content dl.portlet .livesearchContainer a,
 body .panel-below-content dl.portlet .LSShadow a:hover {
@@ -2032,7 +2040,7 @@ body .panel-below-content dl.portlet .LSShadow a:hover {
 #portal-columns input.searchField:focus::-webkit-input-placeholder,
 .panel-above-content input.searchField:hover::-webkit-input-placeholder,
 .panel-above-content input.searchField:focus::-webkit-input-placeholder {
-  color: #127a89;
+  color: #c00016;
   opacity: 1;
 }
 #portal-footer-wrapper input.searchField:hover::-moz-placeholder,
@@ -2041,7 +2049,7 @@ body .panel-below-content dl.portlet .LSShadow a:hover {
 #portal-columns input.searchField:focus::-moz-placeholder,
 .panel-above-content input.searchField:hover::-moz-placeholder,
 .panel-above-content input.searchField:focus::-moz-placeholder {
-  color: #127a89;
+  color: #c00016;
   opacity: 1;
 }
 #portal-footer-wrapper input.searchField:hover:-ms-input-placeholder,
@@ -2050,7 +2058,7 @@ body .panel-below-content dl.portlet .LSShadow a:hover {
 #portal-columns input.searchField:focus:-ms-input-placeholder,
 .panel-above-content input.searchField:hover:-ms-input-placeholder,
 .panel-above-content input.searchField:focus:-ms-input-placeholder {
-  color: #127a89;
+  color: #c00016;
   opacity: 1;
 }
 #portal-footer-wrapper .portletSearch input.searchField:focus,
@@ -2129,7 +2137,7 @@ body .panel-below-content dl.portlet .LSShadow a:hover {
   border-radius: 0;
 }
 .pae_calendar_tooltip a {
-  color: #127a89;
+  color: #c00016;
 }
 .pae_calendar_tooltip a:hover {
   color: #494949;
@@ -2221,13 +2229,13 @@ body .panel-below-content dl.portlet .LSShadow a:hover {
   transition: all 0.2s ease-in-out;
 }
 .portletShelf .item .itemDate {
-  color: #97d5de;
+  color: #bc0004;
   padding: 0;
   margin: 0;
 }
 .panel-above-content .item .itemDate,
 #portal-footer-wrapper .item .itemDate {
-  color: #127a89;
+  color: #c00016;
 }
 .portletShelf .item .itemDate,
 .portletShelf .item .itemDescription {
@@ -2340,7 +2348,7 @@ body .panel-below-content dl.portlet .LSShadow a:hover {
 }
 .panel-below-content .resp-tab-item,
 #portal-top .resp-tab-item {
-  color: #97d5de;
+  color: #bc0004;
 }
 #portal-footer-wrapper .resp-tabs-container,
 .panel-above-content .resp-tabs-container,
@@ -2350,7 +2358,7 @@ body .panel-below-content dl.portlet .LSShadow a:hover {
 }
 #portal-footer-wrapper .portletItemTitle,
 .panel-above-content .portletItemTitle {
-  color: #127a89;
+  color: #c00016;
 }
 #portal-footer-wrapper .resp-tab-item.resp-tab-active .portletItemTitle,
 .panel-above-content .resp-tab-item.resp-tab-active .portletItemTitle {
@@ -2363,7 +2371,7 @@ body .panel-below-content dl.portlet .LSShadow a:hover {
 }
 #portal-footer-wrapper .resp-tab-content.resp-tab-content-active a:hover,
 .panel-above-content .resp-tab-content.resp-tab-content-active a:hover {
-  color: #127a89 !important;
+  color: #c00016 !important;
 }
 /********login********/
 div.overlay {
@@ -2411,7 +2419,7 @@ div.overlay #content-core .formControls input[type="submit"] {
   box-sizing: border-box;
 }
 #exposeMask {
-  background-color: #97d5de !important;
+  background-color: #bc0004 !important;
   opacity: 0.4 !important;
 }
 div.overlay #login-forgotten-password a:hover {
@@ -2427,7 +2435,7 @@ div.overlay #login-forgotten-password a:hover {
 }
 .portletLogin input {
   padding: 7px;
-  border: #127a89;
+  border: #c00016;
   background: #fff;
   width: 100% !important;
   -webkit-box-sizing: border-box;
@@ -2463,16 +2471,16 @@ div.overlay #login-forgotten-password a:hover {
 }
 .portletLogin input {
   background: #f0f0f0;
-  border: 1px solid #127a89;
+  border: 1px solid #c00016;
 }
 #portal-footer-wrapper .portletLogin input {
   background: #eaeaea;
 }
 #portal-footer-wrapper .portletLogin .formControls input {
-  background: #127a89;
+  background: #c00016;
 }
 #portal-footer-wrapper .portletLogin .formControls input:hover {
-  background: #97d5de;
+  background: #bc0004;
 }
 .panel-above-content .portletLogin .field input {
   background: #fff;
@@ -2504,7 +2512,7 @@ dl.portlet ul.navTree li a {
   color: #494949;
 }
 dl.portlet ul.navTree li a:hover {
-  color: #127a89 !important;
+  color: #c00016 !important;
 }
 /*******edit panels******/
 #edit-bar {
@@ -2520,7 +2528,7 @@ dl.portlet ul.navTree li a:hover {
   border: 0;
 }
 .formControls input {
-  background: #127a89;
+  background: #c00016;
   border: 0;
   color: #fff;
   padding: 5px;
@@ -2528,12 +2536,12 @@ dl.portlet ul.navTree li a:hover {
   font: 16px/22px 'Arimo', sans-serif !important;
 }
 .formControls input:hover {
-  background: #97d5de;
+  background: #bc0004;
   cursor: pointer;
 }
 #content-core input.context,
 #content-core input.standalone {
-  background: #127a89;
+  background: #c00016;
   border: 0;
   color: #fff;
   padding: 7px;
@@ -2541,7 +2549,7 @@ dl.portlet ul.navTree li a:hover {
 }
 #content-core input.context:hover,
 #content-core input.standalone:hover {
-  background: #97d5de;
+  background: #bc0004;
   cursor: pointer;
 }
 dl.collapsedInlineCollapsible dt.collapsibleHeader,
@@ -2586,7 +2594,7 @@ div.formControls {
 }
 #content .event_listing nav a:hover,
 #content .event_listing nav li.selected a {
-  color: #127a89 !important;
+  color: #c00016 !important;
 }
 #portal-columns #content-core .mode_ical img,
 #portal-columns #content-core .event_ical img {
@@ -2626,7 +2634,7 @@ div.formControls {
 #content-core li.formTab a.selected,
 #content-core li.formTab a:hover {
   background: #646464;
-  color: #97d5de !important;
+  color: #bc0004 !important;
 }
 #link-presentation {
   display: none;
@@ -2649,7 +2657,7 @@ div.formControls {
 #contentActionMenus dl.actionMenu.activated dd a:hover,
 #contentActionMenus dl.actionMenu.activated dd .actionMenuSelected #contentActionMenus dl.actionMenu.activated dd a:hover,
 #contentActionMenus dl.actionMenu.activated dd .actionMenuSelected {
-  color: #97d5de !important;
+  color: #bc0004 !important;
 }
 #contentActionMenus dl.actionMenu.activated dd {
   padding: 0;
@@ -2672,7 +2680,7 @@ div.formControls {
 }
 #contentActionMenus dl.actionMenu a:hover,
 #contentActionMenus dl.actionMenu.activated dd a:hover {
-  color: #97d5de;
+  color: #bc0004;
 }
 /*******event-page******/
 .event_listing {
@@ -2804,7 +2812,7 @@ table.listing tbody tr.odd td {
   font: 14px/20px 'Arimo', sans-serif;
   padding: 9px 15px;
   display: inline-block;
-  color: #127a89;
+  color: #c00016;
 }
 #portal-siteactions li a:hover {
   color: #494949;
@@ -2830,7 +2838,7 @@ table.listing tbody tr.odd td {
 #portal-footer a,
 #portal-colophon a {
   font: 14px/20px 'Arimo', sans-serif;
-  color: #97d5de;
+  color: #bc0004;
 }
 #portal-footer a:hover,
 #portal-colophon a:hover {
@@ -3111,7 +3119,7 @@ dl.portlet ul.social-icons a:hover,
   }
   .panel-below-content .resp-arrow,
   #portal-top .resp-arrow {
-    border-top-color: #97d5de;
+    border-top-color: #bc0004;
   }
   .panel-below-content .resp-tab-active .resp-arrow,
   #portal-top .resp-tab-active .resp-arrow {
@@ -3119,7 +3127,7 @@ dl.portlet ul.social-icons a:hover,
   }
   .panel-below-content .resp-accordion:not(.resp-tab-active),
   #portal-top .resp-accordion:not(.resp-tab-active) {
-    color: #97d5de;
+    color: #bc0004;
     background-color: rgba(255, 255, 255, 0.2);
   }
   #portal-footer-wrapper .resp-tab-content-active,
@@ -3130,7 +3138,7 @@ dl.portlet ul.social-icons a:hover,
   }
   #portal-footer-wrapper .resp-accordion:not(.resp-tab-active),
   .panel-above-content .resp-accordion:not(.resp-tab-active) {
-    color: #127a89;
+    color: #c00016;
     background-color: #F0F0F0;
   }
   #portal-footer-wrapper .resp-accordion.resp-tab-active .portletItemTitle,
@@ -3194,7 +3202,7 @@ dl.portlet ul.social-icons a:hover,
   #globalnav-wrapper .globalnav-toggle:hover .icon-bar,
   .megamenu.open .navbar-toggle .icon-bar,
   .megamenu .navbar-toggle:hover .icon-bar {
-    background-color: #127a89;
+    background-color: #c00016;
   }
   #theme-globalnav li:hover > ul,
   #portal-megamenu #theme-globalnav,
@@ -3223,7 +3231,7 @@ dl.portlet ul.social-icons a:hover,
   #globalnav-wrapper #theme-globalnav li.open > a,
   #globalnav-wrapper #theme-globalnav > li:hover > a,
   #globalnav-wrapper #theme-globalnav .selected > a {
-    background-color: #127a89;
+    background-color: #c00016;
     color: #fff;
   }
   #globalnav-wrapper #theme-globalnav {
@@ -3237,7 +3245,7 @@ dl.portlet ul.social-icons a:hover,
     top: 20px;
     width: 9px;
     height: 1px;
-    background-color: #127a89;
+    background-color: #c00016;
   }
   #globalnav-wrapper #theme-globalnav > li.plus:after {
     top: 8px;
@@ -3292,7 +3300,7 @@ dl.portlet ul.social-icons a:hover,
     content: none;
   }
   #portal-megamenu .plus.open > a {
-    color: #127a89;
+    color: #c00016;
     background-color: transparent;
   }
   .megamenu button.navbar-toggle {

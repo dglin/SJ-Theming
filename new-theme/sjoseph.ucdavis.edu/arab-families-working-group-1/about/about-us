@@ -7,7 +7,7 @@
                 {dateFormat: 'mm/dd/yy'}));
             }
         });
-        </script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="generator" content="Plone - http://plone.org" /><meta name="viewport" content="width=device-width" /><link rel="stylesheet" href="/++theme++quintagroup.theme.sliced/css/sliced.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/social.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.css" /><link href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic" rel="stylesheet" type="text/css" /><style type="text/css" media="screen">
+        </script><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="generator" content="Plone - http://plone.org" /><meta name="viewport" content="width=device-width" /><link rel="stylesheet" href="/++theme++quintagroup.theme.sliced/css/sliced.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/social.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.min.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/animate.css" /><link rel="stylesheet" type="text/css" href="/++theme++quintagroup.theme.sliced/css/custom.css" /><link href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic" rel="stylesheet" type="text/css" /><style type="text/css" media="screen">
 		.nav_center_block .portal-logo {
           	opacity: 1 !important;
     		}
@@ -83,199 +83,21 @@
 
 <ul class="actionMenu deactivated" id="portal-personaltools"><li id="anon-personalbar">
     
-        <a href="http://sjoseph.ucdavis.edu/caslogin?passback=http://sjoseph.ucdavis.edu/arab-families-working-group-1/about-us/about-us/document_view" id="personaltools-CAS login">CAS Log In</a>
+        <a href="http://sjoseph.ucdavis.edu/caslogin?passback=http://sjoseph.ucdavis.edu/arab-families-working-group-1/about/about-us/about-us/document_view" id="personaltools-CAS login">CAS Log In</a>
     
   </li>
 </ul></div>
                         </div>
                     </div>
-                    <div class="nav-wrapper">
-                        <div class="nav_center_block">
-                            <!--<a href="" title="Home" class="portal-logo">
-                                <img width="348" height="99" src="images/logo.png" />
-                            </a> -->
-                            <ul id="theme-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://sjoseph.ucdavis.edu" class="plain" title="">Home</a></li><li id="portaltab-ewic" class="plain"><a href="http://sjoseph.ucdavis.edu/ewic" class="plain" title="Encyclopedia of Women and Islamic Cultures">Encyclopedia of Women and Islamic Cultures</a>
-                <ul class="submenu"><li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/overview.htm" class="state-published" title="">
-            
-            EWIC: Volumes and Supplements
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-editors" class="state-published" title="">
-            
-            EWIC Editors
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview" class="state-published hasDropDown" title="">
-            
-            EWIC Preview
-        </a>
-
-        <ul class="submenu navTree navTreeLevel1"><li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview/EWIC_Preview.htm" class="state-published" title="">
-            
-            Encyclopedia of Women and Islamic Cultures: Previews
-        </a>
-
-        
-    
-</li>
-
-
-
-
-        </ul></li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-arabic-translation" class="state-published" title="">
-            
-            EWIC Arabic Translation
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/Images_Homepage/old-plone-logos/bibliography.pdf" class="state-published" title="">
-            
-            EWIC Bibliography
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database" class="state-published hasDropDown" title="">
-            
-            EWIC Scholars Database
-        </a>
-
-        <ul class="submenu navTree navTreeLevel1"><li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database/viewScholar" class="state-published" title="">
-            
-            Search Results
-        </a>
-
-        
-    
-</li>
-
-
-
-
-        </ul></li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/the-scholars-and-scholarship-project" class="state-published" title="">
-            
-            The Scholars and Scholarship Project
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-reviews" class="state-published" title="">
-            
-            EWIC Reviews
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-author-guidelines" class="state-published" title="">
-            
-            EWIC Author Guidelines
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/carousel" class="state-published" title="">
-            
-            EWIC Home Slideshow
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-public-outreach-resources" class="state-published" title="">
-            
-            EWIC Outreach Project
-        </a>
-
-        
-    
-</li>
-                </ul></li><li id="portaltab-arab-families-working-group-1" class="selected"><a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1" class="plain" title="">Arab Families Working Group</a>
+                    <div class="trigger-box">
+                        <input id="nav-trigger" type="checkbox" /><div class="nav-wrapper" data-slid="slidout">
+                            <label for="nav-trigger" class="nohighlight fa fa-4x fa-angle-double-left" aria-hidden="true"></label>
+                            
+                            <div class="nav_center_block">
+                                <!--<a href="" title="Home" class="portal-logo">
+                                    <img width="348" height="99" src="images/logo.png" />
+                                </a> -->
+                                <ul id="theme-globalnav"><li id="portaltab-index_html" class="plain"><a href="http://sjoseph.ucdavis.edu" class="plain" title="">Home</a></li><li id="portaltab-arab-families-working-group-1" class="selected"><a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1" class="plain" title="">Arab Families Working Group</a>
                 <ul class="submenu"><li>
 
     
@@ -432,20 +254,6 @@
         <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/research-design-and-proposal-writing-resources" class="state-published" title="">
             
             Research Design and Proposal Writing Resources
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/arab-families-working-group-1/training/training-to-engaged-research-october-2014/view" class="state-missing-value" title="">
-            
-            Training to Engaged Research October 2014
         </a>
 
         
@@ -834,7 +642,7 @@
         
     
 </li>
-                </ul></li><li id="portaltab-media-project" class="plain"><a href="http://sjoseph.ucdavis.edu/media-project" class="plain" title="">Media Project</a></li><li id="portaltab-bcbcb" class="plain"><a href="http://sjoseph.ucdavis.edu/bcbcb" class="plain" title="">BCBCB Consortium</a>
+                </ul></li><li id="portaltab-bcbcb" class="plain"><a href="http://sjoseph.ucdavis.edu/bcbcb" class="plain" title="">BCBCB Consortium</a>
                 <ul class="submenu"><li>
 
     
@@ -1183,79 +991,51 @@
 
 
         </ul></li>
-                </ul></li><li id="portaltab-workshops" class="plain"><a href="http://sjoseph.ucdavis.edu/workshops" class="plain" title="">Proposal Writing Workshops and Resources</a>
+                </ul></li><li id="portaltab-ewic" class="plain"><a href="http://sjoseph.ucdavis.edu/ewic" class="plain" title="Encyclopedia of Women and Islamic Cultures">Encyclopedia of Women and Islamic Cultures</a>
                 <ul class="submenu"><li>
 
     
 
-        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops" class="state-published hasDropDown" title="">
+        <a href="http://sjoseph.ucdavis.edu/ewic/overview.htm" class="state-published" title="">
             
-            All Workshops
+            EWIC: Volumes and Supplements
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-editors" class="state-published" title="">
+            
+            EWIC Editors
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview" class="state-published hasDropDown" title="">
+            
+            EWIC Preview
         </a>
 
         <ul class="submenu navTree navTreeLevel1"><li>
 
     
 
-        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/acss-workshops" class="state-published" title="">
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-preview/EWIC_Preview.htm" class="state-published" title="">
             
-            ACSS Workshops
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/test" class="state-published" title="">
-            
-            AFWG Workshops
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/faculty-proposal-workshops" class="state-published" title="">
-            
-            Faculty Workshops
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/graduate-proposal-workshops" class="state-published" title="">
-            
-            Graduate Workshops
-        </a>
-
-        
-    
-</li>
-
-
-<li>
-
-    
-
-        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/trgr" class="state-published" title="">
-            
-            OSF Workshops
+            Encyclopedia of Women and Islamic Cultures: Previews
         </a>
 
         
@@ -1272,9 +1052,121 @@
 
     
 
-        <a href="http://sjoseph.ucdavis.edu/workshops/proposal-writing-resources" class="state-published" title="">
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-arabic-translation" class="state-published" title="">
             
-            Proposal Writing Resources
+            EWIC Arabic Translation
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/Images_Homepage/old-plone-logos/bibliography.pdf" class="state-published" title="">
+            
+            EWIC Bibliography
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database" class="state-published hasDropDown" title="">
+            
+            EWIC Scholars Database
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-scholars-database/viewScholar" class="state-published" title="">
+            
+            Search Results
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/the-scholars-and-scholarship-project" class="state-published" title="">
+            
+            The Scholars and Scholarship Project
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-reviews" class="state-published" title="">
+            
+            EWIC Reviews
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-author-guidelines" class="state-published" title="">
+            
+            EWIC Author Guidelines
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/carousel" class="state-published" title="">
+            
+            EWIC Home Slideshow
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/ewic/ewic-public-outreach-resources" class="state-published" title="">
+            
+            EWIC Outreach Project
         </a>
 
         
@@ -1432,7 +1324,105 @@
         
     
 </li>
-                </ul></li></ul></div>
+                </ul></li><li id="portaltab-workshops" class="plain"><a href="http://sjoseph.ucdavis.edu/workshops" class="plain" title="">Proposal Writing Workshops and Resources</a>
+                <ul class="submenu"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops" class="state-published hasDropDown" title="">
+            
+            All Workshops
+        </a>
+
+        <ul class="submenu navTree navTreeLevel1"><li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/acss-workshops" class="state-published" title="">
+            
+            ACSS Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/test" class="state-published" title="">
+            
+            AFWG Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/faculty-proposal-workshops" class="state-published" title="">
+            
+            Faculty Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/graduate-proposal-workshops" class="state-published" title="">
+            
+            Graduate Workshops
+        </a>
+
+        
+    
+</li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/all-workshops/trgr" class="state-published" title="">
+            
+            OSF Workshops
+        </a>
+
+        
+    
+</li>
+
+
+
+
+        </ul></li>
+
+
+<li>
+
+    
+
+        <a href="http://sjoseph.ucdavis.edu/workshops/proposal-writing-resources" class="state-published" title="">
+            
+            Proposal Writing Resources
+        </a>
+
+        
+    
+</li>
+                </ul></li><li id="portaltab-media-project" class="plain"><a href="http://sjoseph.ucdavis.edu/media-project" class="plain" title="">Media Project</a></li><li id="portaltab-me-sa-seminar" class="plain"><a href="http://sjoseph.ucdavis.edu/me-sa-seminar" class="plain" title="">ME/SA Seminar</a></li></ul></div>
+                        </div>
                     </div>
                     <!-- <div class="top-image">
                         <a href="." title="Home" class="portal-logo">
@@ -1519,11 +1509,6 @@ are here:</span>
 
                              </div></div>
                     <div id="viewlet-below-content">
-
-
-
-
-
 
 <div id="portlets-below" class="row">
      

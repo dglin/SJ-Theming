@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8" >
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>UC Davis CAS &#8211; Central Authentication Service</title>
+  <link rel="icon" href="favicon.ico" type="image/x-icon" >
+  <link rel="stylesheet" href="/cas/themes/ucdavis/production/css/sso.css" />
+  </head>
+<body>
+  <div id="wrapper">
+      <div id="header" class="margins">
+        <img src="themes/ucdavis/images/ucdavis_logo.png" alt="University of California, Davis" >
+         <h1>Central Authentication Service (CAS)</h1>
+      </div>
+
+<div id="article" class="margins">
+
+	<div id="testServerMsg" style="display:none;"></div>
+
+	<div id="cookiesDisabled" class="errors" style="display: none;"></div>
+
+	<div id="emailAddressTyped" style="display: none;"></div>
+	<form id="fm1" action="/cas/login?service=http%3A//sjoseph.ucdavis.edu/media-project/muslim-women-in-the-new-york-times-1980-2011-liberalism-feminism-and-racism/document_view%3F" method="post" onsubmit="checkSubmitUsername(event);"><div class="form-element-wrapper">
+			<label for="username">Username:</label>
+			<input id="username" name="username" class="form-element form-field required" onkeyup="checkUsername(event);" spellcheck="false" type="text" value="" size="25"/></div>
+
+		<div class="form-element-wrapper">
+			<label for="password">Passphrase:</label>
+			<input id="password" name="password" class="form-element form-field required" onkeypress="checkCapsLock(event);" spellcheck="false" type="password" value="" size="25"/><span id="capslock-on" style="display: none;">
+				<img src="images/warning.png" alt="Warning">
+				CAPSLOCK key is turned on!</span>
+		</div>
+
+		<div class="form-element-wrapper">
+			<input type="hidden" name="execution" value="11bd6b46-83d1-4e08-b3eb-e1d3a8d399ea_ZXlKaGJHY2lPaUpJVXpVeE1pSjkuYkdOSlFWRXlNbk5KVkRKNkswWm5VMmhNUVdwdVdFcFdjSGxTYW1aNmRXUmpUVlpWYmxsdldHWjFlRUptVkdWNGQzUkRkQzl1UlZSUVMwRkhXRGhrWkV4SGRFMVFPRXRhYVZsRVlWZGplbEZUTUdSU1ZVVk5RamRpTkRoNGJHRkdRbFIzVkRoSVEycExZelZTZDBSNVRXVkVURXRPU25jelYwbDBVVlJNVVVSSlRFTXdVa1ZwYlhBM1R6WXZhRUpLYlhGaU1HaHJRVTF1V1hwUlprWlBOR3h6Y3pCclRqTldha0l4VWxFelJXUlFRWGRzTmtGcWJHWllhazlrTWpkQ2EwaEVTVWt2SzNjd01YcHVSVEppWkVwcGVFZFpZekl4ZUdodFNGVlRNemxGZW1zMWREQnZaMkpVVjJ0UGVGTmlOWGR4VFVOV1YyaFllRUZFVlZGbFpFMVVURkJKU3l0S1VVNXBaVkZ6SzNOdVNXcHlVek5STVRGa1JFcExRekptWlVKaE9FeFBhakF3UTJ4S01XVlFiMUZqZWpReVpHUnNRMHBpVG1KdVJreGtLMFJWU2sxU09Ea3pNbTk0WVVaTFZWZHJMM0pQVjJKc1NGWXJkVzR4YTI0NE9VZG1hRnBLV0dSMVFXWm1OM2N5Y1doelZHRnVNV3hqVjFwdldsaGtVVUYxY1RacE5GaEhkbmxqY0U5c1MyVmtSSFl6ZUdwQ01rb3JVa3c1S3pJclVISlNUVWxDVFd3MU9HVTNURVV4TjFOd016UlBUbmhpY21wT05VVmlibkJqTmpaRWFuWXdlRFp4VURJMFFtbG1OM1JQUVdOTVFrWm5MMjFyWldKc2JsaE9NMGRsYmxSSk1sSlVhR1kzYmpKbmFGbzJlVGhhUkhSRmFGZFVSamwxWnk5Mk9FUXlZMjU0TjBSaWJrTkpVbEpWVWpCNFpEZDZkSEZLT0VWQ2EyWXlXVWxVUWpFeFVHaEZUVkZZZUV4Q1F6TTFNVUUzYjJkMmEzZDJiMmx4YjJoQlIyNVpibkJ1WTFWT1NtSlRhQ3RwY21kVVJpOVBhRmx1YVRjMVlURkVXR3hhWVRCSU5uRkVTV2hhVEZoSFRXTmhUREJoZDJaQ2QweExTelJSTmpkcVNYZHVSMWdyUTNNMFJYY3JVREp0Y21zMmN6VjVORVJoYVhjeWFsVjNTVzgxZERSTVoyUm1hbThyYlZCek5VMTVUbVF4WkVwb2FUWm9Ua0pOVG0xcVNYazBSMHhTTldGRWVsQk9NRFpzYm5obVpYSlVaMEZEZDFGRGVuUjZjMVZqTmtSalUzQm9SeXRvYlZGUVIwNUhUbTVqY1hwSVpXb3hNMHQ0ZWpkNVUyRlJTbEo1Umsxc2FqaERTa1I0TDI1d01XRjZNaTl6Y3pOT1ZERmhTMFZ3VXpodFkxTTBNR3BoTmtvd1Ywd3hWbVZqUWtSNVpYUTJlR0ZoUVRaSldERlpiRGhPU1VkSFptdFhWSEI0TXpsWVdYZzBWbk4wWjBWSFNqUlVXVWd6TjFWbVV6bHdMMGQyV0RsR0sxcDFSVkpVTHlzeWFtNTZia05rYjIxUGFrbEhSQzgwTm1oa05rbDNVVFpRU1dobGQwWnNXRk00Y0ZRd1ZUQnNOblZDVFVKV2QzUlpWelJUVlc1YU16aENVRTl6THk5VGRYWkdVMmxpVW5wV0sxQjViVmswU1c1cVRUTXdkMDFvYzA5d1FuRnBZMk52Tm5WUVJTOVJNemxqVkhSb2JWQjVVbmt3YlhRd1ZrUjFhV3d3WVVSVVQzaFdXa1ZDTTNFNGFUVlBZekI0SzA0MVpGRTNlVXhDVlZWQ2NEbFFPRWhwYXpreFN6WTNNMmhVV25aSU1UbHFRMFZhZURWT1VrSTVjVXBvTlRkUFVVbEhWbFJHYWs0d2VYTnBkR3BOZG5CSGFtZzNLemRLTVd4MFRrY3ZSRk4xV1VaMVdYTkRkVEJVYlU1UGRsaG5SSEJWVDJWeWVtcHJObVpKSzBoWk5rVjVPRkozY2xSelRtdGxZbkZzUkhSSGEya3pZbUY1TW0wMVJEaDRibk5wTTBSblkzTjJTR0pDT1VOaVdVdGxhRmRCUnpGdmFIaFJUbXRGUTA5RFRFRjJXa0ZST0RGTU9FaEZSV0p0TjNWNU5WUTJUMjFOVmtKRVdIZHFhMEk1VFV4SUszbGtjR2hTUm0xdlUwZEVlbmh5ZEd3dmVqZDROV3h4TURGVkwwTk9TbVpwTlVjNEswRXZNbk5OV2tSRmRsUjNhRzF3ZEdSMFUzRndkRGd2TkdWVlVrczRiM1ZWY21OVGJEaFFUVkkwTmxwUk9VaG5OMlZqYkhWcll5OVZXa3A0WWpKd1lXdEtVbUkwUmxSMk1WcEtkRkppY1U1dmREZGlNRmh6TWxSeVppOVlWMDU2TmpOd2RERlBjVUkwV0RjeFNFdHhiRzVDTjB0dlMzTjJZaXMyU2xnNU5qaE1lbFpYTml0R2VVcEpUamsyUWxGQ1NuVlVaMUpzVUVReVprWnFXbTUxYkUxWFVsQjVkVlE1ZUhWYVNWTmxaekV5YjFWV09Xb3lSM1pVUVVkdFNqUTNTVUZGUXpsUGFXbEJRVVpsWlZacGVtaHVlV2RvYjFSMmJtdENhVnBxTkVkR1VUaGhZM1JGTkZaME1rMU1XbEI0TkRjeVpHWkZVMlJzY1ZBMFdXTm1kU3RwZW5OWlVEaEdPVWRZUkRsdWFFaENPRWRDVVhGdWJEa3JTRXhxV1hKVGVFSlZjV0V3YjBWT1VuUk1WVnBVYVRKMWF6UnpTekJYVUhoVGNtcEpjMjQwU25aTGVUWllOM1ZxYWxSRlMyNTFjelpNVTNOTGJtTTRkM1JSTldGaVNFUlZPRXhxZDNWRGNXZ3JiQzl1WkRaVmRrbzFhM0ZwVjNwYVRtazVaR1JUUjJaTGJEVTNVMGN5ZDJsYVMxVlRWV3Q2ZG5kNVJYRXhRV3RzWTAxWk9GcG5SWFZpU2pkSmVYSmpSakpDVTJwUUwxRlNNMDFZY21WMWNVZHBWbmw1UVhGcmRrODBjM0pWUmxCTGF6ZDBXbEJ5U0hsdlprNDJRV3BHUTA1Q1pFb3hjelZVUWpsMGNHRlhkMWN4V1daTk0yUnRTSFZsVDA1QllpdFJOWHBYT1VsdUsxQjZjamhGUjBwS2VqQklTRTAyWW0wclRtWjZaVmMxU2xoRmJFcFBaMm94U3l0WFpGVmhVV1ZwVEhRelpsQnZhRkJyU2taYWNESkNaQzlYYzBNeGNUTmpRVVJMUVU5ak9GZ3hhMUZEUzFCeVYzSlJVQzh2VEhBd2FuZEJaMHAxVEV0T2VqaGxPR3RMUzJwb0sydFZOWGRxUkRkRWFVOWhSRE15U21KSGFVUjFXR3RuYWtod2JTdFJhVlJwYm5wTU5rMTBiMGxGUkVScE1VOTBNVEE1VG1WNGRGcEplbVpEZEVWclEwdzVabUZrU1d0SU5Vb3ZNRE5WYlZwaGIwVm5WSFo0WjBwMlNXZHZOVnBsUTNneFkxQnplRk51TTNOeFoxRmlTMk5yTlhZNGJVWXhXVVpMUlZCMFVtSkpNMFpPYTI5SlNsVjNNRTlJY1hCR0wxWndUblUxYlV3dmJtaDZkblJXVnk5bFpqTlVWM0poWjFKdE1ETklRakJsWW1WbllsRnNjSHBNVTFKd1VXODFkakJQTWtGS1UzRkNkM01yTldsQllrUkVWbU5RYjFCSmFYTTJRekI1VjJnMGNEZGtSVzB6YW5vdlpqRm5jMnRHZGxnM1NIVTRMMHRrYTNrMVptbHhSRmhaT0hKaWNFZHhkVlp2V0RCMGJuUTJaVlpHVEV4UE5sTkVRVGh2ZW1GbE1XbEpOMkYxYW1wVGExUm5aWGxVTlRreFJVWnFTbUZzTUdGc2NuVlhjMmg2TlU1amJFMW1hR1l5VGtRMllUbG9aVGx6TDFWaWVERXpkalJuZGtKaFZUSTJhelZZYTNsb1dVd3pNWGRISzJNdmJXVnBkalJ4VTBsUlFqUmtTM3B6VDJaVE5WWm5VWFk0ZURWYU1GaE5aMFJOUlhSWlMweHVRVEpVV0RaelJYVlljV2gzTWtGRGRWRlZLM2g2UVVwSlZXaEJSVXd3VkZoMVoycEJOemRxYTNwc2J6VnNaMjlXT1Vsak1VTm5TMnBTYURCamFrTXpSa2RMWVdOUGVIYzNSelo2U1d4MlZHcGtSMGxIUmxJNE1Ib3pjV05JZWt4elFXeEZTVGRuZGtoWFJTdEVhRVJMUlhaNVNsQm5XRTR3ZURSRlVHWTRjR2t6U1VKMU5FdExLMFpGVURNclVtNHdlbGhRTVdaTVEzVmpRVmx1VFVFNFVFc3pNVGhzV0VWQ01ucFhiVkF3WTBKbUwzbG5OVWRGU2xoVlpHdzVjSFZOUXpKRWRISjVaMDFXYlhkbWMweElTMHg2UkdGdWRVSTBlVmt3ZDBwMmF6Qm5abXA1THpGa1ZreFRWMEpEZFZSMFdEUXhaazlDVGpoQlkyNWpXRTUxTlRkRlpsTTRjemxvUzBaRVlVaDNOMU5hZEVWcldtNHZRVFZGVjI5Wk9EZFJXRUpOTnpFelRUbE9VMFJKZEd0Wk5rSm9kVGRGYmtWdGFDOURRbTlwWkcwMlQwTkJaVGRaTm01cE5YZHFXa0ZEVEhac1dsWnRNMHR5VkROaVkxTkxZbTltVmpkR1RXTXpSMlJ3Y0ROSVp6WmlaM1JKYnpOeE1tVTNPRGxMVjNGWlp6ZEhVMmM0TUZveVdGRnhVbkpIZUUxTmRWSlplbVJLVEdaSFV6RjBXRXd4V2poV1RWaFlOVFUxZVVWV1pUZE1WblJYYVRWeGNsVjFaa2d3VEcxNGJsZG5WVmRuWTJKcGJXd3JkRWhwTm05NlJsZHBWV2g0SzNRdlUwNVBZMDAxVjFobGNUWnVWbE4zWjFjd2JWZ3JOWFJHWjJaQ2QwWTNialpWU0VSNE1rcHpUV0ZyV1RrdmMyazJVeTk2U2t0RmIxazJWbXMxSzJGQlBUMC4xR0pBZ1EwX2Y1U2hQTDhrTjB3MTNXZzdJUFh0cDNNTF9sUXd0eElCNXo2SXZ0RHdhaWVZTEtrSHhCZmppMG5ENDhBWUk4cnVENDg1R04wam9vYTZBUQ==">
+			<input type="hidden" name="_eventId" value="submit">
+			<input class="form-element form-button" name="submit" id="submit"
+				value="LOGIN"
+				type="submit" >
+		</div>
+	</form><div>
+		<a
+				href="https://ucdavisit.service-now.com/ess/knowledge_detail.do?sysparm_article=KB0000196">Need Help?</a>
+	</div>
+
+</div>
+
+<div id="footer" class="margins">
+	<p>
+		Protect your campus computing account login ID and passphrase. Use them only for campus websites and campus online services.</p>
+	<p>
+		<span class="emphasized">UC Davis will never ask you to provide your passphrase via phone or email.</span> A message that asks you to is probably a <span style="font-style:italic;">phishing scam</span>. Delete it without responding.</p>
+	<p>
+		<span class="emphasized">Be extremely wary</span> of messages that ask you to enter your passphrase into a non-UC Davis website. If you have doubts about a message or website, or think you have been tricked into submitting your passphrase or personal information, call the IT Express Computing Services Help Desk at 530-754-HELP (4357).</p>
+	<p>
+		Copyright &copy; Regents of the University of California, Davis campus. All Rights Reserved.</p>
+</div>
+
+</div> <script type="text/javascript" src="/cas/themes/ucdavis/js/cas_no_jquery.js"></script>
+<script type="text/javascript" src="/cas/themes/ucdavis/production/js/cas_no_jquery.js"></script>
+
+<script type="application/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-4670080-6']);
+_gaq.push(['_trackPageview']);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'application/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>
+
