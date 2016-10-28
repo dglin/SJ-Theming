@@ -163,6 +163,10 @@ label {
   z-index: 2;
 }
 .nav-wrapper {
+  display: flex;
+  align-content: space-around;
+  flex-direction: row-reverse;
+  min-height: 20em;
   width: 100%;
 }
 #content li,
@@ -210,6 +214,13 @@ dl.portlet li,
   padding: 0;
   margin: 0;
   width: 0;
+}
+.nohighlight {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
 }
 /************grid***********/
 div.width-full {
@@ -392,7 +403,42 @@ div.position-0 {
   white-space: nowrap;
   margin: 0;
 }
+.chevron::before {
+	border-style: solid;
+	border-width: 0.25em 0.25em 0 0;
+	content: '';
+	display: inline-block;
+	position: relative;
+	height: 2em;
+	width: 2em;
+	top: 8em;
+	transform: rotate(-45deg);
+	vertical-align: center;
+}
+
+.chevron.right:before {
+	right: .5em;
+	transform: rotate(45deg);
+}
+
+.chevron.left:before {
+	left: .5em;
+	transform: rotate(-135deg);
+}
 /*****navigation****/
+#nav-trigger {
+    display: none;
+}
+
+label[for="nav-trigger"] {
+	background-color: transparent;
+}
+
+label[for="nav-trigger"]:hover {
+    color: #127a89;
+    cursor: pointer;
+}
+
 .top-image {
   margin-top: 66px;
 }
@@ -549,14 +595,16 @@ div.position-0 {
   z-index: 10;
   max-width: 80%;
   margin: 0 auto;
+  float: left;
+	-webkit-transition: width 2s;
+    transition: width 2s;
 }
 .nav_center_block .portal-logo {
   opacity: 0;
 }
 .nav-wrapper.fixed {
   position: fixed;
-  top: 0;
-  z-index: 1;
+  z-index: 999999;
 }
 .nav-wrapper.fixed #theme-globalnav {
   text-align: left;

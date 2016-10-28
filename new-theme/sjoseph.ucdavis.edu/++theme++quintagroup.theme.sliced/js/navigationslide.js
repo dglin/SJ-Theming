@@ -1,66 +1,41 @@
-$(document).ready(function(){
-
-//    function onStart() {
-//        var leftMargin = (960 - $('#theme-globalnav').width())/2,
-//            logoWidth = $('.nav-wrapper .portal-logo').width();
-//        if ($(window).width() > 767) {
-//            if ($('.top-image .portal-logo').css('display') == 'none' ) { 
-//                if (logoWidth > leftMargin ) {
-//                    $('#theme-globalnav').css({'margin-left': logoWidth });  
-//                } else {
-//                    $('#theme-globalnav').css({'margin' : '0 auto' });  
-//                }
-//            } else {
-//                $('#theme-globalnav').css({'margin-left': leftMargin});
-//            }
-//        }
-//    }
-//    function calculateMargin () {
-//        var leftMargin = (960 - $('#theme-globalnav').width())/2,
-//            logoWidth = $('.nav-wrapper .portal-logo').width();
-//        if ($(window).width() > 767) {
-//            $(window).bind('scroll', function() {   
-//                var topHeight = $(".top-block").height(),
-//                    logoWidth = $('.nav-wrapper .portal-logo').width();
-//
-//                if ($('.top-image .portal-logo').css('display') !== 'none' ) { 
-//                   if ($(window).scrollTop() > topHeight) {
-//                        if (logoWidth > leftMargin ) {
-//                            $('#theme-globalnav').css({'margin-left': logoWidth });  
-//                            }
-//                    } else {
-//                        $('#theme-globalnav').css({ 'margin-left': leftMargin });
-//                    }
-//                }
-//            });
-//        }    
-//    }
+$(document).ready(function(){	
     $(window).resize(function() {
-        if ($(window).width() > 767) {
-            //onStart();
-
-//             calculateMargin();
-        } else {
-            $('#theme-globalnav').css({ 'margin-left': "auto" });
+        if ($(window).width() <= 767) {
+			$('#theme-globalnav').css({ 'margin-left': "auto" });
         }
     });
-    $(window).bind('scroll', function() {   
-        var topHeight = $(".top-block").height();
-
-        if ($(window).width() > 767) {
-            if ($(window).scrollTop() > topHeight) {
-                $('.nav-wrapper').wrap('<div class="nav-placeholder"></div>');
-                $('.nav-placeholder').height($('.nav-wrapper').outerHeight());
-                $('.nav-wrapper').addClass('fixed');
-                $('.nav-wrapper.fixed .portal-logo').css({'opacity':'1'}); 
-            } else {
-                $('.nav-wrapper').removeClass('fixed');
-                $('.nav-wrapper .portal-logo').css({'opacity':'0'});
-                }
-            }  
+	$(window).bind('scroll', function() {
+		$('.nav-wrapper').addClass('fixed');
+	});
+	
+    $('label[for="nav-trigger"]').bind('click', function() {
+		var wrapper = $('.nav-wrapper');
+		var themenav = $('#theme-globalnav');
+		var label = $('label[for="nav-trigger"]');
+		if (wrapper.attr('data-slid') === "slidout") {
+			if($('.placeholder').length <= 0) {
+				wrapper.wrap("<div class='placeholder'></div>");
+				$('.placeholder').height(wrapper.height());
+			}
+			label.removeClass('left');
+			label.addClass('right');
+			wrapper.addClass('fixed');
+			themenav.animate({marginLeft: "-120em"}, 100); // TODO: Animate opacity to 0
+			wrapper.animate({width: "3em"}, 500);
+			$('.placeholder').animate({height: "0"}, 500).promise().done(function() {
+				wrapper.attr('data-slid', 'slidin');
+			});
+		} else if (wrapper.attr('data-slid') === "slidin") { // TODO: If scrollTop is zero, then animate placeholder
+			label.removeClass('right');						 // 	  back out to full width.
+			label.addClass('left');
+			if ($(window).scrollTop() == 0) {
+				$('.placeholder').animate({height: wrapper.height()}, 500);
+			}
+			wrapper.animate({width: "100%"}, 500); // TODO: Animate opacity to 100
+			themenav.animate({marginLeft: 0}, 100).promise().done(function() {
+				wrapper.attr('data-slid', 'slidout');
+			});
+			
+		}
     });
-    //onStart();
-
-
-//     calculateMargin();
 });
