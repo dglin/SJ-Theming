@@ -7,9 +7,9 @@
 }
 /********color and fonts******/
 ul.submenu {
-    word-wrap: break-word;
-    max-height: 500px;
-    overflow-y: auto;
+	word-wrap: break-word;
+	max-height: 500px;
+	overflow-y: auto;
 }
 
 #content h1.documentFirstHeading {
@@ -3440,6 +3440,3 @@ dl.portlet ul.social-icons a:hover,
   display: block;
   margin: 0 auto;
 }
-
-
-
