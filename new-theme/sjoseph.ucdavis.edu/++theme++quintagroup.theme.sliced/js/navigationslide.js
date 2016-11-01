@@ -1,4 +1,4 @@
-$(document).ready(function(){    
+$(document).ready(function(){
     $(window).resize(function() {
         if ($(window).width() <= 767) {
 			$('#theme-globalnav').css({ 'margin-left': "auto" });
@@ -7,7 +7,7 @@ $(document).ready(function(){
 	$(window).bind('scroll', function() {
 		$('.nav-wrapper').addClass('fixed');
 	});
-	
+
     $('label[for="nav-trigger"]').bind('click', function() {
 		var wrapper = $('.nav-wrapper');
 		var themenav = $('#theme-globalnav');
@@ -23,7 +23,7 @@ $(document).ready(function(){
             label.addClass('fa-angle-double-right')
 			wrapper.addClass('fixed');
 			themenav.animate({marginLeft: "-120em"}, 100); // TODO: Animate opacity to 0
-			wrapper.animate({width: "3em"}, 500);
+			wrapper.animate({width: "5em"}, 500);
 			$('.placeholder').animate({height: "0"}, 500).promise().done(function() {
 				wrapper.attr('data-slid', 'slidin');
 			});
@@ -39,7 +39,7 @@ $(document).ready(function(){
 			themenav.animate({marginLeft: 0}, 100).promise().done(function() {
 				wrapper.attr('data-slid', 'slidout');
 			});
-			
+
 		}
     });
 });
