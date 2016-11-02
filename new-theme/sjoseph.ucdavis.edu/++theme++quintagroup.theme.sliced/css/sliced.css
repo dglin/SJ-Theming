@@ -30,6 +30,7 @@ body {
   background: #f0f0f0;
   float: left;
   width: 100%;
+	overflow-x: hidden;
 }
 .main-section,
 .panel-above-content,
@@ -172,7 +173,6 @@ label {
   display: flex;
   align-content: space-around;
   flex-direction: row-reverse;
-  min-height: 20em;
   width: 100%;
 }
 #content li,
@@ -417,7 +417,6 @@ div.position-0 {
 	position: relative;
 	height: 2em;
 	width: 2em;
-	top: 8em;
 	transform: rotate(-45deg);
 	vertical-align: center;
 }
@@ -432,14 +431,17 @@ div.position-0 {
 	transform: rotate(-135deg);
 }
 /*****navigation****/
+.placeholder {
+	background-color: #f0f0f0
+}
+
 #nav-trigger {
     display: none;
 }
 
 label[for="nav-trigger"] {
 	background-color: transparent;
-    align-self: center;
-    margin-right:20px;
+	align-self: center;
 }
 
 label[for="nav-trigger"]:hover {
@@ -610,10 +612,15 @@ label[for="nav-trigger"]:hover {
 .nav_center_block .portal-logo {
   opacity: 0;
 }
-.nav-wrapper.fixed {
+.fixed {
   position: fixed;
   z-index: 999999;
 }
+
+.top {
+  top: 0;
+}
+
 .nav-wrapper.fixed #theme-globalnav {
   text-align: left;
 }
