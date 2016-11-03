@@ -27,7 +27,7 @@ ul.submenu {
 body {
   font: 14px/20px 'Arimo', sans-serif;
   color: #494949;
-  background: #f0f0f0;
+  background: #f0f0f0;	
   float: left;
   width: 100%;
 	overflow-x: hidden;
@@ -442,6 +442,10 @@ div.position-0 {
 label[for="nav-trigger"] {
 	background-color: transparent;
 	align-self: center;
+}
+
+label[for="nav-trigger"].harryPotter {
+	visibility: hidden;
 }
 
 label[for="nav-trigger"]:hover {

@@ -5,35 +5,39 @@ $(document).ready(function(){
         }
     });
 	
+	var isAnimating = false;
+
 	$(window).bind('scroll', function() {
-		var themenav = $('#them-globalnav');
+		var themenav = $('#theme-globalnav');
 		var wrapper = $('.nav-wrapper');
 		var top = $('.top-block');
+		var label = $('label[for="nav-trigger"]');
 		if($(window).scrollTop() > top.height()) {
 			if($('.placeholder').attr('class') != 'placeholder') {
 				createPlaceholder(wrapper);			
 			}
 			wrapper.addClass('fixed');
 			wrapper.addClass('top');
-		} else if(wrapper.attr('data-status') == "slidout") {
-			wrapper.removeClass('top');
+			if(wrapper.attr('data-status') == "slidout") {
+				animateIn(label, wrapper, themenav);
+				label.removeClass('harryPotter');
+			}
 		} else {
-			wrapper.removeClass('fixed');
+			if(wrapper.attr('data-status') == "slidin") {
+				wrapper.removeClass('fixed');
+				animateOut(label, wrapper, themenav);
+			}
 			wrapper.removeClass('top');
+			label.addClass('harryPotter');
 		}
 	});
 	
 	var animateOut = function(label, wrapper, themenav) {
+		wrapper.attr('data-status', 'slidout');
 		label.removeClass('right');
 		label.addClass('left');
-		if ($(window).scrollTop() == 0) {
-			$('.placeholder').animate({height: wrapper.height()}, 500);
-		}
 		wrapper.animate({width: "100%"}, 500); // TODO: Animate opacity to 100
-		themenav.animate({marginLeft: 0}, 100).promise().done(function() {
-			wrapper.attr('data-status', 'slidout');
-		});
-		
+		themenav.animate({marginLeft: 0}, 100);
 	}
 	
 	var createPlaceholder = function(wrapper) {
@@ -42,16 +46,13 @@ $(document).ready(function(){
 	}
 
 	var animateIn = function(label, wrapper, themenav) {
+		wrapper.attr('data-status', 'slidin');
 		createPlaceholder(wrapper);
 		label.removeClass('left');
 		label.addClass('right');
 		wrapper.addClass('fixed');
 		themenav.animate({marginLeft: "-120em"}, 100); // TODO: Animate opacity to 0
 		wrapper.animate({width: "3em"}, 500);
-		if ($(window).scrollTop() == 0) {
-			$('.placeholder').animate({height: "0"}, 500);
-		}
-		wrapper.attr('data-status', 'slidin');
 	}
 
     $('label[for="nav-trigger"]').bind('click', function() {
