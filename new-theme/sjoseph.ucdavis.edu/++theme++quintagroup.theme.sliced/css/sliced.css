@@ -156,7 +156,8 @@ label {
   outline: none;
 }
 #portal-top {
-  z-index: 4;
+  z-index: 9999;
+  position: fixed;
 }
 #portal-top #portal-header {
   z-index: 1;
