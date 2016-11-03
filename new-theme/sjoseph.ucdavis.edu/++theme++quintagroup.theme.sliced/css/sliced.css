@@ -7,7 +7,7 @@
 }
 /********color and fonts******/
 ul.submenu {
-	word-wrap: break-word;
+    word-wrap: break-word;
 	max-height: 500px;
 	overflow-y: auto;
 }
@@ -409,32 +409,7 @@ div.position-0 {
   white-space: nowrap;
   margin: 0;
 }
-.chevron::before {
-	border-style: solid;
-	border-width: 0.25em 0.25em 0 0;
-	content: '';
-	display: inline-block;
-	position: relative;
-	height: 2em;
-	width: 2em;
-	transform: rotate(-45deg);
-	vertical-align: center;
-}
-
-.chevron.right:before {
-	right: .5em;
-	transform: rotate(45deg);
-}
-
-.chevron.left:before {
-	left: .5em;
-	transform: rotate(-135deg);
-}
-/*****navigation****/
-.placeholder {
-	background-color: #f0f0f0
-}
-
+/*****navigation*****/
 #nav-trigger {
     display: none;
 }
@@ -451,6 +426,10 @@ label[for="nav-trigger"].harryPotter {
 label[for="nav-trigger"]:hover {
     color: #c00016;
     cursor: pointer;
+}
+
+.placeholder {
+	background-color: #f0f0f0;
 }
 
 .top-image {

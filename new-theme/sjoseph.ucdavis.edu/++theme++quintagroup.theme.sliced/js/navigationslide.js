@@ -1,11 +1,9 @@
 $(document).ready(function(){    
     $(window).resize(function() {
         if ($(window).width() <= 767) {
-			$('#theme-globalnav').css({ 'margin-left': "auto" });
+    		$('#theme-globalnav').css({ 'margin-left': "auto" });
         }
     });
-	
-	var isAnimating = false;
 
 	$(window).bind('scroll', function() {
 		var themenav = $('#theme-globalnav');
@@ -14,7 +12,8 @@ $(document).ready(function(){
 		var label = $('label[for="nav-trigger"]');
 		if($(window).scrollTop() > top.height()) {
 			if($('.placeholder').attr('class') != 'placeholder') {
-				createPlaceholder(wrapper);			
+				createPlaceholder(wrapper);
+				wrapper.css('max-height', "" + wrapper.height());
 			}
 			wrapper.addClass('fixed');
 			wrapper.addClass('top');
@@ -34,8 +33,8 @@ $(document).ready(function(){
 	
 	var animateOut = function(label, wrapper, themenav) {
 		wrapper.attr('data-status', 'slidout');
-		label.removeClass('right');
-		label.addClass('left');
+		label.removeClass('fa-angle-double-right');
+		label.addClass('fa-angle-double-left');
 		wrapper.animate({width: "100%"}, 500); // TODO: Animate opacity to 100
 		themenav.animate({marginLeft: 0}, 100);
 	}
@@ -48,8 +47,8 @@ $(document).ready(function(){
 	var animateIn = function(label, wrapper, themenav) {
 		wrapper.attr('data-status', 'slidin');
 		createPlaceholder(wrapper);
-		label.removeClass('left');
-		label.addClass('right');
+		label.removeClass('fa-angle-double-left');
+		label.addClass('fa-angle-double-right');
 		wrapper.addClass('fixed');
 		themenav.animate({marginLeft: "-120em"}, 100); // TODO: Animate opacity to 0
 		wrapper.animate({width: "3em"}, 500);
