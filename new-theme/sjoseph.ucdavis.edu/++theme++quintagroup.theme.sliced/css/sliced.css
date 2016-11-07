@@ -9,7 +9,7 @@
 ul.submenu {
     word-wrap: break-word;
 	max-height: 500px;
-	overflow-y: auto;
+	/*overflow-y: auto;*/
 }
 
 #content h1.documentFirstHeading {
@@ -157,7 +157,8 @@ label {
   outline: none;
 }
 #portal-top {
-  z-index: 4;
+  z-index: 9999;
+  position: fixed;
 }
 #portal-top #portal-header {
   z-index: 1;
