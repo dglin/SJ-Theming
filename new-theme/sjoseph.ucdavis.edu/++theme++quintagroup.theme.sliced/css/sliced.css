@@ -9,7 +9,7 @@
 ul.submenu {
     word-wrap: break-word;
 	max-height: 500px;
-	/*overflow-y: auto;*/
+	/*overflow-y: auto; */
 }
 
 #content h1.documentFirstHeading {
@@ -27,7 +27,7 @@ ul.submenu {
 body {
   font: 14px/20px 'Arimo', sans-serif;
   color: #494949;
-  background: #f0f0f0;	
+  background: #f0f0f0;
   float: left;
   width: 100%;
 	overflow-x: hidden;
@@ -157,8 +157,7 @@ label {
   outline: none;
 }
 #portal-top {
-  z-index: 9999;
-  position: fixed;
+  z-index: 4;
 }
 #portal-top #portal-header {
   z-index: 1;
