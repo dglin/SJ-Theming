@@ -1,16 +1,16 @@
 $(document).ready(function(){    
-    $(window).resize(function() {
-        if ($(window).width() <= 767) {
-    		$('#theme-globalnav').css({ 'margin-left': "auto" });
-        }
-    });
-
 	$(window).bind('scroll', function() {
 		var themenav = $('#theme-globalnav');
 		var wrapper = $('.nav-wrapper');
 		var top = $('.top-block');
 		var label = $('label[for="nav-trigger"]');
-		if($(window).scrollTop() > top.height()) {
+
+		var threshold = top.height();
+		if($(window).width() <= 480) {
+			threshold += wrapper.height();
+		}
+
+		if($(window).scrollTop() > threshold) {
 			if($('.placeholder').attr('class') != 'placeholder') {
 				createPlaceholder(wrapper);
 				wrapper.css('max-height', "" + wrapper.height());
@@ -32,17 +32,17 @@ $(document).ready(function(){
 	});
 	
 	var animateOut = function(label, wrapper, themenav) {
-		wrapper.attr('data-status', 'slidout');
+        wrapper.attr('data-status', 'slidout');
 		label.removeClass('fa-angle-double-right');
 		label.addClass('fa-angle-double-left');
-		wrapper.animate({width: "100%"}, 500); // TODO: Animate opacity to 100
+		wrapper.animate({width: "100%"}, 500);
 		themenav.animate({marginLeft: 0}, 100);
-	}
+	};
 	
 	var createPlaceholder = function(wrapper) {
 		wrapper.wrap("<div class='placeholder'></div>");
 		$('.placeholder').height(wrapper.height());
-	}
+	};
 
 	var animateIn = function(label, wrapper, themenav) {
 		wrapper.attr('data-status', 'slidin');
@@ -50,9 +50,9 @@ $(document).ready(function(){
 		label.removeClass('fa-angle-double-left');
 		label.addClass('fa-angle-double-right');
 		wrapper.addClass('fixed');
-		themenav.animate({marginLeft: "-120em"}, 100); // TODO: Animate opacity to 0
+		themenav.animate({marginLeft: "-" + $(window).width()}, 100);
 		wrapper.animate({width: "3em"}, 500);
-	}
+	};
 
     $('label[for="nav-trigger"]').bind('click', function() {
 		var wrapper = $('.nav-wrapper');
@@ -65,5 +65,5 @@ $(document).ready(function(){
 		}
     });
 	
-	$('.nav-wrapper').css('min-height', "" + $('#theme-globalnav').height());
+	$('.nav-wrapper').css('min-height', $('#theme-globalnav').height());
 });
