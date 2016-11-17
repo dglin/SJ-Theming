@@ -2482,6 +2482,9 @@ div.overlay #login-forgotten-password a:hover {
   color: #494949 !important;
 }
 /******navigation portlet******/
+#portaltab-research a { /**Make research tab non-clickable**/
+  pointer-events: none;
+}
 
 dl.portlet ul.navTree .navTreeCurrentItem {
   background-color: transparent;
