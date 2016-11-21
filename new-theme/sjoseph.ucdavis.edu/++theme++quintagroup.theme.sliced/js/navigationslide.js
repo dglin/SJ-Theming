@@ -11,22 +11,18 @@ $(document).ready(function () {
         }
 
         if ($(window).scrollTop() > threshold) {
-            if ($('.placeholder').attr('class') != 'placeholder') {
-                createPlaceholder(wrapper);
-                wrapper.css('max-height', "" + wrapper.height());
-            }
             wrapper.addClass('fixed');
             wrapper.addClass('top');
             if (!wrapper.is(":hover")) {
-                if (wrapper.attr('data-status') == "slidout") {
+                if (wrapper.attr('data-status') === "slidout") {
                     animateIn(label, wrapper, themenav);
                     label.removeClass('harryPotter');
                 }
             }
         } else {
-            if (wrapper.attr('data-status') == "slidin") {
-                wrapper.removeClass('fixed');
+            if (wrapper.attr('data-status') === "slidin") {
                 animateOut(label, wrapper, themenav);
+                wrapper.removeClass('fixed');
             }
             wrapper.removeClass('top');
             label.addClass('harryPotter');
@@ -44,11 +40,11 @@ $(document).ready(function () {
     var createPlaceholder = function (wrapper) {
         wrapper.wrap("<div class='placeholder'></div>");
         $('.placeholder').height(wrapper.height());
+        wrapper.css('max-height', "" + wrapper.height());
     };
 
     var animateIn = function (label, wrapper, themenav) {
         wrapper.attr('data-status', 'slidin');
-        createPlaceholder(wrapper);
         label.removeClass('fa-angle-double-left');
         label.addClass('fa-angle-double-right');
         wrapper.addClass('fixed');
@@ -68,4 +64,5 @@ $(document).ready(function () {
     });
 
     $('.nav-wrapper').css('min-height', $('#theme-globalnav').height());
+    createPlaceholder($('.nav-wrapper'));
 });
